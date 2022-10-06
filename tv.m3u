@@ -1,236 +1,265 @@
 #EXTM3U
-#EXTINF:-1 group-title="CANALES EN LATINO" tvg-logo="https://i.postimg.cc/VNc5XPhv/hn_a-e-mundo_m.png",A&E HD
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/34
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/6pPf7vwh/7-Pj-FLw-ZP-400x400.jpg",Afizzionados
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/37
-#EXTINF:-1 group-title="CANALES EN LATINO" tvg-logo="https://i.postimg.cc/13Ffg3Jb/IMV4Vz3l_400x400.jpg",AMC HD
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/35
-#EXTINF:-1 group-title="CANALES EN LATINO" tvg-logo="https://i.postimg.cc/W4MTVDXb/Animal_Planet_HD.svg.png",Animal Planet HD
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/96
-#EXTINF:-1 group-title="GUATEMALA",Aurora Media Films (TOT)
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/79
-#EXTINF:-1 group-title="CANALES EN LATINO" tvg-logo="https://i.postimg.cc/CL0TPfGx/co-axn-m.png",AXN HD
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/36
-#EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://i.postimg.cc/hthPxPMK/Azteca-Guate-2017.png",AZTECA 7 GUATE
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/31
-#EXTINF:-1 group-title="GUATEMALA",Barbetv canal 9 (SRO)
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/80
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/rpQcz6Xv/unnamed_(13).png",Bein Sports N
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/53
-#EXTINF:-1 group-title="GUATEMALA",Canal 100 tv Chinique (QUI)
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/71
-#EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://i.postimg.cc/fWjLQPJQ/gt-canal-11-guatemala-m.png",CANAL 11 GUATE
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/23
-#EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://i.postimg.cc/C5NLCRWx/gt-canal-13-guatemala-m.png",CANAL 13 GUATE
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/26
-#EXTINF:-1 group-title="GUATEMALA",Canal 25 Regional (SRO)
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/89
-#EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://i.postimg.cc/xThh6m5X/gt-canal-27-nacional-m.png",CANAL 27
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/62
-#EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://i.postimg.cc/qvt4qDMR/Canal-3-guat-1979.webp",CANAL 3 GUATE
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/27
-#EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://i.postimg.cc/J4z1V4fj/gt-canal-7-nacional-m.png",CANAL 7 GUATE
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/28
-#EXTINF:-1 group-title="GUATEMALA",Canal 8 (SRO)
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/77
-#EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://i.postimg.cc/ncFLF1Dj/canal-antigua-logo-1024x1024-1.png",CANAL ANTIGUA - GUATE
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/29
-#EXTINF:-1 group-title="GUATEMALA",Canal Peniel (HUE)
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/74
-#EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://i.postimg.cc/NG6RkJdP/descarga-17.jpg",CANAL TN 23 GUATE
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/32
-#EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://i.postimg.cc/T3V4YrMS/Claro.svg_(1).png",Claro Sports (GT) OP2
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/60
-#EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://i.postimg.cc/T3V4YrMS/Claro-svg-1.png",CLARO SPORTS HD GUATE
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/8
-#EXTINF:-1 group-title="CANALES EN LATINO" tvg-logo="https://i.postimg.cc/zf97CvrW/CNN_International_logo.svg.png",CNN en Espanol
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/95
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/m280QY6H/Direc-TV-Sports-Latin-America-2018.png",Directv Sports 1
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/11
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/m280QY6H/Direc-TV-Sports-Latin-America-2018.png",Directv Sports 2
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/12
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/m280QY6H/Direc-TV-Sports-Latin-America-2018.png",Directv Sports Plus
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/13
-#EXTINF:-1 group-title="CANALES EN LATINO" tvg-logo="https://i.postimg.cc/fTB34Pkg/gt-distrito-comedia-m.png",Distrito Comedia HD
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/22
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/zfn7k5Xc/1.png",ESPN 1 ARG
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/24
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/YSmZKJ26/i.png",Espn 1 Sur
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/43
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/7LvX7bDz/co-espn-2-m.png",Espn 2 ARG
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/25
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/YSmZKJ26/i.png",Espn 2 Sur
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/44
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/T2rxWW6V/ESPN-e1445469217998.png",ESPN 3 ARG
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/10
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/YSmZKJ26/i.png",Espn 3 Sur
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/45
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/T2rxWW6V/ESPN-e1445469217998.png",ESPN PLUS
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/14
-#EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://i.postimg.cc/W4GKMRHb/EXTV.png",EXPRESIÓN TV - SOLOLA
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/33
-#EXTINF:-1 group-title="GUATEMALA",Full Channel (SAC)
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/66
-#EXTINF:-1 group-title="CANALES EN LATINO" tvg-logo="https://i.postimg.cc/SsdXy1Ds/7c573548-9ffe-4bd8-9d3d-1503aa114c4c_m.jpg",FX HD
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/97
-#EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://i.postimg.cc/W4kNWWQK/descarga-1.png",GUATEVISION - GUATE
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/30
-#EXTINF:-1 group-title="GUATEMALA",Guatv (SOL)
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/68
-#EXTINF:-1 group-title="CANALES EN LATINO" tvg-logo="https://i.postimg.cc/FKTq2q6p/HBO.png",HBO 2 HD
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/16
-#EXTINF:-1 group-title="CANALES EN LATINO" tvg-logo="https://i.postimg.cc/Y9jVkRKH/FAMILY.png",HBO Family HD
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/17
-#EXTINF:-1 group-title="CANALES EN LATINO" tvg-logo="https://i.postimg.cc/FKTq2q6p/HBO.png",HBO HD
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/15
-#EXTINF:-1 group-title="CANALES EN LATINO" tvg-logo="https://i.postimg.cc/0jwBKNyX/PLUS.png",HBO Plus HD
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/18
-#EXTINF:-1 group-title="CANALES EN LATINO" tvg-logo="https://i.postimg.cc/6QWgbwMT/POP.png",HBO POP HD
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/21
-#EXTINF:-1 group-title="CANALES EN LATINO" tvg-logo="https://i.postimg.cc/HWcKh690/EXTREME.png",HBO Xtreme HD
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/20
-#EXTINF:-1 group-title="CANALES EN LATINO" tvg-logo="https://i.postimg.cc/Ss6sgTwd/ar_h2_m.png",HISTORY 2
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/99
-#EXTINF:-1 group-title="CANALES EN LATINO" tvg-logo="https://i.postimg.cc/VLYRB237/descarga_(13).png",History Channel HD
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/98
-#EXTINF:-1 group-title="GUATEMALA",Maxivisión (SAC)
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/83
-#EXTINF:-1 group-title="GUATEMALA",Mi Canal (GUA)
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/85
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/nVmYJntS/avatars-000712976110-cgdzcv-t500x500.jpg",Movistar Deportes
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/52
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/pTQ2DHFL/image.png",NFL Network |US|
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/51
-#EXTINF:-1 group-title="GUATEMALA",NimTv (SOL)
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/64
-#EXTINF:-1 group-title="GUATEMALA",Peniel Kids & Young (HUE)
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/75
-#EXTINF:-1 group-title="GUATEMALA",Peniel Musical (HUE)
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/76
-#EXTINF:-1 group-title="GUATEMALA",PlayMedios Tv (QUE)
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/72
-#EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://i.postimg.cc/Z5Ng2qsV/rhema-tv-9071-1.jpg",RHEMA TV
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/61
-#EXTINF:-1 group-title="GUATEMALA",SAS Tv (SUCH)
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/67
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/3x2ms15y/2560px-Sky-Sport-1-HD-Logo-2015-svg.png",Sky Sports 1
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/58
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/hPz9rg21/1280px-Sky-Sport-2-HD-Logo-2015-svg.png",Sky Sports 2
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/59
-#EXTINF:-1 group-title="CANALES EN LATINO" tvg-logo="https://i.postimg.cc/Y9TSqcQt/descarga_(5).png",Star Channel HD
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/100
-#EXTINF:-1 group-title="GUATEMALA",TDS (SOL)
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/82
-#EXTINF:-1 group-title="CANALES EN LATINO" tvg-logo="https://i.postimg.cc/MZsxzJbR/images-1.png",TELEMUNDO 1
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/39
-#EXTINF:-1 group-title="CANALES EN LATINO" tvg-logo="https://i.postimg.cc/MZsxzJbR/images-1.png",TELEMUNDO INTERNACIONAL
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/40
-#EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://i.postimg.cc/KzT2f1gy/TIGO.png",TIGO SPORTS HD GUATE
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/7
-#EXTINF:-1 group-title="CANALES EN LATINO" tvg-logo="https://i.postimg.cc/gJHzVwZB/mx_tlnovelas_m_(1).png",Tl Novelas SUR
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/54
-#EXTINF:-1 group-title="CANALES EN LATINO" tvg-logo="https://i.postimg.cc/cHcN2VTD/TNT_TV_logo.svg.png",TNT HD
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/41
-#EXTINF:-1 group-title="GUATEMALA",Totovisión (TOT)
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/65
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/mDBzWW3J/unnamed_(6).jpg",TUDN 1
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/49
-#EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://i.postimg.cc/VNVtMVXV/19907697-ico.png",TV GLOBO
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/1063
-#EXTINF:-1 group-title="GUATEMALA",TVS Retro (GUA)
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/84
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/sD7T5BDK/unnamed_(11).jpg",TYC SPORTS HD
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/46
-#EXTINF:-1 group-title="GUATEMALA",Unica Tv
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/90
-#EXTINF:-1 group-title="CANALES EN LATINO" tvg-logo="https://i.postimg.cc/CK1MGMNF/Universal_Channel_Logo_2013.svg.png",Universal Channel  HD
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/55
-#EXTINF:-1 group-title="CANALES EN LATINO" tvg-logo="https://i.postimg.cc/qqGn9xqV/cinema.png",Universal Cinema  HD
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/57
-#EXTINF:-1 group-title="CANALES EN LATINO" tvg-logo="https://i.postimg.cc/WpmMFTnW/crime.png",Universal Crime HD
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/56
-#EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://i.postimg.cc/tRh1CTvf/19852183-ico.png",VISIÓN TV - SOLOLA
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/63
-#EXTINF:-1 group-title="CANALES EN LATINO" tvg-logo="https://i.postimg.cc/FH6869vF/mx-warner-hd-m.png",WARNER HD
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/38
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/MHZWdW0Z/WinSports2017.png",Win Sports
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/47
-#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.postimg.cc/MHZWdW0Z/WinSports2017.png",Win Sports Plus
-#EXTVLCOPT:http-user-agent=TVGUATEAPP
-http://tvguatedigital.com:25461/TVGUATEAPP/TasuSN1GpH/48
+#EXTINF:-1 ,11 - Repretel
+http://45.228.232.204:16000/play/a054/index.m3u8
+#EXTINF:-1 ,13-Sinart
+http://45.228.232.204:16000/play/a03q/index.m3u8
+#EXTINF:-1 ,6 - Repretel
+http://45.228.232.204:16000/play/a052/index.m3u8
+#EXTINF:-1 ,A&E HD
+http://45.228.232.204:16000/play/a04c/index.m3u8
+#EXTINF:-1 ,AMC HD
+http://45.228.232.204:16000/play/a04d/index.m3u8
+#EXTINF:-1 ,Animal Planet HD
+http://45.228.232.204:16000/play/a049/index.m3u8
+#EXTINF:-1 ,Antena 3
+http://45.228.232.204:16000/play/a038/index.m3u8
+#EXTINF:-1 ,Antena 7- RD
+http://45.228.232.204:16000/play/a024/index.m3u8
+#EXTINF:-1 ,Atres Series
+http://45.228.232.204:16000/play/a03e/index.m3u8
+#EXTINF:-1 ,AXN HD
+http://45.228.232.204:16000/play/a07o/index.m3u8
+#EXTINF:-1 ,AZ click HD
+http://45.228.232.204:16000/play/a04j/index.m3u8
+#EXTINF:-1 ,Azcorazon
+http://45.228.232.204:16000/play/a02i/index.m3u8
+#EXTINF:-1 ,Azmundo
+http://45.228.232.204:16000/play/a067/index.m3u8
+#EXTINF:-1 ,Baby TV
+http://45.228.232.204:16000/play/a035/index.m3u8
+#EXTINF:-1 ,Canal 13 - PAN
+http://45.228.232.204:16000/play/a027/index.m3u8
+#EXTINF:-1 ,Canal 2 - PAN
+http://45.228.232.204:16000/play/a028/index.m3u8
+#EXTINF:-1 ,Canal 4 - PAN
+http://45.228.232.204:16000/play/a06t/index.m3u8
+#EXTINF:-1 ,Canal Antigua - GUA
+http://45.228.232.204:16000/play/a05s/index.m3u8
+#EXTINF:-1 ,Canal Azteca - GUA
+http://45.228.232.204:16000/play/a05t/index.m3u8
+#EXTINF:-1 ,Canal del Congreso
+http://45.228.232.204:16000/play/a032/index.m3u8
+#EXTINF:-1 ,Canal11-GUA
+http://45.228.232.204:16000/play/a04n/index.m3u8
+#EXTINF:-1 ,Canal13-GUA
+http://45.228.232.204:16000/play/a04m/index.m3u8
+#EXTINF:-1 ,Canal3-GUA
+http://45.228.232.204:16000/play/a05v/index.m3u8
+#EXTINF:-1 ,Canal7-GUA
+http://45.228.232.204:16000/play/a05u/index.m3u8
+#EXTINF:-1 ,CARTOON NT HD
+http://45.228.232.204:16000/play/a03y/index.m3u8
+#EXTINF:-1 ,Cartoonito
+http://45.228.232.204:16000/play/a02c/index.m3u8
+#EXTINF:-1 ,CDN2- RD
+http://45.228.232.204:16000/play/a04u/index.m3u8
+#EXTINF:-1 ,CERTV
+http://45.228.232.204:16000/play/a06p/index.m3u8
+#EXTINF:-1 ,Cine Latino
+http://45.228.232.204:16000/play/a07b/index.m3u8
+#EXTINF:-1 ,CINECANAL HD
+http://45.228.232.204:16000/play/a06o/index.m3u8
+#EXTINF:-1 ,CineMax
+http://45.228.232.204:16000/play/a07c/index.m3u8
+#EXTINF:-1 ,CNNE
+http://45.228.232.204:16000/play/a02u/index.m3u8
+#EXTINF:-1 ,DHE HD
+http://45.228.232.204:16000/play/a04i/index.m3u8
+#EXTINF:-1 ,Discovery Channel HD
+http://45.228.232.204:16000/play/a07y/index.m3u8
+#EXTINF:-1 ,Discovery Home & Health
+http://45.228.232.204:16000/play/a072/index.m3u8
+#EXTINF:-1 ,Discovery ID HD
+http://45.228.232.204:16000/play/a082/index.m3u8
+#EXTINF:-1 ,Discovery Kids HD
+http://45.228.232.204:16000/play/a03l/index.m3u8
+#EXTINF:-1 ,Discovery Science
+http://45.228.232.204:16000/play/a03b/index.m3u8
+#EXTINF:-1 ,Discovery Turbo
+http://45.228.232.204:16000/play/a071/index.m3u8
+#EXTINF:-1 ,Discovery World HD
+http://45.228.232.204:16000/play/a07z/index.m3u8
+#EXTINF:-1 ,Disney
+http://45.228.232.204:16000/play/a06z/index.m3u8
+#EXTINF:-1 ,Disney JR
+http://45.228.232.204:16000/play/a02d/index.m3u8
+#EXTINF:-1 ,E! Entertairment HD
+http://45.228.232.204:16000/play/a04a/index.m3u8
+#EXTINF:-1 ,El Gourmet
+http://45.228.232.204:16000/play/a05c/index.m3u8
+#EXTINF:-1 ,ESPN  +
+http://45.228.232.204:16000/play/a030/index.m3u8
+#EXTINF:-1 ,ESPN 2 HD
+http://45.228.232.204:16000/play/a07t/index.m3u8
+#EXTINF:-1 ,ESPN 3 HD
+http://45.228.232.204:16000/play/a07s/index.m3u8
+#EXTINF:-1 ,ESPN 4  HD
+http://45.228.232.204:16000/play/a07n/index.m3u8
+#EXTINF:-1 ,ESPN HD
+http://45.228.232.204:16000/play/a07r/index.m3u8
+#EXTINF:-1 ,EURO Channel
+http://45.228.232.204:16000/play/a05a/index.m3u8
+#EXTINF:-1 ,Europa HD
+http://45.228.232.204:16000/play/a04g/index.m3u8
+#EXTINF:-1 ,EWTN
+http://45.228.232.204:16000/play/a02y/index.m3u8
+#EXTINF:-1 ,Exa TV
+http://45.228.232.204:16000/play/a06j/index.m3u8
+#EXTINF:-1 ,Film & arts HD
+http://45.228.232.204:16000/play/a04b/index.m3u8
+#EXTINF:-1 ,FOX Sports 2
+http://45.228.232.204:16000/play/a05g/index.m3u8
+#EXTINF:-1 ,FOX SPORTS 3 HD
+http://45.228.232.204:16000/play/a07u/index.m3u8
+#EXTINF:-1 ,France24
+http://45.228.232.204:16000/play/a02w/index.m3u8
+#EXTINF:-1 ,FUTV CR
+http://45.228.232.204:16000/play/a06q/index.m3u8
+#EXTINF:-1 ,FX HD
+http://45.228.232.204:16000/play/a04f/index.m3u8
+#EXTINF:-1 ,Golden
+http://45.228.232.204:16000/play/a05l/index.m3u8
+#EXTINF:-1 ,Golf Channel HD
+http://45.228.232.204:16000/play/a04l/index.m3u8
+#EXTINF:-1 ,Guatevision-GUA
+http://45.228.232.204:16000/play/a021/index.m3u8
+#EXTINF:-1 ,H2
+http://45.228.232.204:16000/play/a05b/index.m3u8
+#EXTINF:-1 ,HBO Family HD
+http://45.228.232.204:16000/play/a043/index.m3u8
+#EXTINF:-1 ,HBO HD
+http://45.228.232.204:16000/play/a040/index.m3u8
+#EXTINF:-1 ,HBO Plus
+http://45.228.232.204:16000/play/a07h/index.m3u8
+#EXTINF:-1 ,HBO Plus HD
+http://45.228.232.204:16000/play/a042/index.m3u8
+#EXTINF:-1 ,HBO XTREME HD
+http://45.228.232.204:16000/play/a08k/index.m3u8
+#EXTINF:-1 ,HBO2
+http://45.228.232.204:16000/play/a07g/index.m3u8
+#EXTINF:-1 ,HBO2 HD
+http://45.228.232.204:16000/play/a041/index.m3u8
+#EXTINF:-1 ,History HD
+http://45.228.232.204:16000/play/a02z/index.m3u8
+#EXTINF:-1 ,Hola!TV
+http://45.228.232.204:16000/play/a03c/index.m3u8
+#EXTINF:-1 ,Home Garden Latino
+http://45.228.232.204:16000/play/a03a/index.m3u8
+#EXTINF:-1 ,HTV
+http://45.228.232.204:16000/play/a05k/index.m3u8
+#EXTINF:-1 ,ID
+http://45.228.232.204:16000/play/a073/index.m3u8
+#EXTINF:-1 ,ISAT
+http://45.228.232.204:16000/play/a079/index.m3u8
+#EXTINF:-1 ,La voz de Maria
+http://45.228.232.204:16000/play/a074/index.m3u8
+#EXTINF:-1 ,Latin America Sport
+http://45.228.232.204:16000/play/a05h/index.m3u8
+#EXTINF:-1 ,LIFE TIME
+http://45.228.232.204:16000/play/a02n/index.m3u8
+#EXTINF:-1 ,Mas Chic
+http://45.228.232.204:16000/play/a037/index.m3u8
+#EXTINF:-1 ,MASTV - PAN
+http://45.228.232.204:16000/play/a051/index.m3u8
+#EXTINF:-1 ,MTV 00s
+http://45.228.232.204:16000/play/a05j/index.m3u8
+#EXTINF:-1 ,MTV HD
+http://45.228.232.204:16000/play/a031/index.m3u8
+#EXTINF:-1 ,MTV Hits
+http://45.228.232.204:16000/play/a02p/index.m3u8
+#EXTINF:-1 ,Multicinema
+http://45.228.232.204:16000/play/a03i/index.m3u8
+#EXTINF:-1 ,Multimedios
+http://45.228.232.204:16000/play/a03p/index.m3u8
+#EXTINF:-1 ,Multipremier
+http://45.228.232.204:16000/play/a07a/index.m3u8
+#EXTINF:-1 ,Nat Geo HD
+http://45.228.232.204:16000/play/a07v/index.m3u8
+#EXTINF:-1 ,NEXT - PAN
+http://45.228.232.204:16000/play/a050/index.m3u8
+#EXTINF:-1 ,Nick Jr
+http://45.228.232.204:16000/play/a02b/index.m3u8
+#EXTINF:-1 ,Nickelodeon
+http://45.228.232.204:16000/play/a06y/index.m3u8
+#EXTINF:-1 ,Paramount HD
+http://45.228.232.204:16000/play/a07w/index.m3u8
+#EXTINF:-1 ,Pasiones HD
+http://45.228.232.204:16000/play/a080/index.m3u8
+#EXTINF:-1 ,Playboy
+http://45.228.232.204:16000/play/a045/index.m3u8
+#EXTINF:-1 ,PXTV
+http://45.228.232.204:16000/play/a03h/index.m3u8
+#EXTINF:-1 ,RCN - GUA
+http://45.228.232.204:16000/play/a033/index.m3u8
+#EXTINF:-1 ,RCN Novelas
+http://45.228.232.204:16000/play/a059/index.m3u8
+#EXTINF:-1 ,Sembrador
+http://45.228.232.204:16000/play/a05q/index.m3u8
+#EXTINF:-1 ,SEMILLITAS
+http://45.228.232.204:16000/play/a02f/index.m3u8
+#EXTINF:-1 ,SONY HD
+http://45.228.232.204:16000/play/a06n/index.m3u8
+#EXTINF:-1 ,Sony Movies HD
+http://45.228.232.204:16000/play/a04h/index.m3u8
+#EXTINF:-1 ,SPACE HD
+http://45.228.232.204:16000/play/a07p/index.m3u8
+#EXTINF:-1 ,STAR CHANNEL
+http://45.228.232.204:16000/play/a070/index.m3u8
+#EXTINF:-1 ,Star TVE HD
+http://45.228.232.204:16000/play/a04k/index.m3u8
+#EXTINF:-1 ,Studio Universal HD
+http://45.228.232.204:16000/play/a047/index.m3u8
+#EXTINF:-1 ,Sun Channel
+http://45.228.232.204:16000/play/a05d/index.m3u8
+#EXTINF:-1 ,TBN Enlace
+http://45.228.232.204:16000/play/a02x/index.m3u8
+#EXTINF:-1 ,TBS
+http://45.228.232.204:16000/play/a02l/index.m3u8
+#EXTINF:-1 ,TCM
+http://45.228.232.204:16000/play/a05m/index.m3u8
+#EXTINF:-1 ,Teen Nick HD
+http://45.228.232.204:16000/play/a046/index.m3u8
+#EXTINF:-1 ,Tele Antillas - RD
+http://45.228.232.204:16000/play/a023/index.m3u8
+#EXTINF:-1 ,Telecentro - RD
+http://45.228.232.204:16000/play/a04y/index.m3u8
+#EXTINF:-1 ,Telemundo HD
+http://45.228.232.204:16000/play/a04e/index.m3u8
+#EXTINF:-1 ,Telesistema RD
+http://45.228.232.204:16000/play/a025/index.m3u8
+#EXTINF:-1 ,Teleunion - RD
+http://45.228.232.204:16000/play/a04z/index.m3u8
+#EXTINF:-1 ,Teleuniverso - RD
+http://45.228.232.204:16000/play/a04v/index.m3u8
+#EXTINF:-1 ,Televida RD
+http://45.228.232.204:16000/play/a03o/index.m3u8
+#EXTINF:-1 ,TLC
+http://45.228.232.204:16000/play/a06g/index.m3u8
+#EXTINF:-1 ,TNT
+http://45.228.232.204:16000/play/a02s/index.m3u8
+#EXTINF:-1 ,TNT Series HD
+http://45.228.232.204:16000/play/a07x/index.m3u8
+#EXTINF:-1 ,Tooncast
+http://45.228.232.204:16000/play/a066/index.m3u8
+#EXTINF:-1 ,TVChile
+http://45.228.232.204:16000/play/a039/index.m3u8
+#EXTINF:-1 ,Universal
+http://45.228.232.204:16000/play/a078/index.m3u8
+#EXTINF:-1 ,UNIVERSAL CINEMA
+http://45.228.232.204:16000/play/a03v/index.m3u8
+#EXTINF:-1 ,UNIVERSAL COMEDY
+http://45.228.232.204:16000/play/a05p/index.m3u8
+#EXTINF:-1 ,UNIVERSAL CRIME
+http://45.228.232.204:16000/play/a05o/index.m3u8
+#EXTINF:-1 ,UNIVERSAL PREMIERE
+http://45.228.232.204:16000/play/a07k/index.m3u8
+#EXTINF:-1 ,Univision HD
+http://45.228.232.204:16000/play/a081/index.m3u8
+#EXTINF:-1 ,VENUS
+http://45.228.232.204:16000/play/a05r/index.m3u8
+#EXTINF:-1 ,VTV Canal 35 ESA
+http://45.228.232.204:16000/play/a055/index.m3u8
+#EXTINF:-1 ,WARNER HD
+http://45.228.232.204:16000/play/a06m/index.m3u8
+#EXTINF:-1 ,ZooMoo
+http://45.228.232.204:16000/play/a036/index.m3u8
