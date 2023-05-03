@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:-1 ,DESCARGA CC PLAYER M3U
 https://dl.dropboxusercontent.com/s/q3o0n35i0sxailk/Untitled%20CC.mp4
-#EXTINF:-1 ,#0 (TV)(1080)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/117211
-#EXTINF:-1 ,#0 (X)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/117210
 #EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://1.bp.blogspot.com/-5kK6RNlDNxo/XcsUbz6_QaI/AAAAAAAAA1w/UzftBLtHs1MIMfzokVQm9vPBeb8vwnatwCLcBGAsYHQ/s200/alf.png",24/7 Alf (e)(SD)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/37766
 #EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://1.bp.blogspot.com/-m7zg94gAJqc/XucMR31AnsI/AAAAAAAACGE/OPjHJLyEiTo2pTOPenFq-Z_UpAveMAgIQCLcBGAsYHQ/s200/American%2BCrime%2BStory.png",24/7 American Crime Story (e)(720)
@@ -331,8 +327,6 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/44375
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/63585
 #EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://1.bp.blogspot.com/-9koNjDb9IDM/XcsQ5aBgsGI/AAAAAAAAA08/zLihKJMYMGEva9FFypcgSzD1sBPSNXbCgCLcBGAsYHQ/s200/the%2Bsimpsons.png",24/7 Los Simpsons S01 a S20 (e)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/37767
-#EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://1.bp.blogspot.com/-09Sc7rPuKWY/Xj2B7kEPxPI/AAAAAAAABE0/om-2Z5cxb9YbPczSR-I28kZpyaasZZQkgCLcBGAsYHQ/s200/The%2Bsimpsons%2Bdual.png",24/7 Los Simpsons S20 a S30  (e)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/37758
 #EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://1.bp.blogspot.com/-CVDxRyPEhP4/XtwFqRTVZLI/AAAAAAAAAak/br_nX7ikyrAQl02xWdQy9d4CPNnrq_UggCK4BGAsYHg/s640/supersonicos.png",24/7 Los Supersonicos
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/37876
 #EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://1.bp.blogspot.com/--J97QhkeHvU/XqD4re8WAxI/AAAAAAAABzY/pOauifI_SUEhjrVA-a_dPUDqvOkkQAf2wCLcBGAsYHQ/s200/thundercats.png",24/7 Los Thundercats (e)
@@ -355,8 +349,6 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/59233
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/58061
 #EXTINF:-1 group-title="24/7 CINEMA" tvg-logo="https://1.bp.blogspot.com/-iIuHR7Dbf2g/Xj5AV5ecoGI/AAAAAAAABVE/ZkaINxNjivIXMGI--UHNlkPdIjqMJtfFwCLcBGAsYHQ/s200/marvel.png",24/7 Marvel Comics (e)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/37909
-#EXTINF:-1 group-title="24/7 CINEMA" tvg-logo="https://1.bp.blogspot.com/-iIuHR7Dbf2g/Xj5AV5ecoGI/AAAAAAAABVE/ZkaINxNjivIXMGI--UHNlkPdIjqMJtfFwCLcBGAsYHQ/s200/marvel.png",24/7 Marvel Comics Peliculas (e)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/37911
 #EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://1.bp.blogspot.com/-9DRHQkUFKK4/Xj44eck8QNI/AAAAAAAABSw/h2gsbHGjezAHWxlbha7niFjWytgVXszawCLcBGAsYHQ/s200/Masha%2By%2Bel%2BOso.png",24/7 Masha y el Oso (e)(SD)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/37822
 #EXTINF:-1 group-title="24/7 SERIES" tvg-logo="https://1.bp.blogspot.com/-eYyZrzkgJR4/Xw46Z70_snI/AAAAAAAACRc/CvMmPbu7JucFXti4N3iDm36OX6fKPhhcQCLcBGAsYHQ/s200/matrimonio%2Bcon%2Bhijos.png",24/7 Matrimonio con hijos (e)(SD)
@@ -417,8 +409,6 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/37850
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/38455
 #EXTINF:-1 group-title="24/7 TELENOVELAS" tvg-logo="https://1.bp.blogspot.com/--9u7eJeq8no/XucGCVNfDNI/AAAAAAAACFE/-C2o2T4SApMYVxXJuwuw2ZL6AJbBt0n4gCLcBGAsYHQ/s200/Rubi.png",24/7 Rubi (e)(SD)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/37807
-#EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://1.bp.blogspot.com/-sDw3BniCroY/Xsm27MSo26I/AAAAAAAAB_c/hwr55pkqAL8Xxrh4E8xAKb06mNBeFDAqgCLcBGAsYHQ/s200/Sabrina.png",24/7 Sabrina la bruja adolescente (e)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/37788
 #EXTINF:-1 group-title="24/7 CINEMA" tvg-logo="https://1.bp.blogspot.com/-F880VQjfYXs/Xuc_iV7-9FI/AAAAAAAACIU/rE8Sq5Pt58wvbdpnpSGnV_bTe1g_74KKgCLcBGAsYHQ/s200/Sagas.png",24/7 Sagas (e)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/37915
 #EXTINF:-1 group-title="24/7 ANIME" tvg-logo="https://1.bp.blogspot.com/-X45-kilKyhA/XcsQ2bKTM_I/AAAAAAAAA0U/ORmR-7UnxRMItIs4_pxcCbk-8-AVv-vLQCLcBGAsYHQ/s200/Sailor%2BMoon.png",24/7 Sailor Moon (e)(720)
@@ -523,20 +513,8 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/37759
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/37780
 #EXTINF:-1 group-title="24/7 ANIME" tvg-logo="https://1.bp.blogspot.com/-BRziVFmN_Xs/X3pIv7CCYFI/AAAAAAAACuE/cPMWC64bwFY-YQcFnFOEXM6kVNLx59R6QCLcBGAsYHQ/w200-h200/Zoids.png",24/7 Zoids (s)(SD)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/63382
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/622f447a32669a00071a8986/colorLogoPNG.png",A las once en casa
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211338
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/5f1acce7f17797000718f9be/colorLogoPNG.png",Ana y los 7
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211267
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/5f1acc3e061597000768d4ea/colorLogoPNG.png",Andrómeda
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211265
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/6054acc871ec430007f54c7d/colorLogoPNG.png",Anime Clásico
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211286
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5efb8c19b2678b000780d032/colorLogoPNG.png",Archivos Forenses
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211691
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/5f984f4a09e92d0007d74647/colorLogoPNG.png",Archivos Forenses
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211274
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-M5EoDZtqo0U/X2QICx8ERlI/AAAAAAAABV0/KF4u2CWwU3oebh5dwTZjFw6dgfSBYfdDgCLcBGAsYHQ/w200-h200/21%2B26%2BTV.png",ARG-26TV (M)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/22091
 #EXTINF:-1 group-title="ARGENTINA",ARG-America 24 (X)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/116192
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-KnDJiwKtRjc/X2QIK1SbIzI/AAAAAAAABW0/5y2x5JZbg-syMBZGzDpE5v6TfFbT2j7CQCLcBGAsYHQ/w200-h200/37%2BAm%25C3%25A9rica%2Btv.png",ARG-America TV (e)(1080)
@@ -547,28 +525,12 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/15393
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/22094
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-KnDJiwKtRjc/X2QIK1SbIzI/AAAAAAAABW0/5y2x5JZbg-syMBZGzDpE5v6TfFbT2j7CQCLcBGAsYHQ/w200-h200/37%2BAm%25C3%25A9rica%2Btv.png",ARG-America TV (X)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/116193
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-sLB3y_I89Q4/X2QILWHb8FI/AAAAAAAABW4/-NRRBfBPs1wcN1NZYAWAdaxJCpC7jM-fACLcBGAsYHQ/w200-h200/38%2BArgentinisima.png",ARG-Argentinisima (M)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/22096
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-2sEle1n_QKI/X2QIFdFmlDI/AAAAAAAABWI/iVqKW-PZy9Q-qu4S6-B2q98vEMnl3h9YgCLcBGAsYHQ/w200-h200/26%2BC5n.png",ARG-C5N (M)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/22097
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-3OEk7TeEwrs/X2QIKYCriGI/AAAAAAAABWw/nkFaPha9r3EcvhSwpN-dCC-Z3z41VKZrgCLcBGAsYHQ/w200-h200/36%2BCanal%2B21..png",ARG-Canal 21 (M)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/22099
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-3OEk7TeEwrs/X2QIKYCriGI/AAAAAAAABWw/nkFaPha9r3EcvhSwpN-dCC-Z3z41VKZrgCLcBGAsYHQ/w200-h200/36%2BCanal%2B21..png",ARG-Canal 21 (X)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/116194
 #EXTINF:-1 group-title="ARGENTINA",ARG-Canal 26 (D)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/153860
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-M5EoDZtqo0U/X2QICx8ERlI/AAAAAAAABV0/KF4u2CWwU3oebh5dwTZjFw6dgfSBYfdDgCLcBGAsYHQ/w200-h200/21%2B26%2BTV.png",ARG-Canal 26 (M)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/22100
-#EXTINF:-1 group-title="ARGENTINA",ARG-Canal De La Ciudad (M)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/22102
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-N2gNoaFX1aY/X2Qhivn6MvI/AAAAAAAABYk/MuUMRchiueQp4L5ia5OIQuyD2_sV-panQCLcBGAsYHQ/w200-h200/41%2BMegazine.png",ARG-Ciudad Magazine (M)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/22104
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-AdG3nZ8502Y/X2QIAmw7DfI/AAAAAAAABVk/ezNxTv6lCIAe_Wp1rBehbO8l-1IsSmI8ACLcBGAsYHQ/w200-h200/17%2BCr%25C3%25B3nica%2BTV.png",ARG-Cronica (M)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/22108
-#EXTINF:-1 group-title="ARGENTINA",ARG-DeporTV (C)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/153861
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-rIvH1wjUmAI/X2QIAOcBnAI/AAAAAAAABVg/AgFaLGNcS5EGy3Oh-jo_KDvnSXM8uwdVACLcBGAsYHQ/w200-h200/16%2BDeport%2Btv.png",ARG-Deportv (M)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/22109
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-p5tjezIv6b0/X2QH_mOIY2I/AAAAAAAABVc/SNui82k4RDQXhe0SxmN1Qj04uER-9KDRACLcBGAsYHQ/w200-h200/15%2BDirectv%2BSports%2BARG.png",ARG-Direct TV Sports (C)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/59797
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-RHe-nJPhfRc/X2QUq9lLgFI/AAAAAAAABX0/tnQiDDd9elsppcRL-ObMptQNZuSZTaggACLcBGAsYHQ/w200-h200/sketch-1600393968079.png",ARG-El Nueve (e)(1080)
@@ -583,8 +545,6 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/11619
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/153937
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-twF3kXyvN6U/X2QH_MLnQfI/AAAAAAAABVY/1k09hUMynzQScdV-KgRtPmt8hKQELMP0wCLcBGAsYHQ/w200-h200/14%2BEl%2Btrece.png",ARG-El Trece (e)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/116200
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-twF3kXyvN6U/X2QH_MLnQfI/AAAAAAAABVY/1k09hUMynzQScdV-KgRtPmt8hKQELMP0wCLcBGAsYHQ/w200-h200/14%2BEl%2Btrece.png",ARG-El Trece (M)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/22098
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-twF3kXyvN6U/X2QH_MLnQfI/AAAAAAAABVY/1k09hUMynzQScdV-KgRtPmt8hKQELMP0wCLcBGAsYHQ/w200-h200/14%2BEl%2Btrece.png",ARG-El Trece (TV)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/116199
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-7Wppv_MV3s4/X2QH9y4ioTI/AAAAAAAABVI/ylN3LQyle9MvDakX16b6Z0HOyxSh81_LQCLcBGAsYHQ/w200-h200/10%2BEspn%2B1.png",ARG-Espn (Local)(M)
@@ -595,16 +555,8 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/59802
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/59803
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://tv.proyectox.vip:28000/images/4d8503ce65842598429ac22cf22c4706.png",ARG-ESPN Premium (TV)(1080)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/59809
-#EXTINF:-1 group-title="ARGENTINA",ARG-LN (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/153864
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-GKPfx1rugzI/X2QIJbpPN8I/AAAAAAAABWo/XXuxc9Ycoz8z4BKk2qNP0LkHVKTvDX9ZgCLcBGAsYHQ/w200-h200/34%2BLN%2BARG.png",ARG-LN+ (TV)(SD)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/22115
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-GS7xouePKvg/X2QII3XyecI/AAAAAAAABWk/50zjjYoO71UOFccD2cTQ6_82oEvXR3kugCLcBGAsYHQ/w200-h200/33%2BMetro%2Btv..png",ARG-Metro (M)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/22116
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-WGrML1C4ceo/X2QH8ZkW5LI/AAAAAAAABUw/erlsfaq9E3kh0ScziE49lzSvfy7CeEXpACLcBGAsYHQ/w200-h200/04%2BQuiero%2Bm%25C3%25BAsica.png",ARG-Quiero Musica (M)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/22118
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-jshSuUx7P_A/X2QIIa7rhiI/AAAAAAAABWg/CdrTh3XOL-4nKLLctio21mN1Qjh4yF04QCLcBGAsYHQ/w200-h200/32%2BCanal%2Brural.png",ARG-Rural (M)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/22119
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-U-OOBMCa9NY/X2QIE6trXLI/AAAAAAAABWE/CfBvNi9QhUgPmZYO4-OWCTUz3FbTFS9WQCLcBGAsYHQ/w200-h200/25%2BTelefe.png",ARG-Telefe (e)(1080)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/153673
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-U-OOBMCa9NY/X2QIE6trXLI/AAAAAAAABWE/CfBvNi9QhUgPmZYO4-OWCTUz3FbTFS9WQCLcBGAsYHQ/w200-h200/25%2BTelefe.png",ARG-Telefe (e)(720)
@@ -625,24 +577,12 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/22124
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/153801
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-NlVUFpRAN1I/X2QIL1NCoaI/AAAAAAAABW8/YUkz7Y0eSY8nXv8XwY88nBSfgcltHwZ2QCLcBGAsYHQ/w200-h200/39%2BTNT%2BSport.png",ARG-TNT Sports (X)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/153802
-#EXTINF:-1 group-title="ARGENTINA",ARG-TV Publica (C)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/153866
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-Xi_N5VVuGKk/X2QH72MNWpI/AAAAAAAABUo/zHNNc_LLBYIXdiFGe94-Wlz8W8ku9L-JACLcBGAsYHQ/w200-h200/02%2BTv%2Bpublica.png",ARG-TV Publica (M)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/22125
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-Xi_N5VVuGKk/X2QH72MNWpI/AAAAAAAABUo/zHNNc_LLBYIXdiFGe94-Wlz8W8ku9L-JACLcBGAsYHQ/w200-h200/02%2BTv%2Bpublica.png",ARG-TV Publica (X)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/116203
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-Tpkec48hjwA/X2QIG6J2HRI/AAAAAAAABWU/yKzkfxy1A4UwmBhd3arRzEma8UKwxryYQCLcBGAsYHQ/w200-h200/29%2BTv%2B5%2BARG.png",ARG-TV5 (M)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/22126
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://tv.proyectox.vip:28000/images/dc9f4c2291724375736a7d74ec88237d.png",ARG-TyC Sports Local (C)(SD)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/59813
 #EXTINF:-1 group-title="ARGENTINA" tvg-logo="http://tv.proyectox.vip:28000/images/dc9f4c2291724375736a7d74ec88237d.png",ARG-TYC Sports Local (TV)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/22127
-#EXTINF:-1 group-title="ARGENTINA" tvg-logo="https://1.bp.blogspot.com/-hK7dPTyre0Y/X2QID2W4DOI/AAAAAAAABV8/Ns9rVmt8zRgGlWt1QTBMTJKz9qG3C6_wACLcBGAsYHQ/w200-h200/23%2BVolver.png",ARG-Volver (M)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/22128
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/5f1aca8310a30e00074fab92/colorLogoPNG.png",Asesinatos de Midsomer
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211261
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/61373c865ed5810007173fbc/colorLogoPNG.png",Avatar
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211323
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5e67e20c93312100076f3ffe/colorLogoPNG.png",Babar
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211676
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/619d5e6a093e7c0007489211/colorLogoPNG.png",Baby Shark TV
@@ -651,10 +591,6 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/21174
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211685
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5f29ada4bdaebd000708d49d/colorLogoPNG.png",Barney
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211695
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/60dafb9a0df1ba000758d37b/colorLogoPNG.png",BBC Drama
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211307
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png",Bob Esponja
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211260
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG.png",Bob Esponja Pantalones Cuadrados
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211754
 #EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://lh3.googleusercontent.com/-M8M7AhMwcoA/YmxPOgzzVeI/AAAAAAAADjM/6dHNpd8IDKsLWLgy14F1p5kUo0-G2HTNQCNcBGAsYHQ/w200-h200/1651265337043138-16.png",BOL-ATB (X)(720)
@@ -663,8 +599,6 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/15397
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/153973
 #EXTINF:-1 group-title="BOLIVIA",BOL-Bolivision (X)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/3751
-#EXTINF:-1 group-title="BOLIVIA" tvg-logo="https://lh3.googleusercontent.com/-wbHgtCT6kmk/YmxdwIZJp4I/AAAAAAAADlA/aBjGH8ihlr0ZYFb16TWO90-mWy_rpskkACNcBGAsYHQ/w200-h200/1651269055081101-0.png",BOL-Tigo Sports (C)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/153977
 #EXTINF:-1 group-title="BOLIVIA" tvg-logo="http://tv.proyectox.vip:28000/images/30d6ea7babc4ecd352ffaf81d992dc3e.png",BOL-Tigo Sports 1 (720)(M)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/3750
 #EXTINF:-1 group-title="BOLIVIA" tvg-logo="http://tv.proyectox.vip:28000/images/30d6ea7babc4ecd352ffaf81d992dc3e.png",BOL-Tigo Sports 2 (720)(M)
@@ -771,8 +705,6 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/17391
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/173912
 #EXTINF:-1 group-title="BRASIL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0zr42H4tzBX35dd-2w_AxUDbwBvNEDUOH-iB1_v-MqI9YIMVL7jyjsg9kuZ16ZPK4hMitQm4d-uXn2v1NSueOejTWNOKuINUXbTYFpIftMrAniQHa_ZTGJlzk95bmxw5YCJoYBv9dKD667ytssiAPebn3MmfrBVAkGEYaeWbNDLecvKiK5aDzqOhi/s320/proyectox2%20(14).png",BRA - SONY (M)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/173915
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDXcIuDFC2iB84_hOBwhpZ3xEVn2XVUjBoW--OFLXEEpaRuaBcwBJGQ7hzSLbEBumIUyer72xqRaDG6oAFzqXFKDrXW9fJi787TOFZ06vEjkGM-Q9EU3r6gq-XpSmkfey7hgdT7j5_YV_16ObbkK5JEboHwN5E4ygUTNolLIpjWvAlctVpC3qOWvhQ/s320/proyectox2%20(15).png",BRA - Space (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/173916
 #EXTINF:-1 group-title="BRASIL" tvg-logo="https://drive.google.com/uc?id=1Adiog7RLeCRztLtazJdpNjehIYzC0Kwh",BRA - SporTV (M)(1080)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/9413
 #EXTINF:-1 group-title="BRASIL" tvg-logo="https://drive.google.com/uc?id=10A3s8ZH3o7AVg-SwSm7au-tcXOVp_fSn",BRA - SporTV 2 (720)(M)
@@ -819,8 +751,6 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/17393
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/9406
 #EXTINF:-1 group-title="BRASIL" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_rQO8X51FAxHvCilV2wSbTMWvi9P8e1rDtB919fnngakb9CjHX2dZ-obyMr2qeS30hW8iDqIDuSBAVqsToysuAHdmOAqhAyM9jyLm6T8P9pPUeRXPYeqyPtb8IYPjQfK02Z0N-b4C3_46BdLs1VthmEPLkBJ7rxbgyEi-dFIJQ9LDgxkF4iEGZ-PK/s320/proyectox%20(15).png",BRA-Espn Brasil (720)(M)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/9409
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://drive.google.com/uc?id=1W3GY9s_BpN5GK5O8iLJcpEzV-KJ_rA9r",BRA-Espn Extra (720)(M)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/9408
 #EXTINF:-1 group-title="CANADA-PREMIUM" tvg-logo="https://1.bp.blogspot.com/-FwlH6QzpV-8/XaokZRCO07I/AAAAAAAAAWA/2fjkTYGqsp03aenYpNBo2pChRQ6T485_ACLcBGAsYHQ/s200/2.png",CAN-AMC (720)(M)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/3661
 #EXTINF:-1 group-title="CANADA-PREMIUM" tvg-logo="https://1.bp.blogspot.com/-j73fVsGRcFo/XzStgb7W4xI/AAAAAAAAA7k/DMy5pW5FF2Mrveqmr4KiTphUUdgXvK_vwCLcBGAsYHQ/w200-h200/131%2BBravo.png",CAN-Bravo TV (720)(M)
@@ -833,8 +763,6 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/3668
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/3669
 #EXTINF:-1 group-title="CANADA-PREMIUM" tvg-logo="https://1.bp.blogspot.com/-XQoiQ-VwlHw/YL6TOuQB6FI/AAAAAAAACR0/bTmPvkGo6HEymVa4Cm6pjzHsc8SSqN3TQCLcBGAsYHQ/w200-h200/IMG_20210607_162743.png",CAN-CBC Toronto (720)(M)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/3671
-#EXTINF:-1 group-title="CANADA-PREMIUM" tvg-logo="https://1.bp.blogspot.com/-2KXIKskK0z8/YL6TNMf9ytI/AAAAAAAACRo/ze-RTRLrFmsQVk7eQNFVGbo6IAv1mUHpgCLcBGAsYHQ/w200-h200/IMG_20210607_162540.png",CAN-CBC Windsor (720)(M)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/3673
 #EXTINF:-1 group-title="CANADA-PREMIUM" tvg-logo="https://1.bp.blogspot.com/-jQ8glzKp-4g/YL66AdANwLI/AAAAAAAACSk/IoGbgIRWS3gt4NxzWrrP2eVBsCjgoiLrwCLcBGAsYHQ/w200-h200/IMG_20210607_162824.png",CAN-Comedy (720)(M)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/3677
 #EXTINF:-1 group-title="CANADA-PREMIUM" tvg-logo="https://1.bp.blogspot.com/-OQy2Fb7B7sI/YL6S6qFyBcI/AAAAAAAACPM/LGtvYxN6d9MVezP2ijDFrr-XNErgPcH5wCLcBGAsYHQ/w200-h200/IMG_20210607_160308.png",CAN-CP24 (M)(720)
@@ -845,8 +773,6 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/3681
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/3709
 #EXTINF:-1 group-title="CANADA-PREMIUM" tvg-logo="https://1.bp.blogspot.com/-1iusWU80T5k/YL6TJMzdiiI/AAAAAAAACRI/yWl2269I8BUvLhQ-Hz58s6cBE0sa2WgWgCLcBGAsYHQ/w200-h200/IMG_20210607_162122.png",CAN-FXX (M)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/3690
-#EXTINF:-1 group-title="CANADA-PREMIUM" tvg-logo="https://1.bp.blogspot.com/-Oe9aff9iD4g/YL6TIAUkMMI/AAAAAAAACRA/xhvhoHkfNmkf-HrikzKBoyfATgfo1AgrgCLcBGAsYHQ/w200-h200/IMG_20210607_162016.png",CAN-Global (1080)(M)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/3691
 #EXTINF:-1 group-title="CANADA-PREMIUM" tvg-logo="https://1.bp.blogspot.com/-yCmMtSCBBOc/YL6S8vmoqII/AAAAAAAACPk/zJiQqDL4SKknu9dZXFq0ecib-kc0-oFDwCLcBGAsYHQ/w200-h200/IMG_20210607_160607.png",CAN-Golf (TV)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/119367
 #EXTINF:-1 group-title="CANADA-PREMIUM" tvg-logo="https://1.bp.blogspot.com/-MGEzl_PYUFo/YL6THsI8VCI/AAAAAAAACQ8/5U1FmVc9uukA1KIHHa3D7Mkzwn6EZ60lQCLcBGAsYHQ/w200-h200/IMG_20210607_161955.png",CAN-HBO 1 (M)
@@ -899,12 +825,8 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/3719
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/210197
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/6109a9f5531b840007a4a187/colorLogoPNG.png",Cazador de Homicidas
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211733
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/60ed5fb9c4716d0007d180c5/colorLogoPNG.png",Cazador de Homicidas
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211312
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/62310d5a5dc9550007c6f580/colorLogoPNG.png",CBS News
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211751
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/6231ede1be5b460007f91bc1/colorLogoPNG.png",CBS News
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211339
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-GOpSKNaK61Y/Xajps_-nfoI/AAAAAAAAASU/Fpl7LXkTkW4b6EaNkaIjtFzQHUZQVKTUgCLcBGAsYHQ/s200/1.png",CHI-13 (e)(1080)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/1014
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-GOpSKNaK61Y/Xajps_-nfoI/AAAAAAAAASU/Fpl7LXkTkW4b6EaNkaIjtFzQHUZQVKTUgCLcBGAsYHQ/s200/1.png",CHI-13 (e)(720)
@@ -1003,8 +925,6 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/14460
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211758
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/61f94a2866401100074e9dee/colorLogoPNG.png",Chilevision Noticias
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211745
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/627d1b936d4ded0007d7642f/colorLogoPNG.png",Chilevision Noticias
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211347
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-AUWZ0lqvHw4/XajpwcGPL2I/AAAAAAAAAS8/2mLLh5UN2FYLtwIFNcr2bd6LpqZxOcrJACLcBGAsYHQ/s200/4.png",CHI-Mega (D)(1080)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/153875
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-AUWZ0lqvHw4/XajpwcGPL2I/AAAAAAAAAS8/2mLLh5UN2FYLtwIFNcr2bd6LpqZxOcrJACLcBGAsYHQ/s200/4.png",CHI-Mega (e)(1080)
@@ -1013,8 +933,6 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/1008
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/1009
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-AUWZ0lqvHw4/XajpwcGPL2I/AAAAAAAAAS8/2mLLh5UN2FYLtwIFNcr2bd6LpqZxOcrJACLcBGAsYHQ/s200/4.png",CHI-Mega (e)(SD)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/1010
-#EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-AUWZ0lqvHw4/XajpwcGPL2I/AAAAAAAAAS8/2mLLh5UN2FYLtwIFNcr2bd6LpqZxOcrJACLcBGAsYHQ/s200/4.png",CHI-Mega (M)(SD)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/3204
 #EXTINF:-1 group-title="CHILE [GEO BLOQUEO]" tvg-logo="https://1.bp.blogspot.com/-SywCHT27A04/XatePpwAw-I/AAAAAAAAAds/-rU6a8vlqE82FilmxpaIdsGkY3YmMsP7ACLcBGAsYHQ/s200/23.png",CHI-Mega plus(GEO)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/1757
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-VnhcSgVNqHA/XajpvSSZDDI/AAAAAAAAASw/KNnn79rkN0U_5ZR2jU5MIHsbZgyyDegUQCLcBGAsYHQ/s200/17.png",CHI-PPV2 (e)(1080)
@@ -1041,8 +959,6 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/14090
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/121704
 #EXTINF:-1 group-title="CHILE [GEO BLOQUEO]" tvg-logo="https://1.bp.blogspot.com/-47k3Eh1YCDM/XavSKCnVCmI/AAAAAAAAAjM/lxdjyuRFCBoVCIWW9LGnhIP6PS3LeHNbQCLcBGAsYHQ/s200/43.png",CHI-TV Senado(GEO)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/1799
-#EXTINF:-1 group-title="CHILE [GEO BLOQUEO]" tvg-logo="https://1.bp.blogspot.com/-wk9aj76dkuM/XajpxUSsJoI/AAAAAAAAATQ/aWvKWEaQGts9yYJ5nt0UuBRpN4yd_T_fACLcBGAsYHQ/s200/9.png",CHI-Tv+(GEO)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/1781
 #EXTINF:-1 group-title="CHILE" tvg-logo="https://1.bp.blogspot.com/-0MX8CrqCS_Q/XajpwmY8XSI/AAAAAAAAATE/DjSc2WVCh9cxoTOZVi9CxkRUA8LZq0OSwCLcBGAsYHQ/s200/6.png",CHI-TVN (e)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/1018
 #EXTINF:-1 group-title="CHILE [GEO BLOQUEO]" tvg-logo="https://1.bp.blogspot.com/-MlDIbcpVWxI/XavNg8r1nZI/AAAAAAAAAio/P1r2CiKdN8063yRgB774GxdHIM8aVQjnQCLcBGAsYHQ/s200/41.png",CHI-TVU Concepcion(GEO)
@@ -1077,8 +993,6 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/1927
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/26753
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-ZvhVOTsSTzg/XaokZ4XKSPI/AAAAAAAAAWI/MsjCS3r3rQop2YtmW8uC0_gyZU5WsAgqACLcBGAsYHQ/s200/4.png",CINE - CineCanal (PM)(1080)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/26903
-#EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-SWgMvQVmNFs/XatKBoFk9XI/AAAAAAAAAcE/iIZCNfcElxsfxcj0hGdLxHZ0l7D7wRJ6wCLcBGAsYHQ/s200/43.png",CINE - Cinemax (C)(1080)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/116478
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-SWgMvQVmNFs/XatKBoFk9XI/AAAAAAAAAcE/iIZCNfcElxsfxcj0hGdLxHZ0l7D7wRJ6wCLcBGAsYHQ/s200/43.png",CINE - Cinemax (M)(1080)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/1444
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-SWgMvQVmNFs/XatKBoFk9XI/AAAAAAAAAcE/iIZCNfcElxsfxcj0hGdLxHZ0l7D7wRJ6wCLcBGAsYHQ/s200/43.png",CINE - Cinemax (M)(720)
@@ -1263,16 +1177,10 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/15435
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/119338
 #EXTINF:-1 group-title="CANALES-ENTRETENIMIENTO" tvg-logo="https://1.bp.blogspot.com/-SZ8DsKx6WHk/XkN9AsoXzII/AAAAAAAABWQ/Yxqzc1Ds71kYuQgf7xYBuX7bp0Ajj2pKgCLcBGAsYHQ/s200/66.png",CINE -HBO Xtreme (X)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/1458
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/622f42b831233300078658cc/colorLogoPNG.png",Ciudadanos por el mundo
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211337
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/600ad4ad6537680007be2ea6/colorLogoPNG.png",Clubbing TV
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211279
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://1.bp.blogspot.com/-6qBWy0B-kzM/X3IdKD9-cLI/AAAAAAAABho/-WepO7Ffbrko7C08koMU5s-jbvyazbVyACLcBGAsYHQ/w200-h200/Cable%2BNoticias%2Bcolombia.png",COL-Cable Noticias (TV)(1080)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/59845
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://1.bp.blogspot.com/-Lkjw87pS4Us/X3Ia7IrKrFI/AAAAAAAABhQ/Yi5wpZOdOR4Q4jXrbsrH6mOw8CwztMwpQCLcBGAsYHQ/w200-h200/Canal%2B1.png",COL-Canal 1 (X)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/118350
-#EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://1.bp.blogspot.com/-Lkjw87pS4Us/X3Ia7IrKrFI/AAAAAAAABhQ/Yi5wpZOdOR4Q4jXrbsrH6mOw8CwztMwpQCLcBGAsYHQ/w200-h200/Canal%2B1.png",COL-Canal Uno (C)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/59846
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://1.bp.blogspot.com/-LXfdKZnjC3s/XbDQ1XtfCTI/AAAAAAAAApg/T1bw6lumSDs11z0xC82JCXrGUG2Js4-ygCLcBGAsYHQ/s200/9.png",COL-Caracol (M)(1080)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/22146
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://1.bp.blogspot.com/-LXfdKZnjC3s/XbDQ1XtfCTI/AAAAAAAAApg/T1bw6lumSDs11z0xC82JCXrGUG2Js4-ygCLcBGAsYHQ/s200/9.png",COL-Caracol (M)(1080)
@@ -1337,18 +1245,12 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/23129
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/23130
 #EXTINF:-1 group-title="COLOMBIA" tvg-logo="https://1.bp.blogspot.com/-V-KBxr90Zco/Xjbo-4biSDI/AAAAAAAAA-k/Ne9wkBm1r2Ef7FXZOUtZiKU3XHLxQiAKQCLcBGAsYHQ/s200/25.png",COL-WinSports + (X)(SD)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/144406
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/5f1abce155a03d0007718834/colorLogoPNG.png",Comedia made in Spain
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211246
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5ffcc21a432945000762d06b/colorLogoPNG.png",Comedy Central Pluto TV
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211718
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoPNG.png",Comedy Central South Park
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211730
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png",Conciertos por Stingray
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211701
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/6193963c5a960200074ce816/colorLogoPNG.png",Constance Meyer: Jueza en prácticas
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211328
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/61c49a1b5ec8d40008673251/colorLogoPNG.png",Cortos
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211332
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="http://l3d.us:8080/images/879ee15abcc5ae31125df0d901af9f4c.png",CR-Canal 14 Tv Sur (X)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/153879
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="http://l3d.us:8080/images/094a9922d278b8304ad101e1c849dfa9.png",CR-Extrema TV (C)(720)
@@ -1357,18 +1259,12 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/15388
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/153877
 #EXTINF:-1 group-title="COSTA RICA",CR-FUTV (M)(SD)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/107222
-#EXTINF:-1 group-title="COSTA RICA",CR-FUTV (X)(1080)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/107221
 #EXTINF:-1 group-title="COSTA RICA",CR-Repretel 11 (M)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/3731
 #EXTINF:-1 group-title="COSTA RICA" tvg-logo="http://tv.dominiotv.xyz:25461/images/0bc75b556f89ef4e9bfb7eb45eb61b56.png",CR-Repretel 11 (X)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/153885
-#EXTINF:-1 group-title="COSTA RICA" tvg-logo="http://tv.dominiotv.xyz:25461/images/f12c62586d76e81cd752c577905bff2a.png",CR-Repretel 4 (C)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/153886
 #EXTINF:-1 group-title="COSTA RICA",CR-Repretel 4 (M)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/3732
-#EXTINF:-1 group-title="COSTA RICA" tvg-logo="http://tv.dominiotv.xyz:25461/images/67714a43e5c2b9b3390cea34847f9a3c.png",CR-Repretel 6 (C)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/153887
 #EXTINF:-1 group-title="COSTA RICA",CR-Repretel 6 (M)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/3733
 #EXTINF:-1 group-title="COSTA RICA",CR-TD +2 (C)(1080)
@@ -1413,8 +1309,6 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/15389
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/119687
 #EXTINF:-1 group-title="CUBA" tvg-logo="http://boxdigital.xyz:8080/images/8b9568da6a7e8caaa30c3e16dc5e93d4.png",CUB - Tele Rebelde (X)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/153891
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/5f1acd36779de70007a680d1/colorLogoPNG.png",Curro Jiménez
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211268
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/62d0895ebe7a970008785244/colorLogoPNG.png",Daria
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211760
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/626c2ed933a2890007e91422/colorLogoPNG.png",Death Note
@@ -1457,8 +1351,6 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/14057
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/121703
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://lh3.googleusercontent.com/-_9mzNNdXzjQ/Yqp2LxWG4FI/AAAAAAAADpk/1Tyz1yla_eUKENravElP8qX4Pmnym0y5gCNcBGAsYHQ/w200-h200/1655338541459072-1.png",DEPORTES - Directv Sports 2 (PM)(1080)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/959
-#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png",DEPORTES - Espn 1 ARG (C)(1080)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/117739
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png",DEPORTES - ESPN 1 ARG (e)(1080)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/215071
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png",DEPORTES - ESPN 1 ARG (e)(720)
@@ -1467,8 +1359,6 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/21507
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/69718
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png",DEPORTES - Espn 1 COL (e)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/965
-#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png",DEPORTES - Espn 1 COL (e)(SD)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/966
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png",DEPORTES - Espn 1 COL (PM)(1080)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/964
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png",DEPORTES - Espn 1 MEX (M)(1080)
@@ -1477,8 +1367,6 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/26817
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/1900
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png",DEPORTES - Espn 1 MEX (X)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/1533
-#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png",DEPORTES - Espn 2 ARG (C)(1080)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/1541
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png",DEPORTES - Espn 2 ARG (e)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/136228
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png",DEPORTES - Espn 2 ARG (e)(720)
@@ -1587,8 +1475,6 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/23132
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/215075
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-Qq6NeQfQhPA/X3O4qcNIfWI/AAAAAAAABrM/VvZtFKBO_SwfQ8olMUI4i7xkVFKk74wrACLcBGAsYHQ/w200-h200/Canal%2Btigo%2Bsport%2BParaguay.png",DEPORTES - TigoSports PY (e)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/215076
-#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-NlVUFpRAN1I/X2QIL1NCoaI/AAAAAAAABW8/YUkz7Y0eSY8nXv8XwY88nBSfgcltHwZ2QCLcBGAsYHQ/w200-h200/39%2BTNT%2BSport.png",DEPORTES - TNT Sports ARG (e)(1080)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/215077
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-NlVUFpRAN1I/X2QIL1NCoaI/AAAAAAAABW8/YUkz7Y0eSY8nXv8XwY88nBSfgcltHwZ2QCLcBGAsYHQ/w200-h200/39%2BTNT%2BSport.png",DEPORTES - TNT Sports ARG (e)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/215078
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-7Q-tZrmqxEc/Xay_WNz8u5I/AAAAAAAAAjk/mpUDmIAQx9wXEXmTEN31PP7q70qTtzTnACLcBGAsYHQ/s200/11.png",DEPORTES - TUDN (MEX)(C)(1080)
@@ -1603,16 +1489,12 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/66004
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/154356
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-clt7G_R4DNw/Xg-MJOM_YMI/AAAAAAAAA6A/ulOuWvu97K0QvGGyHNHcANUkSMGPeRLGQCLcBGAsYHQ/s200/23.png",DEPORTES - TyC Sports INT (M)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/2076
-#EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-clt7G_R4DNw/Xg-MJOM_YMI/AAAAAAAAA6A/ulOuWvu97K0QvGGyHNHcANUkSMGPeRLGQCLcBGAsYHQ/s200/23.png",DEPORTES - TyC Sports INT(M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/27530
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://1.bp.blogspot.com/-T4uG5FYIDek/XhA6fXlKRQI/AAAAAAAAA8U/xRyQIitNaVsNGYmrK2TVTPJKiCITuGGoACLcBGAsYHQ/s200/32.png",DEPORTES - UFC Fight PASS (C)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/5699
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://lh3.googleusercontent.com/-Br7dLua2HYc/YkjfrZ9IdzI/AAAAAAAADd8/uFaZ9I5FrckfSZ22_0RaaH-63zhw_TpOQCNcBGAsYHQ/w200-h200/1648943020342945-0.png",DEPORTES - WWE (X)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/153466
 #EXTINF:-1 group-title="CANALES-DEPORTES" tvg-logo="https://lh3.googleusercontent.com/-Br7dLua2HYc/YkjfrZ9IdzI/AAAAAAAADd8/uFaZ9I5FrckfSZ22_0RaaH-63zhw_TpOQCNcBGAsYHQ/w200-h200/1648943020342945-0.png",DEPORTES - WWE Op 2 (X)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/153467
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/629a066860ef810008267b70/colorLogoPNG.png",Detective Conan
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211350
 #EXTINF:-1 group-title="CANALES-DOCUMENTALES" tvg-logo="https://1.bp.blogspot.com/-FmcbBWBcW04/XzWYaAuXQeI/AAAAAAAABCE/Sxqhgw-oCiEDD8qSiWZZnw_c9BVKOKFVwCLcBGAsYHQ/w200-h200/153%2BAnimal%2BPlanet.png",DOC-Animal Planet (e)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/1071
 #EXTINF:-1 group-title="CANALES-DOCUMENTALES" tvg-logo="https://1.bp.blogspot.com/-FmcbBWBcW04/XzWYaAuXQeI/AAAAAAAABCE/Sxqhgw-oCiEDD8qSiWZZnw_c9BVKOKFVwCLcBGAsYHQ/w200-h200/153%2BAnimal%2BPlanet.png",DOC-Animal planet (PM)(720)
@@ -1691,18 +1573,12 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/1077
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/1076
 #EXTINF:-1 group-title="CANALES-DOCUMENTALES" tvg-logo="https://lh3.googleusercontent.com/-UfD9uLqw3Nk/YmbHWDDkmZI/AAAAAAAADgM/IlWLqsL-yxQ41nOSbtWtmQ8IQ-nC9p2PgCNcBGAsYHQ/w200-h200/1650902870130586-0.png",DOC-Smithsonian Channel (X)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/153308
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/60d3574e97f10800078455de/colorLogoPNG.png",Doctor Who
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211305
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5f9992c685a2a80007fa414a/colorLogoPNG.png",Dog el cazarrecompensas
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211705
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/624466b26ab25e0007dd7cfb/colorLogoPNG.png",Dora la Exploradora
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211341
 #EXTINF:-1 group-title="ECUADOR" tvg-logo="https://1.bp.blogspot.com/-A77n66o-FQI/XjcBYqkTzXI/AAAAAAAABBU/uhcdf-8Bmp4WjMiaUtm0f_O5MxQi1KeiACLcBGAsYHQ/s200/1.png",ECU- Ecuavisa Costa (C)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/174220
 #EXTINF:-1 group-title="ECUADOR" tvg-logo="https://1.bp.blogspot.com/-A77n66o-FQI/XjcBYqkTzXI/AAAAAAAABBU/uhcdf-8Bmp4WjMiaUtm0f_O5MxQi1KeiACLcBGAsYHQ/s200/1.png",ECU- Ecuavisa Costa (C)(SD)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/174221
-#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://1.bp.blogspot.com/-xF1vpNkIs98/X7K_vuu_nVI/AAAAAAAAB3w/bETiZLyf2HEEBD9jz_rS-YvYKLDRO2QygCLcBGAsYHQ/w200-h200/Canal%2Bdel%2Bf%25C3%25BAtbol.png",ECU-Canal Del Futbol (PM)(1080)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/65386
 #EXTINF:-1 group-title="ECUADOR" tvg-logo="https://1.bp.blogspot.com/-xF1vpNkIs98/X7K_vuu_nVI/AAAAAAAAB3w/bETiZLyf2HEEBD9jz_rS-YvYKLDRO2QygCLcBGAsYHQ/w200-h200/Canal%2Bdel%2Bf%25C3%25BAtbol.png",ECU-Canal Del Futbol (PM)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/65387
 #EXTINF:-1 group-title="ECUADOR" tvg-logo="https://1.bp.blogspot.com/-xF1vpNkIs98/X7K_vuu_nVI/AAAAAAAAB3w/bETiZLyf2HEEBD9jz_rS-YvYKLDRO2QygCLcBGAsYHQ/w200-h200/Canal%2Bdel%2Bf%25C3%25BAtbol.png",ECU-Canal Del Futbol (PM)(SD)
@@ -1751,12 +1627,6 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/1101
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/1102
 #EXTINF:-1 group-title="ECUADOR" tvg-logo="https://1.bp.blogspot.com/-zZisdj4cxaA/XjhIBJtxXHI/AAAAAAAABDw/HXpmjpAlU-YeWqNI3BywBg_whbI3N6PEACLcBGAsYHQ/s200/10.png",ECU-Oromar TV (X)(SD)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/22150
-#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://1.bp.blogspot.com/-QeYaHCkFXCQ/X9qLYLe7oKI/AAAAAAAAB_o/lwKcEeedVmQuAIaqPr9eUdP27YLI0IJ-ACLcBGAsYHQ/w200-h200/liga%2Bpro.png",ECU-PPV 1 (PM)(1080)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/66867
-#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://1.bp.blogspot.com/-QeYaHCkFXCQ/X9qLYLe7oKI/AAAAAAAAB_o/lwKcEeedVmQuAIaqPr9eUdP27YLI0IJ-ACLcBGAsYHQ/w200-h200/liga%2Bpro.png",ECU-PPV 2 (PM)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/66868
-#EXTINF:-1 group-title="ECUADOR" tvg-logo="https://1.bp.blogspot.com/-QeYaHCkFXCQ/X9qLYLe7oKI/AAAAAAAAB_o/lwKcEeedVmQuAIaqPr9eUdP27YLI0IJ-ACLcBGAsYHQ/w200-h200/liga%2Bpro.png",ECU-PPV 3 (e)(SD)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/69536
 #EXTINF:-1 group-title="ECUADOR" tvg-logo="https://1.bp.blogspot.com/-KhPTmjn2F70/XjhEgEy3cNI/AAAAAAAABC4/2bYqzV2TdQwD9MpRAI_FvDrcajmunSMugCLcBGAsYHQ/s200/6.png",ECU-RTS (M)(1080)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/174610
 #EXTINF:-1 group-title="ECUADOR" tvg-logo="https://1.bp.blogspot.com/-KhPTmjn2F70/XjhEgEy3cNI/AAAAAAAABC4/2bYqzV2TdQwD9MpRAI_FvDrcajmunSMugCLcBGAsYHQ/s200/6.png",ECU-RTS Costa (e)(1080)
@@ -1803,12 +1673,6 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/15535
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/155356
 #EXTINF:-1 group-title="24/7 INFANTIL" tvg-logo="https://1.bp.blogspot.com/-ruyq_hT8I6o/Xr2vaHRIRsI/AAAAAAAAB84/r9aacWanGGc9hbyjUjclYfDyeI3qbPAQwCLcBGAsYHQ/s200/edd.png",Edd y Eddy (e)(SD)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/37853
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/60c343007bcabe0007242aa6/colorLogoPNG.png",El Comisario
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211298
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/5f280149cec6be00072ab1fc/colorLogoPNG.png",El Conquistador del Fin
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211272
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/60e45687313c5f0007bc8e94/colorLogoPNG.png",El encantador de perros
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211310
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/61099f2b40d0640007fc5aa2/colorLogoPNG.png",El Encantador de Perros
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211732
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/612f8b455ed5810007170b5f/colorLogoPNG.png",El Mariachi
@@ -1817,12 +1681,6 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/21173
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211697
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5f23102d5e239d00074b092a/colorLogoPNG.png",Empeños a lo bestia
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211693
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/60218baa464ef900073168c1/colorLogoPNG.png",Empeños a lo bestia
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211281
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/61922be835f3910007fc58f6/colorLogoPNG.png",En el punto de mira
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211327
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/63c69c87808b740007599fe1/colorLogoPNG.png",Érase una vez...
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211356
 #EXTINF:-1 group-title="ESPAÑA",ESP - 24 Horas (X)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/117676
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="http://tvgolatino.com:8080/images/6be7cbfc3e262821b3c3cf041f24de5c.png",ESP - 24h (TV)(720)
@@ -1841,8 +1699,6 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/11715
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/117158
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-_SG5c5jiKmI/XyNeHmgz0wI/AAAAAAAAAnE/JCc9IsDbuUQidocx-o4AxZHdAoCIHRXsQCLcBGAsYHQ/w200-h200/84%2BAntena3int.png",ESP - Antena 3 Internacional (TV)(1080)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/117160
-#EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-_yN6S9GwyRI/XxZrmFipxHI/AAAAAAAAAgs/UHjw8RHgXngR7aibf3eePWKK6sS6U2AWgCLcBGAsYHQ/w200-h200/25%2BAXN.png",ESP - AXN (X)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/117214
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-DQIttGLeoK8/XxZrmA8GcmI/AAAAAAAAAgo/ZTRAxK0DnS0UoqCUdQuwAxPWI4Wwl8cbACLcBGAsYHQ/w200-h200/24%2BAXN%2BWhite.png",ESP - AXN White (TV)(1080)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/117217
 #EXTINF:-1 group-title="ESPAÑA" tvg-logo="https://1.bp.blogspot.com/-DQIttGLeoK8/XxZrmA8GcmI/AAAAAAAAAgo/ZTRAxK0DnS0UoqCUdQuwAxPWI4Wwl8cbACLcBGAsYHQ/w200-h200/24%2BAXN%2BWhite.png",ESP - AXN White (X)(720)
@@ -2061,26 +1917,10 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/21531
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211711
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png",Estrellas de Acción
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211680
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/60d3583ef310610007fb02b1/colorLogoPNG.png",Euronews
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211306
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5ebaccf1734aaf0007142c86/colorLogoPNG.png",FailArmy
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211687
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/5f1abf5fafb5ee0007d4d0ca/colorLogoPNG.png",FailArmy
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211249
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/60c882460ea4a200076a2a37/colorLogoPNG.png",Fashion TV
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211300
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/60f1673d0e4370000784dc61/colorLogoPNG.png",FUEL TV
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211313
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/6054ab20a365c70007e4fd44/colorLogoPNG.png",Garfield
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211285
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/6320ddef274b1b0007b2ee88/colorLogoPNG.png",Gran Hermano en vivo
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211765
-#EXTINF:-1 group-title="GUATEMALA" tvg-logo="http://latinoamericatv.vip:8080/images/985a875a3b25d7596c2cac4cac35feb0.png",GUA-Canal 11 (C)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/153914
-#EXTINF:-1 group-title="GUATEMALA" tvg-logo="http://latinoamericatv.vip:8080/images/c51fc05149e76e406a6c9d32a0994488.png",GUA-Canal 3 (C)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/153912
-#EXTINF:-1 group-title="GUATEMALA" tvg-logo="http://latinoamericatv.vip:8080/images/d3f6238cf4186e4b807ad607dd963c1e.png",GUA-Canal 7 (C)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/153913
 #EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://1.bp.blogspot.com/-wwui5NskNCo/X3JUHCyCDQI/AAAAAAAABmI/dpUeS4XpadoemecyAh5KnYXEqZHjGmSkACLcBGAsYHQ/w200-h200/Retro%2Btv.png",GUA-Retro Tv (TV)(SD)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/60141
 #EXTINF:-1 group-title="GUATEMALA" tvg-logo="https://1.bp.blogspot.com/-IDav7Vp-Z2E/X3JubZhPwlI/AAAAAAAABn4/Cy7FSTJ0HUwmDws0sC8I_i5jCND6DlWoACLcBGAsYHQ/w200-h200/Tigo%2BSports%2Bhomduras.png",GUA-Tigo Sport  (X)(720)
@@ -2137,22 +1977,10 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/15391
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/153919
 #EXTINF:-1 group-title="HONDURAS" tvg-logo="https://cdn.apkmonk.com/images/unetv.live.png",HON-Une TV (C)(SD)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/153923
-#EXTINF:-1 group-title="HONDURAS" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e7/Vtvhond1985.png",HON-Vica TV (C)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/153926
 #EXTINF:-1 group-title="HONDURAS",HON-VTV (M)(HQ)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/100807
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/6181404ef48321000797bc41/colorLogoPNG.png",iCarly
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211326
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/62154548a2be360007cb02f0/colorLogoPNG.png",Ice Pilots
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211750
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/61b9edc4a4ca6100070bb407/colorLogoPNG.png",Ice Pilots
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211331
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/5f1ac118dd7e6000077e31af/colorLogoPNG.png",IGN
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211250
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/632c6df43d2bc5000751f621/colorLogoPNG.png",Inazuma Eleven
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211352
-#EXTINF:-1 group-title="CANALES-INFANTILES" tvg-logo="https://1.bp.blogspot.com/-e2fNIV-SPZg/XbCJ779SimI/AAAAAAAAAnI/gnkHgVl1IjkHPfPhMUyEzUnR7ysP9jsgQCLcBGAsYHQ/s200/2.png",INF-Baby First (C)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/26886
 #EXTINF:-1 group-title="CANALES-INFANTILES" tvg-logo="https://1.bp.blogspot.com/-e2fNIV-SPZg/XbCJ779SimI/AAAAAAAAAnI/gnkHgVl1IjkHPfPhMUyEzUnR7ysP9jsgQCLcBGAsYHQ/s200/2.png",INF-Baby tv (PM)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/1887
 #EXTINF:-1 group-title="CANALES-INFANTILES" tvg-logo="https://1.bp.blogspot.com/-9UXQbO1ONHc/XbCJ8AM4PDI/AAAAAAAAAnQ/KAQFIcqoRJ81qr-mxPGwBOs5BqQRSumFwCLcBGAsYHQ/s200/4.png",INF-Cartoon Network (M)(1080)
@@ -2195,34 +2023,18 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/1891
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/27335
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/615b9855c6b58b000724477f/colorLogoPNG.png",Iron Chef
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211737
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/60a286daf888610007669801/colorLogoPNG.png",Just for Laughs
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211296
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png",Karaoke por Stingray
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211702
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/5f1abe3ffcd659000770d88d/colorLogoPNG.png",La Chica Invisible
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211247
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/62d08af527ce19000731eaa0/colorLogoPNG.png",La Familia del Barrio
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211761
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/62d816fcf24d280008762ee9/colorLogoPNG.png",La Liga Premier | Paramount+
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211762
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/6335a79d10efe80007297a94/colorLogoPNG.png",La Media Inglesa
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211353
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/60f58f2278490000079bc47b/colorLogoPNG.png",La niñera
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211316
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/63211ba9cad976000794f988/colorLogoPNG.png",La Selección
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211767
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5f9996533c9de3000759ccb5/colorLogoPNG.png",Las Pistas de Blue
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211706
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/5f1acb4eebe0f0000767b40f/colorLogoPNG.png",Las reglas del juego
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211262
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/61373f1a12dd9f00077dcd6f/colorLogoPNG.png",Las Tortugas Ninja
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211324
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5e67d41b93312100076f3fca/colorLogoPNG.png",Los archivos del FBI
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211675
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/5f1acbed25948a0007ffbe65/colorLogoPNG.png",Los archivos del FBI
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211264
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/5f1acba0d1f6340007db8843/colorLogoPNG.png",Los nuevos detectives
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211263
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/6322099c822bbc00074857db/colorLogoPNG-1667576393608.png",Los Padrinos Mágicos
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211768
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png",Los Tres Chiflados
@@ -2233,10 +2045,6 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/21170
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211756
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG.png",MasterChef
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211673
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/60f58d45696a530007088486/colorLogoPNG.png",Matrimonio con hijos
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211315
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/6245c03922d9d4000760d205/colorLogoPNG.png",Melrose Place
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211342
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-CPfX_QtjfdM/X3JHdum4NiI/AAAAAAAABlQ/8hxqMan4cGMlgryah9VcPZG-lPiQTrepgCLcBGAsYHQ/w200-h200/A%252B%2BMEX.png",MEX-A+ (C)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/59685
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-Yn__LgpchcE/Xm52XauLjpI/AAAAAAAABiY/S60f_ofdAnYF53Jf8JA66zk1PrYaz1SIACLcBGAsYHQ/s200/27.png",MEX-ADN 40 (X)(SD)
@@ -2245,8 +2053,6 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/26681
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/115776
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://lh3.googleusercontent.com/-Xpl_D0TIJe8/YkypGR0m1lI/AAAAAAAADec/wDEMuWaHD20UTpRzLbkROLBMiEikEC5CACNcBGAsYHQ/w200-h200/1649191192417412-0.png",MEX-Afizzionados (X)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/153303
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://static.epg.best/mx/Amastv.mx.png",MEX-Amas Tv (X)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/153529
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://www.m3u.cl/logo/1042_AMX_Noticias.png",MEX-AMX Noticias (X)(LOCAL)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/153584
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-3eU7xslEFZk/Xm524xBc-gI/AAAAAAAABig/BnpS_TTJdvkN7ws9druV4X2ZqZmEtPN9wCLcBGAsYHQ/s200/28.png",MEX-Antena 3 (M)(1080)
@@ -2273,8 +2079,6 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/15354
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/1883
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Multimedios_Canal_Seis_Logo.svg/1200px-Multimedios_Canal_Seis_Logo.svg.png",MEX-Canal 6 Nacional (X)(LOCAL)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/153543
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-0GKPjFkLCbw/Xm5sWsaodSI/AAAAAAAABfo/5qrJ-GrvG2YtVS9bSETVayaR4Aui9tcBACLcBGAsYHQ/s200/15.png",MEX-Canal Once (X)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/153531
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-jR8nphDOHss/X3JHd8b7uDI/AAAAAAAABlU/SssqOjOaBaYhGhzhx1FlQo-_XrUJ_aeZgCLcBGAsYHQ/w200-h200/Cinema%2Bdinamita.png",MEX-Cinema Dinamita (TV)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/59686
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-fscNkID2Ypo/XazGNHsWN-I/AAAAAAAAAlg/Ypqsm7nevxMjK0ArqE0roclpCZDt5kwCQCLcBGAsYHQ/s200/21.png",MEX-Claro Sports (M)(1080)
@@ -2285,10 +2089,6 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/15353
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/153533
 #EXTINF:-1 group-title="MEXICO" tvg-logo="http://tv.proyectox.vip:28000/images/1679091c5a880faf6fb5e6087eb1b2dc.png",MEX-Foro TV (TV)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/153534
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-y283ot09Ihc/Xm7RANtYfNI/AAAAAAAABnM/SRWTKILBpVIs98kbupZmfCTT2IheW8ceACLcBGAsYHQ/s200/46.png",MEX-Garage TV (M)(SD)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/26692
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-MRcqDIERLTM/XbfvG43H9QI/AAAAAAAAAtQ/2XHC7385JX8m_nqURHh6z3BXAeoz89SvgCLcBGAsYHQ/s200/55.png",MEX-Glitz (C)(SD)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/26953
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-MRcqDIERLTM/XbfvG43H9QI/AAAAAAAAAtQ/2XHC7385JX8m_nqURHh6z3BXAeoz89SvgCLcBGAsYHQ/s200/55.png",MEX-Glitz (M)(SD)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/26724
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-pFI3jFPjagE/Xm5x__C5YzI/AAAAAAAABhA/FeA7umr497kccXsUuVWeJGdocXkpNtzVACLcBGAsYHQ/s200/22.png",MEX-Hola TV (M)(SD)
@@ -2311,8 +2111,6 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/26981
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/153546
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Multimedios_Television.png/150px-Multimedios_Television.png",MEX-Multimedio Monterrey (X)(LOCAL)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/153547
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-pBlrsVZ-j6c/Xm51MIQqpfI/AAAAAAAABiA/QcQJtzsL3owD1PPWzEOuqRzwFvpo0ieegCLcBGAsYHQ/s200/26.png",MEX-Multimedios CDMX (C)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/26954
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-pBlrsVZ-j6c/Xm51MIQqpfI/AAAAAAAABiA/QcQJtzsL3owD1PPWzEOuqRzwFvpo0ieegCLcBGAsYHQ/s200/26.png",MEX-Multimedios Monterrey (C)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/26717
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-f1YB7-1taFo/Xm5tPS_d4QI/AAAAAAAABgA/70ToA3StugwIp6kle6ZamNUhL8EvoiyrwCLcBGAsYHQ/s200/16.png",MEX-Multimedios Plus (M)(1080)
@@ -2335,16 +2133,8 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/26727
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/153536
 #EXTINF:-1 group-title="MEXICO" tvg-logo="http://tv.proyectox.vip:28000/images/6f4922f45568161a8cdf4ad2299f6d23.png",MEX-Tru TV (M)(1080)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/26960
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-9w16hYV4mk8/Xauke2zKBSI/AAAAAAAAAgA/vylcIByzz6kPcin3nnt4EjN1I_E9DI_SQCLcBGAsYHQ/s200/18.png",MEX-Tru TV (M)(SD)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/26690
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-HhMgUg5w7uE/Xm5m0SHm1zI/AAAAAAAABdc/TyVNpHWELl82CGstQay5d5Xdo1bnLemQACLcBGAsYHQ/s200/5.png",MEX-TV 4 Guanajuato (M)(1080)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/26980
-#EXTINF:-1 group-title="MEXICO" tvg-logo="https://1.bp.blogspot.com/-gNllfQCrwKA/Xm6yf1Y8OxI/AAAAAAAABmE/atJYTjeHrXIumb6ZpmlThH0zvyRlc4E1wCLcBGAsYHQ/s200/41.png",MEX-TVC Deportes (X)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/153537
 #EXTINF:-1 group-title="MEXICO" tvg-logo="https://static.epg.best/mx/Unicable.mx.png",MEX-Unicable (X)(1080)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/153541
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/60e4573c9f963e00077ecf25/colorLogoPNG.png",Mi Extraña Obsesión
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211311
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5e46e64dc73db400094b5f0b/colorLogoPNG.png",Minuto Para Ganar
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211674
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5f230e416b68ff00075b0139/colorLogoPNG.png",Misterios Medicos
@@ -2367,48 +2157,20 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/21173
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211722
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/625461ef01f27a0007976ad1/colorLogoPNG.png",MTV Catfish
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211755
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/5f1ab3c7778230000735cf41/colorLogoPNG.png",MTV Catfish TV Show
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211244
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/colorLogoPNG-1677602317994.png",MTV Classic
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211669
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/638693db857364000781b471/colorLogoPNG.png",MTV Con Mi Ex
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211771
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/5f1ab9c6d8f1300007f54e30/colorLogoPNG.png",MTV Cribs
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211245
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/5f98537a5a4341000733aefe/colorLogoPNG.png",MTV Embarazada a los 16
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211276
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/6130d6f3f3f7bb0007dbd092/colorLogoPNG.png",MTV En Vivo
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211320
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/627d3176d7dfa500077042f1/colorLogoPNG.png",MTV Geordies
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211348
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/62ac3d7dc23b400008ae5b5a/colorLogoPNG.png",MTV Jerseys
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211351
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/60a26a056d55b30007918d5a/colorLogoPNG.png",MTV Music Made in Spain
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211295
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/5f1aadf373bed3000794d1d7/colorLogoPNG.png",MTV Originals
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211242
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/61ea759737679900078ff559/colorLogoPNG.png",MTV Party Music
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211335
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG.png",MTV Pluto TV
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211709
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/5f1aae8c65727d0007d15a17/colorLogoPNG.png",MTV Prank
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211243
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/6130d8dc943001000708548d/colorLogoPNG.png",MTV Realities
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211321
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5e98a911c881310007d7aae2/colorLogoPNG.png",MTV Ridiculousness
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211681
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/61a52615cbef2500072876e2/colorLogoPNG.png",MTV Shore
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211741
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/6047fd723b5bd00007de7092/colorLogoPNG.png",MTV Spankin' New
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211723
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/611b87946b7f420007c22361/colorLogoPNG.png",MTV Tattoo a dos
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211318
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/620fd9f4afb9a80007a9c6d5/colorLogoPNG.png",MTV Teen Mom
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211748
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/604f81a49ef73300070e554f/colorLogoPNG.png",MTV Teen Mom
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211284
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/62444f34ea3ade0007ade6ac/colorLogoPNG.png",MTV Urban Music
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211340
 #EXTINF:-1 group-title="CANALES-MUSICA" tvg-logo="https://1.bp.blogspot.com/-My8jG2aOmpU/XhBCyl2gbvI/AAAAAAAAA9E/EUuIZBsXKDcLtS6XjnP3m3fKXNCxn7-ZACLcBGAsYHQ/s200/18.png",MUS-Bandamax (M)(SD)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/26943
 #EXTINF:-1 group-title="CANALES-MUSICA",MUS-HTV (M)(720)
@@ -2427,24 +2189,16 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/26939
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/1302
 #EXTINF:-1 group-title="CANALES-MUSICA",MUS-Retro
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/144135
-#EXTINF:-1 group-title="CANALES-MUSICA" tvg-logo="https://1.bp.blogspot.com/-02Jd3XfDDBY/XhBDl7wMtmI/AAAAAAAAA9Y/lv8ldtBjoZkLtkrugB5qSWF3Hcvz8IypwCLcBGAsYHQ/s200/20.png",MUS-Ritmoson (M)(SD)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/26938
 #EXTINF:-1 group-title="CANALES-MUSICA" tvg-logo="https://1.bp.blogspot.com/-OrPmulntCJo/XbEy645Q6FI/AAAAAAAAArc/l0P2pbedKPEjdXANgLb-WOA2OVz1fL8bgCLcBGAsYHQ/s200/7.png",MUS-Telehit (M)(SD)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/26937
 #EXTINF:-1 group-title="CANALES-MUSICA" tvg-logo="https://1.bp.blogspot.com/-4H-jzW_u4Ks/XbEy6abqq-I/AAAAAAAAArU/yM_eK9uX0Rk-SpHNOZ37x75W7QiSRKJlgCLcBGAsYHQ/s200/5.png",MUS-VH1 (M)(1080)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/26941
 #EXTINF:-1 group-title="CANALES-MUSICA" tvg-logo="https://1.bp.blogspot.com/-Ry2-ptKwl54/XbEy5yS3UGI/AAAAAAAAArQ/FL0X2nggsyI7aWFKJmzM5GAlXD9Z763EwCLcBGAsYHQ/s200/4.png",MUS-Vh1 Classics (M)(SD)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/26942
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/5f1acc91cc9e1b000711ff21/colorLogoPNG.png",Mutante X
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211266
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png",Naruto
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211690
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/60dd6b1da79e4d0007309455/colorLogoPNG.png",Nature Time
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211309
 #EXTINF:-1 group-title="DEPORTES PPV (NBA,NFL,MLB,NHL)" tvg-logo="https://1.bp.blogspot.com/-Z7Eu1oDTPkY/X96athom5UI/AAAAAAAACAg/pzYpa0h9li0CTCTaTnBY7rULAC_0GrvCACLcBGAsYHQ/w200-h200/Nba%2Bleague%2Bpass.png",NBA 01: (SOLO EVENTOS)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/176384
-#EXTINF:-1 group-title="DEPORTES PPV (NBA,NFL,MLB,NHL)" tvg-logo="https://1.bp.blogspot.com/-Z7Eu1oDTPkY/X96athom5UI/AAAAAAAACAg/pzYpa0h9li0CTCTaTnBY7rULAC_0GrvCACLcBGAsYHQ/w200-h200/Nba%2Bleague%2Bpass.png",NBA 03: (SOLO EVENTOS)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/176386
 #EXTINF:-1 group-title="DEPORTES PPV (NBA,NFL,MLB,NHL)" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqTHkrlonOgTlj343CF_wzqSbQQTNriBTUWF6MRIre45PKKBA9G3ZJQwAPYOfh5EawrPRgL376Fdy8dvGJAPiNjSR3suvntofCStMJM0Gt6QsGzU7EcQ0CgH1Qnqic9qgoN7ano8HUEwhLwOvDfolZlbx6G8tM3Npu93Q1P5VjlYppx41amgT6IQ4X/w200-h200/980.png",NHL Network
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/168337
 #EXTINF:-1 group-title="NICARAGUA" tvg-logo="https://1.bp.blogspot.com/-6VKKLD_pNIk/X3OxKadlEVI/AAAAAAAABpk/I23V6DXQezYIc-Vfey52Xf1KNoIuojdtgCLcBGAsYHQ/w200-h200/Canal%2B10%2Bnicaragua.jpg",NIC-Canal 10 (M)
@@ -2475,8 +2229,6 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/21171
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211749
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/6202ab549654c800076ee13f/colorLogoPNG.png",Nickelodeon Rocket Power
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211746
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/6228b6a38717420007375848/colorLogoPNG.png",Nickelodeon Ukraine
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211336
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5f9afb01816137000737f799/colorLogoPNG.png",Nosey Escándalos
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211708
 #EXTINF:-1 group-title="CANALES-NOTICIA" tvg-logo="https://1.bp.blogspot.com/-EvQ65hBDha4/Xm5XsvwMm8I/AAAAAAAABbU/i6tLNE9eN4cHVxK_-It9hruH-81eLn16ACLcBGAsYHQ/s200/1.png",NOT-CNN en Español (M)(1080)
@@ -2535,8 +2287,6 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/1278
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/104126
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-kbKCAO5Ni74/X2p5OrU7y4I/AAAAAAAABdA/rKNfwy3Uti4cVYTFDvuHRg58YKdYpYKfgCLcBGAsYHQ/w200-h200/Telemundo.png",NOV-Telemundo Miami (M)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/72256
-#EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",NOV-Telemundo Miami WSCV (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/1272
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png",NOV-Telemundo New York WNJU (M)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/1271
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-zznJ3i27jig/Xm7W33f_2YI/AAAAAAAABoc/jTgvMxfZfKsUl9HYYo4RvBdC2X0Q16YcgCLcBGAsYHQ/s200/50.png",NOV-Telemundo Orlando Florida (TV)(720)
@@ -2571,8 +2321,6 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/10068
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/69572
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-6M6hQPgGFJA/XzRaku-tHtI/AAAAAAAAA48/8r7dtHJwJ1E80DId_OZOGi-28-hwonydgCLcBGAsYHQ/w200-h200/124%2BTv%2Bone.png",NOV-Universo Este (PM)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/65424
-#EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png",NOV-Univision (M)(1080)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/69972
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="http://tv.proyectox.vip:28000/images/0b4a93e7e427fb771133300c78e38d60.png",NOV-Univision (PM)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/1878
 #EXTINF:-1 group-title="CANALES-NOVELAS" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png",NOV-Univision Chicago (C)(720)
@@ -2627,8 +2375,6 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/3254
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/3256
 #EXTINF:-1 group-title="PANAMA" tvg-logo="https://1.bp.blogspot.com/-M0m5mwEpo4Q/Xw82m-p33YI/AAAAAAAAAX0/4zcQUq2dIFQyEPVsIXwXYcRZNNJtOTKxgCLcBGAsYHQ/w200-h200/RPC%2BPanama.png",PAN-RPC Canal 4 (TV)(1080)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/154195
-#EXTINF:-1 group-title="PANAMA" tvg-logo="https://1.bp.blogspot.com/-M0m5mwEpo4Q/Xw82m-p33YI/AAAAAAAAAX0/4zcQUq2dIFQyEPVsIXwXYcRZNNJtOTKxgCLcBGAsYHQ/w200-h200/RPC%2BPanama.png",PAN-RPC Canal 4 (X)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/1266
 #EXTINF:-1 group-title="PANAMA" tvg-logo="https://1.bp.blogspot.com/-pKQdPEaIL20/Xw82nAzNJmI/AAAAAAAAAX4/jDlUKQr0hbYFHF0JztWZOKcKNxXErMXigCLcBGAsYHQ/w200-h200/Ser%2BTv%2BPanama.png",PAN-Ser TV Canal 11 (M)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/3260
 #EXTINF:-1 group-title="PANAMA" tvg-logo="https://1.bp.blogspot.com/-pKQdPEaIL20/Xw82nAzNJmI/AAAAAAAAAX4/jDlUKQr0hbYFHF0JztWZOKcKNxXErMXigCLcBGAsYHQ/w200-h200/Ser%2BTv%2BPanama.png",PAN-Sertv (C)(720)
@@ -2697,8 +2443,6 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/60132
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/60134
 #EXTINF:-1 group-title="PARAGUAY" tvg-logo="https://1.bp.blogspot.com/-NSFaHxIZvsU/X3O4rTPeqrI/AAAAAAAABrU/_X4L4S_rHiYiIIucuqmzowWIx-HJZXTKgCLcBGAsYHQ/w200-h200/Unicanal%2Bparaguay.png",PAR-Unicanal(M)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/1234
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/5f1ac1780e94100007f94b3f/colorLogoPNG.png",People are Awesome
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211251
 #EXTINF:-1 group-title="PERU" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCIZWJcy8OoB5O3vMDtkkf-BPGQTp9CRBkI6VSbdQ-_PICObmvVZ8Xpnowe-0HWMr_YJca00TQDLtpETSgj05IrQKWExA66SpNJQIRS57uFC5KQSrO3Fi95Wb86Uyi5p36IlXVR2f_6odaD4NwA3dMHTCR5UIcSPsPAiQBWdPgc-0JX5e5qHG6S9xi/w200-h200/proyectox4%20(10).png",PER- Liga 1 MAX (TV)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/176688
 #EXTINF:-1 group-title="PERU" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdn5Gm_9A792eZ7qfiQ-KFpqkLe2ZOFFSZ3q2IbZiLCWkxdhIJ-aIr3twTPg10hpqOK7coVIcZBGZSg_vAeYe2A-hJSFbIbThnLbpRzzEfGdohguD1s3WG1ECHzCwReVCuj-p_uXmdNoNB0L0qdYqOGT9h4phMWqpIbsLPIqJyKXkk3M76TfPiyX37/w200-h200/proyectox4%20(11).png",PER- Liga 1 MAX OP2 (C)(720)
@@ -2717,8 +2461,6 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/15383
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/153590
 #EXTINF:-1 group-title="PERU" tvg-logo="https://1.bp.blogspot.com/-B9BDRwwOw8c/Xw_BnNoYKMI/AAAAAAAAAZs/GaUqj7HQOB8VbQEGuShFi6fGyRBA8_GywCLcBGAsYHQ/w200-h200/Canla%2BN%2BPeru.png",PER-Canal N (TV)(SD)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/31437
-#EXTINF:-1 group-title="PERU" tvg-logo="https://1.bp.blogspot.com/-B9BDRwwOw8c/Xw_BnNoYKMI/AAAAAAAAAZs/GaUqj7HQOB8VbQEGuShFi6fGyRBA8_GywCLcBGAsYHQ/w200-h200/Canla%2BN%2BPeru.png",PER-Canal N (X)(1080)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/59860
 #EXTINF:-1 group-title="PERU" tvg-logo="https://lh3.googleusercontent.com/-Vq1faHyWhUU/YmxO6KDonHI/AAAAAAAADhM/TzNOkCqhxnURVeZ6rLdDimJBzSOo9EBbACNcBGAsYHQ/w200-h200/1651265255210180-48.png",PER-Cultura 24 TV (X)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/153597
 #EXTINF:-1 group-title="PERU" tvg-logo="http://tv.proyectox.vip:28000/images/1a5a73ceeba767d8c4a12facd0299135.png",PER-Exitosa (X)(720)
@@ -2783,68 +2525,42 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/21165
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211671
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/61b793ccf571b80007b7a610/colorLogoPNG.png",Pluto TV Adrenalina Freezone
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211742
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/5f1aabee6f4a2c00076a322c/colorLogoPNG.png",Pluto TV Animakids
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211241
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png",Pluto TV Animales
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211659
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/600ae6a78d801e0007117d21/colorLogoPNG.png",Pluto TV Animales
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211280
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png",Pluto TV Anime
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211646
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/608035b8d8705f0007260287/colorLogoPNG.png",Pluto TV Anime
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211290
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5e6a4d875d7ccf0007cc2cf1/colorLogoPNG.png",Pluto TV Animé Acción
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211677
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/636e83511fa9600007e5ae19/colorLogoPNG.png",Pluto TV Anime Kids
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211770
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5ddc266f80e3550009136843/colorLogoPNG.png",Pluto TV Aventura
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211663
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/5f1aa7aab66c76000790ee7e/colorLogoPNG.png",Pluto TV Big Time Rush (720p)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211358
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5dd8364ea1d6780009929902/colorLogoPNG.png",Pluto TV Ciencia
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211660
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG.png",Pluto TV Cine Acción
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211637
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/5f1ac2591dd8880007bb7d6d/colorLogoPNG.png",Pluto TV Cine Acción
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211253
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/609059dc63be6e0007b4eca6/colorLogoPNG.png",Pluto TV Cine Clásico
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211726
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/61373bb45168fe000773eecd/colorLogoPNG.png",Pluto TV Cine Clásico
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211322
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5dcdde78f080d900098550e4/colorLogoPNG.png",Pluto TV Cine Comedia
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211638
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/5f1ac8099c49f600076579b2/colorLogoPNG.png",Pluto TV Cine Comedia
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211254
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/624af40c004f8000079b784d/colorLogoPNG.png",Pluto TV Cine Crimen
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211752
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/colorLogoPNG.png",Pluto TV Cine Drama
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211641
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/5f1ac947dcd00d0007937c08/colorLogoPNG.png",Pluto TV Cine Drama
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211258
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png",Pluto TV Cine Estelar
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211651
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/5f1ac1f1b66c76000790ef27/colorLogoPNG.png",Pluto TV Cine Estelar
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211252
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/colorLogoPNG.png",Pluto TV Cine Familia
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211656
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/colorLogoPNG.png",Pluto TV Cine Romance
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211658
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/5f1ac9a2d3611d0007a844bb/colorLogoPNG.png",Pluto TV Cine Romántico
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211259
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/colorLogoPNG.png",Pluto TV Cine Suspenso
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211664
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG.png",Pluto TV Cine Terror
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211639
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG.png",Pluto TV Cocina
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211642
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/5f1acdaa8ba90f0007d5e760/colorLogoPNG.png",Pluto TV Cocina
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211269
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png",Pluto TV Deportes
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211643
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/5f1ac8588734f8000823b7de/colorLogoPNG.png",Pluto TV Deportes
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211255
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/61cd78920b90cb0007e28231/colorLogoPNG.png",Pluto TV Documentales
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211333
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5ffe17e3d765170007c3a4fe/colorLogoPNG.png",Pluto TV España
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211719
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/colorLogoPNG.png",Pluto TV E-Sports
@@ -2853,106 +2569,58 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/21171
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211689
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5fcea359e533cb0007215c71/colorLogoPNG.png",Pluto TV Filmstream
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211712
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/6140a074a99e79000738162a/colorLogoPNG.png",Pluto TV Fitness
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211325
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/63c6e37e636b7e0007ccb635/colorLogoPNG.png",Pluto TV Fútbol
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211773
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/colorLogoPNG.png",Pluto TV Historia
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211667
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/61cd7b49543066000713b620/colorLogoPNG.png",Pluto TV Historia
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211334
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5dd6ab8056beb000091fc6b6/colorLogoPNG.png",Pluto TV Hogar
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211652
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/6267d4d1fb694f0007a6af0e/colorLogoPNG.png",Pluto TV Horror
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211345
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5e8397936791b30007ebb5a7/colorLogoPNG.png",Pluto TV Humor
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211679
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/60cc807324d60a0007708dc8/colorLogoPNG.png",Pluto TV Indies
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211303
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/colorLogoPNG.png",Pluto TV Investiga
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211648
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/602ba1cfb386d30007aecbbe/colorLogoPNG.png",Pluto TV Investiga
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211282
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/colorLogoPNG.png",Pluto TV Junior
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211649
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/5f1aa9bcd8160700076d45d1/colorLogoPNG.png",Pluto TV Junior
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211239
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png",Pluto TV Kids
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211654
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/5f1aab1d29b39600073e243f/colorLogoPNG.png",Pluto TV Kids
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211240
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/60c8b3ddaaf9d4000780066f/colorLogoPNG.png",Pluto TV K-Pop
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211302
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/6109ab25b84d6a0007504886/colorLogoPNG.png",Pluto TV Mi Obsesión Favorita
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211734
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5dcde2f53449c50009b2b4dc/colorLogoPNG.png",Pluto TV Misterios
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211650
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/6080345ebb49b90007ce0baf/colorLogoPNG.png",Pluto TV Motor
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211289
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png",Pluto TV Naturaleza
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211662
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png",Pluto TV Novelas
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211644
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/612ce5214bb5790007ad3016/colorLogoPNG.png",Pluto TV Paranormal
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211319
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/colorLogoPNG.png",Pluto TV Peleas
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211682
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5dcde197f6591d0009839e04/colorLogoPNG.png",Pluto TV Reality
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211647
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/61b87bc867b03a0007864e0d/colorLogoPNG.png",Pluto TV Reality
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211330
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/609062295c2b8f0007199e7a/colorLogoPNG.png",Pluto TV Recetas
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211727
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/60142258a54aeb0007751c15/colorLogoPNG.png",Pluto TV Retro Cartoons
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211721
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5f2817d3d7573a00080f9175/colorLogoPNG.png",Pluto TV Sci-Fi
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211694
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/5f6a38eaa5b68b0007a00e7a/colorLogoPNG.png",Pluto TV Sci-Fi
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211273
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5dcde1317578340009b751d0/colorLogoPNG.png",Pluto TV Series
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211645
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/5f1ac8f49205650007bc15f1/colorLogoPNG.png",Pluto TV Series
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211257
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/5f9853138d19af0007104a8d/colorLogoPNG.png",Pluto TV Series Comedia
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211275
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5dd837642c6e9300098ad484/colorLogoPNG.png",Pluto TV Series Latinas
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211661
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png",Pluto TV Series Retro
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211668
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/619b7db4872c650008eb8b6a/colorLogoPNG.png",Pluto TV Star Trek
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211329
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5dd6de52b9914200091f047a/colorLogoPNG.png",Pluto TV Teen
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211657
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/60016a60a8e3520008e0d331/colorLogoPNG.png",Pluto TV Teen Stars
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211278
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/60b4c06717da110007ee1af6/colorLogoPNG.png",Pluto TV Telenovelas
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211297
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/5f1ac8a87cd38d000745d7cf/colorLogoPNG.png",Pluto TV Thrillers
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211256
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/609e7e423e9173000706a681/colorLogoPNG.png",Pluto TV Toons Clásico
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211294
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/colorLogoPNG.png",Pluto TV Velocidad
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211655
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5dcddfbdb7cf0e0009ae09ea/colorLogoPNG.png",Pluto TV Viajes
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211640
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/60c343ad476ec00007c2ec1a/colorLogoPNG.png",Pluto TV Viajes
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211299
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5df265697ec3510009df1ef0/colorLogoPNG.png",Pluto TV Vida Real
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211672
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/6385e82900ab2e000768a058/colorLogoPNG.png",Pluto TV Western
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211354
-#EXTINF:-1 group-title="EVENTOS PPV" tvg-logo="https://lh3.googleusercontent.com/-vuvpoyK00Ww/YcDE3nnqiuI/AAAAAAAACas/NBgJnGxhgYMeqOb9tbjar8By1mEq1L4ngCNcBGAsYHQ/w200-h200/1640023261001505-0.png",PPV (PM) (1080)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/67036
-#EXTINF:-1 group-title="DEPORTES MUNDIAL PPV" tvg-logo="https://static.wixstatic.com/media/e1560f_dcb23969e14046fb96f639ce04d4487b~mv2.png/v1/fill/w_250,h_250,al_c,lg_1,q_85,enc_auto/e1560f_dcb23969e14046fb96f639ce04d4487b~mv2.png",PPV 1 - DAZN 2 (TV)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/155688
 #EXTINF:-1 group-title="EVENTOS PPV" tvg-logo="https://lh3.googleusercontent.com/-vuvpoyK00Ww/YcDE3nnqiuI/AAAAAAAACas/NBgJnGxhgYMeqOb9tbjar8By1mEq1L4ngCNcBGAsYHQ/w200-h200/1640023261001505-0.png",PPV 1 (e)(1080)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/1823
 #EXTINF:-1 group-title="DEPORTES MUNDIAL PPV" tvg-logo="https://1.bp.blogspot.com/-6DHJ6L4Kz_8/X907-WKd9eI/AAAAAAAACAI/pqfoj6Vv59AgJzWd9YHzHJpIHYb7rz_OwCLcBGAsYHQ/w200-h200/dazn.png",PPV 1 DAZN 1 (C)(1080)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/66917
 #EXTINF:-1 group-title="DEPORTES MUNDIAL PPV" tvg-logo="https://1.bp.blogspot.com/-6DHJ6L4Kz_8/X907-WKd9eI/AAAAAAAACAI/pqfoj6Vv59AgJzWd9YHzHJpIHYb7rz_OwCLcBGAsYHQ/w200-h200/dazn.png",PPV 1 DAZN 3 (C)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/115885
-#EXTINF:-1 group-title="DEPORTES MUNDIAL PPV" tvg-logo="https://1.bp.blogspot.com/-6DHJ6L4Kz_8/X907-WKd9eI/AAAAAAAACAI/pqfoj6Vv59AgJzWd9YHzHJpIHYb7rz_OwCLcBGAsYHQ/w200-h200/dazn.png",PPV 1 DAZN 4 (C)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/115984
 #EXTINF:-1 group-title="DEPORTES MUNDIAL PPV" tvg-logo="https://1.bp.blogspot.com/-6DHJ6L4Kz_8/X907-WKd9eI/AAAAAAAACAI/pqfoj6Vv59AgJzWd9YHzHJpIHYb7rz_OwCLcBGAsYHQ/w200-h200/dazn.png",PPV 1 DAZN Formula 1 (TV)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/115985
 #EXTINF:-1 group-title="DEPORTES MUNDIAL PPV" tvg-logo="https://1.bp.blogspot.com/-6DHJ6L4Kz_8/X907-WKd9eI/AAAAAAAACAI/pqfoj6Vv59AgJzWd9YHzHJpIHYb7rz_OwCLcBGAsYHQ/w200-h200/dazn.png",PPV 1 DAZN Formula 1 (TV)(720)
@@ -2965,14 +2633,6 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/1824
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/66920
 #EXTINF:-1 group-title="URUGUAY" tvg-logo="https://lh3.googleusercontent.com/-8FWfsnXrfjw/YmcxbQYcNgI/AAAAAAAADgc/0q0Y9KKekoEkrrkHz70I_7OVTJeuc3D7gCNcBGAsYHQ/w200-h200/1650930027620989-0.png",PPV 2-Uruguay (e) (720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/153824
-#EXTINF:-1 group-title="EVENTOS PPV" tvg-logo="https://lh3.googleusercontent.com/-vuvpoyK00Ww/YcDE3nnqiuI/AAAAAAAACas/NBgJnGxhgYMeqOb9tbjar8By1mEq1L4ngCNcBGAsYHQ/w200-h200/1640023261001505-0.png",PPV 3 (e)(1080)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/140903
-#EXTINF:-1 group-title="EVENTOS PPV" tvg-logo="https://lh3.googleusercontent.com/-vuvpoyK00Ww/YcDE3nnqiuI/AAAAAAAACas/NBgJnGxhgYMeqOb9tbjar8By1mEq1L4ngCNcBGAsYHQ/w200-h200/1640023261001505-0.png",PPV 4 (e)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/988
-#EXTINF:-1 group-title="EVENTOS PPV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPmFqJ-p_6HvnMePBOus1LMlL4jBp_DI7YbjxMtx8fwTHfhw5Fi4jBDFMybNTuttNOxnHpuVHpETBcUa4zL4_T2sketkAfSApf498hxeyJkrrK4D8b4O99E-fqX-51993wpyqDVNrVEXqPG09XWPWtjhlEDN3K0vIjf5XD4LOKkH8vXapkT1pwAnsT/w200-h200/proyectox4%20(8).png",PPV 5 Star+ 1 (SOLO EVENTOS)(e)(1080)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/140904
-#EXTINF:-1 group-title="EVENTOS PPV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPmFqJ-p_6HvnMePBOus1LMlL4jBp_DI7YbjxMtx8fwTHfhw5Fi4jBDFMybNTuttNOxnHpuVHpETBcUa4zL4_T2sketkAfSApf498hxeyJkrrK4D8b4O99E-fqX-51993wpyqDVNrVEXqPG09XWPWtjhlEDN3K0vIjf5XD4LOKkH8vXapkT1pwAnsT/w200-h200/proyectox4%20(8).png",PPV 6 Star+ 2 (SOLO EVENTOS)(e)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/140905
 #EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://lh3.googleusercontent.com/-AztD9NPPXqw/YmaxuOuQHzI/AAAAAAAADgE/EkFR3blS5fYK_7GkbuN0zO1uZ_oXV9fFACNcBGAsYHQ/w200-h200/1650897333695475-0.png",PPV Cinema 4K (Dual Audio) | Cinema  1
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/153813
 #EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://lh3.googleusercontent.com/-AztD9NPPXqw/YmaxuOuQHzI/AAAAAAAADgE/EkFR3blS5fYK_7GkbuN0zO1uZ_oXV9fFACNcBGAsYHQ/w200-h200/1650897333695475-0.png",PPV Cinema 4K (Dual Audio) | Cinema  10
@@ -3051,10 +2711,6 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/1673
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/1674
 #EXTINF:-1 group-title="*****CINEMA ESTELAR*****" tvg-logo="https://1.bp.blogspot.com/-y-LLqYA9tuI/YMJVC-4OtzI/AAAAAAAACTs/cJeAh5a1sxgDA8Msnt_w8mviZ52clKkvgCLcBGAsYHQ/w200-h200/LOGO1.png",PPV Cinema Latino 33(M)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/1675
-#EXTINF:-1 group-title="DEPORTES PPV (NBA,NFL,MLB,NHL)" tvg-logo="https://1.bp.blogspot.com/-TaSQofcox6o/X1_B4fytEZI/AAAAAAAABPw/ZnboX0kTpYUDo-nx1Xta5KGhp0IsnEfMwCLcBGAsYHQ/w200-h200/NFL.png",PPV-NFL Network (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/100815
-#EXTINF:-1 group-title="DEPORTES PPV (NBA,NFL,MLB,NHL)" tvg-logo="https://1.bp.blogspot.com/-TaSQofcox6o/X1_B4fytEZI/AAAAAAAABPw/ZnboX0kTpYUDo-nx1Xta5KGhp0IsnEfMwCLcBGAsYHQ/w200-h200/NFL.png",PPV-NFL Now (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/100816
 #EXTINF:-1 group-title="PUERTO RICO" tvg-logo="http://tv.proyectox.vip:28000/images/50761531d3ec40a70b94df11f6e31db2.png",PR-Mega TV (TV)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/153313
 #EXTINF:-1 group-title="PUERTO RICO" tvg-logo="https://lh3.googleusercontent.com/-d5nr1Od1jfc/YjdSZEkVJCI/AAAAAAAADdM/UmPOnqVn6o8aTbz7gsxme4sK_LyDauxewCNcBGAsYHQ/w200-h200/1647792738851554-0.png",PR-Punto 2 (X)(720)
@@ -3063,12 +2719,8 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/15331
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/3268
 #EXTINF:-1 group-title="PUERTO RICO" tvg-logo="https://1.bp.blogspot.com/-kbKCAO5Ni74/X2p5OrU7y4I/AAAAAAAABdA/rKNfwy3Uti4cVYTFDvuHRg58YKdYpYKfgCLcBGAsYHQ/w200-h200/Telemundo.png",PR-Telemundo Puerto Rico (M)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/107184
-#EXTINF:-1 group-title="PUERTO RICO" tvg-logo="https://1.bp.blogspot.com/-kbKCAO5Ni74/X2p5OrU7y4I/AAAAAAAABdA/rKNfwy3Uti4cVYTFDvuHRg58YKdYpYKfgCLcBGAsYHQ/w200-h200/Telemundo.png",PR-Telemundo Puerto Rico (X)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/153316
 #EXTINF:-1 group-title="PUERTO RICO" tvg-logo="https://1.bp.blogspot.com/-kbKCAO5Ni74/X2p5OrU7y4I/AAAAAAAABdA/rKNfwy3Uti4cVYTFDvuHRg58YKdYpYKfgCLcBGAsYHQ/w200-h200/Telemundo.png",PR-Telemundo(M)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/1228
-#EXTINF:-1 group-title="PUERTO RICO" tvg-logo="https://1.bp.blogspot.com/-Fybdl5LVgNQ/X2p5PfDKmrI/AAAAAAAABdM/u6xSHbCbRyYoLuI9mp-9W7gHWvDs7SjLACLcBGAsYHQ/w200-h200/Univision%2BPuerto%2BRico.png",PR-Univision (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/1225
 #EXTINF:-1 group-title="PUERTO RICO" tvg-logo="https://1.bp.blogspot.com/-Fybdl5LVgNQ/X2p5PfDKmrI/AAAAAAAABdM/u6xSHbCbRyYoLuI9mp-9W7gHWvDs7SjLACLcBGAsYHQ/w200-h200/Univision%2BPuerto%2BRico.png",PR-Univision Puerto Rico (C)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/107185
 #EXTINF:-1 group-title="PUERTO RICO" tvg-logo="http://tv.proyectox.vip:28000/images/e842d9162c1deb34911032d6b8442ee7.png",PR-Univision Puerto Rico (C)(720)
@@ -3077,18 +2729,10 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/3267
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/3265
 #EXTINF:-1 group-title="PUERTO RICO" tvg-logo="https://1.bp.blogspot.com/-dOYkwoAzovI/X2p5PrqgIyI/AAAAAAAABdQ/1xlysUzgo4o8LdZpTeO5xCnSoLePtdujgCLcBGAsYHQ/w200-h200/Wapa.png",PR-Wapa (TV)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/107186
-#EXTINF:-1 group-title="PUERTO RICO" tvg-logo="https://1.bp.blogspot.com/-dOYkwoAzovI/X2p5PrqgIyI/AAAAAAAABdQ/1xlysUzgo4o8LdZpTeO5xCnSoLePtdujgCLcBGAsYHQ/w200-h200/Wapa.png",PR-Wapa America (C)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/3266
 #EXTINF:-1 group-title="PUERTO RICO" tvg-logo="https://1.bp.blogspot.com/-dOYkwoAzovI/X2p5PrqgIyI/AAAAAAAABdQ/1xlysUzgo4o8LdZpTeO5xCnSoLePtdujgCLcBGAsYHQ/w200-h200/Wapa.png",PR-Wapa America (X)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/153315
 #EXTINF:-1 group-title="PUERTO RICO",PR-Wapa Deportes (TV)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/154270
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/60f16986acb81b0007c384ac/colorLogoPNG.png",Qello Concerts
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211314
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/60db37b8b919720007c07fa4/colorLogoPNG.png",Qwest Jazz&Beyond
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211308
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/60c8a24e17da110007eed4fd/colorLogoPNG.png",Rakuten Viki
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211301
 #EXTINF:-1 group-title="CANALES-RELIGIOSOS" tvg-logo="https://1.bp.blogspot.com/-d7Tjs6QImsw/X2Oa6nZ3YUI/AAAAAAAABRE/_09TbniFt6wf2pZfObG5HwkkQpABOkTQwCLcBGAsYHQ/w200-h200/07%2BEnlace.png",REL-Enlace TV (M)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/5547
 #EXTINF:-1 group-title="CANALES-RELIGIOSOS" tvg-logo="https://1.bp.blogspot.com/-pW65cYXh8iE/X2Oa4jTNUGI/AAAAAAAABQs/0jDcy-cOvPkbTAgTl11t1RNbI765DkRwwCLcBGAsYHQ/w200-h200/01%2BEsperanza%2Btv.png",REL-Esperanza TV (TV)(720)
@@ -3151,12 +2795,6 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/53659
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/3646
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/colorLogoPNG.png",Rugrats
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211684
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/610c09219fc0430007a3fce6/colorLogoPNG.png",Rugrats
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211317
-#EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/62c5d80dc6de440007e033eb/colorLogoPNG.png",Runtime
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211759
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png",Runtime
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211292
 #EXTINF:-1 group-title="SALVADOR",SAL- TVES Canal 10 (720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/67443
 #EXTINF:-1 group-title="SALVADOR" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/70c3a76f846899c633ec789079fe1e4c.png",SAL-Canal 12 (C)(720)
@@ -3181,28 +2819,20 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/3743
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/153898
 #EXTINF:-1 group-title="SALVADOR",SAL-Canal 6 (M)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/3740
-#EXTINF:-1 group-title="SALVADOR" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/8e3c0e0389f7dc44b8bca823e29c111f.png",SAL-Megavision Canal 19 (C)(SD)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/153903
 #EXTINF:-1 group-title="SALVADOR",SAL-Tabernaculo
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/23377
 #EXTINF:-1 group-title="SALVADOR",SAL-VTV Canal 35 (M)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/3744
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/620ac814864949000724fb77/colorLogoPNG.png",Schitt's Creek
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211747
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/6245c2a5eec07b0007249fc8/colorLogoPNG.png",Sensación de Vivir (90210)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211343
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/604bdf4e6d0abc0007ba77ad/colorLogoPNG.png",Sin Tetas No Hay Paraíso
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211724
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/628751bb7154a40007168843/colorLogoPNG.png",South Park
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211349
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5f998c1fc54853000797bacd/colorLogoPNG.png",Tastemade
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211704
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png",Telefe Hits
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211670
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5f523aa5523ae000074745ec/colorLogoPNG.png",Telefe Noticias
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211699
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/627d1b12c8540700073b3f39/colorLogoPNG.png",Telefe Noticias
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211346
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/63d2c140c111bc0008cb890b/colorLogoPNG.png",TeleFórmula
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211774
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/62e017e44823db000726cd9a/colorLogoPNG.png",The Ed Sullivan Show
@@ -3213,22 +2843,8 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/21168
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211753
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5ebacbcae43a6d000787b88e/colorLogoPNG.png",The Pet Collective
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211686
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/5f1abf097eb06300079b30f7/colorLogoPNG.png",The Pet Collective
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211248
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5ff608e60e2996000768c366/colorLogoPNG.png",Tokusato
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211717
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/60d356a534f63f000850cdd7/colorLogoPNG.png",Top Gear
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211304
-#EXTINF:-1 group-title="DEPORTES MUNDIAL PPV" tvg-logo="https://1.bp.blogspot.com/-jcW1rBzYPxg/X8K_4I74kAI/AAAAAAAAB7o/_fHjFYNdsSw5ik-toaPDxHzxVwQXo7HPgCLcBGAsYHQ/w200-h200/TUDN%2Bxtra.png",TUDN xtra 1 (TV)(PPV)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/60037
-#EXTINF:-1 group-title="DEPORTES MUNDIAL PPV" tvg-logo="https://1.bp.blogspot.com/-jcW1rBzYPxg/X8K_4I74kAI/AAAAAAAAB7o/_fHjFYNdsSw5ik-toaPDxHzxVwQXo7HPgCLcBGAsYHQ/w200-h200/TUDN%2Bxtra.png",TUDN xtra 2 (TV)(PPV)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/60038
-#EXTINF:-1 group-title="DEPORTES MUNDIAL PPV" tvg-logo="https://1.bp.blogspot.com/-jcW1rBzYPxg/X8K_4I74kAI/AAAAAAAAB7o/_fHjFYNdsSw5ik-toaPDxHzxVwQXo7HPgCLcBGAsYHQ/w200-h200/TUDN%2Bxtra.png",TUDN xtra 3 (TV)(PPV)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/60039
-#EXTINF:-1 group-title="DEPORTES MUNDIAL PPV" tvg-logo="https://1.bp.blogspot.com/-jcW1rBzYPxg/X8K_4I74kAI/AAAAAAAAB7o/_fHjFYNdsSw5ik-toaPDxHzxVwQXo7HPgCLcBGAsYHQ/w200-h200/TUDN%2Bxtra.png",TUDN xtra 5 (TV)(PPV)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/60041
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/6076c74daa05ac0007d0eb07/colorLogoPNG.png",Tuning
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211287
 #EXTINF:-1 ,Unknown_1
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/3675
 #EXTINF:-1 group-title="URUGUAY" tvg-logo="http://tv.proyectox.vip:28000/images/c6d591777e823620289e0f9147b49640.png",URU - Gol TV URU (TV)(720)
@@ -3239,16 +2855,10 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/59815
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/22178
 #EXTINF:-1 group-title="URUGUAY" tvg-logo="https://1.bp.blogspot.com/-AMgC9i9AlN0/X2phNyqDekI/AAAAAAAABak/OxzAjjhxVkUnVClapZCKB_dhJS6qktpLACLcBGAsYHQ/w200-h200/03.png",URU-Canal 10 HD (M)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/59826
-#EXTINF:-1 group-title="URUGUAY" tvg-logo="https://1.bp.blogspot.com/-o4Zm4MYzQu8/X2phOqt2WrI/AAAAAAAABa0/EQBLJeRvxXosB0eaerjFKxDs20n95HQeACLcBGAsYHQ/w200-h200/05Teledoce.png",URU-Canal 12 La Tele (C)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/153853
 #EXTINF:-1 group-title="URUGUAY" tvg-logo="https://1.bp.blogspot.com/-o4Zm4MYzQu8/X2phOqt2WrI/AAAAAAAABa0/EQBLJeRvxXosB0eaerjFKxDs20n95HQeACLcBGAsYHQ/w200-h200/05Teledoce.png",URU-Canal 12 La Tele (C)(SD)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/153852
-#EXTINF:-1 group-title="URUGUAY" tvg-logo="https://1.bp.blogspot.com/-o4Zm4MYzQu8/X2phOqt2WrI/AAAAAAAABa0/EQBLJeRvxXosB0eaerjFKxDs20n95HQeACLcBGAsYHQ/w200-h200/05Teledoce.png",URU-Canal 12 La Tele (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/22173
 #EXTINF:-1 group-title="URUGUAY" tvg-logo="https://1.bp.blogspot.com/-o4Zm4MYzQu8/X2phOqt2WrI/AAAAAAAABa0/EQBLJeRvxXosB0eaerjFKxDs20n95HQeACLcBGAsYHQ/w200-h200/05Teledoce.png",URU-Canal 12 La Tele (TV)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/59828
-#EXTINF:-1 group-title="URUGUAY" tvg-logo="https://1.bp.blogspot.com/-o4Zm4MYzQu8/X2phOqt2WrI/AAAAAAAABa0/EQBLJeRvxXosB0eaerjFKxDs20n95HQeACLcBGAsYHQ/w200-h200/05Teledoce.png",URU-Canal 12 La Tele (X)(SD)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/105832
 #EXTINF:-1 group-title="URUGUAY" tvg-logo="https://1.bp.blogspot.com/-avtxWWz4PpA/X2phPf5NLtI/AAAAAAAABa8/tXL7of4ZJ_AIlRDo2X25UNxxpSZm243AQCLcBGAsYHQ/w200-h200/07Canal%2B2%2Blascano.png",URU-Canal 2 Lascano (TV)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/59818
 #EXTINF:-1 group-title="URUGUAY" tvg-logo="https://1.bp.blogspot.com/-BAcvdP2-GHw/X2phQBd1nBI/AAAAAAAABbE/VoMrM5jiY-IcIiPoYVW4S3QGAsc7YuiEQCLcBGAsYHQ/w200-h200/09Canal%2B4%2BHD.png",URU-Canal 4 Monte Carlo (C)(720)
@@ -3261,8 +2871,6 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/22174
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/119786
 #EXTINF:-1 group-title="URUGUAY" tvg-logo="https://1.bp.blogspot.com/-BAcvdP2-GHw/X2phQBd1nBI/AAAAAAAABbE/VoMrM5jiY-IcIiPoYVW4S3QGAsc7YuiEQCLcBGAsYHQ/w200-h200/09Canal%2B4%2BHD.png",URU-Canal 4 Monte Carlo (X)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/59835
-#EXTINF:-1 group-title="URUGUAY" tvg-logo="https://1.bp.blogspot.com/-NryKryWub4w/X2phQp0Q5WI/AAAAAAAABbM/iEocbRlW2zQHnY1PXZz0bRKmQRJ6w3gQgCLcBGAsYHQ/w200-h200/11Canal%2B4%2BSalto.png",URU-Canal 4 Salto (TV)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/153856
 #EXTINF:-1 group-title="URUGUAY" tvg-logo="https://1.bp.blogspot.com/-NKmQf3VC8hQ/X2phUrR98kI/AAAAAAAABcA/rUxcUZUAw6MmBKTlMjhRY-_HgYdMqm5CQCLcBGAsYHQ/w200-h200/24Tnu.png",URU-Canal 4 Treinta y Tres (TV)(HQ)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/153849
 #EXTINF:-1 group-title="URUGUAY" tvg-logo="https://1.bp.blogspot.com/-qirB8B7_Zq4/X2phN9rq3aI/AAAAAAAABao/6htN_zWiScAp7eez4fVWxs9iJQX6SJ2qwCLcBGAsYHQ/w200-h200/01A%252Bv.png",URU-Canal A+V (M)(720)
@@ -3297,36 +2905,6 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/15331
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/59844
 #EXTINF:-1 group-title="URUGUAY" tvg-logo="https://1.bp.blogspot.com/-9Z1GdBPiRbo/X2phWG5IWlI/AAAAAAAABcM/nZWo_pYbpRoOHexB0GEJdLzmDiXNA6nGwCLcBGAsYHQ/w200-h200/27VTV%2B%252B.png",URU-VTV Plus (X)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/105831
-#EXTINF:-1 group-title="24/7 U.S.A" tvg-logo="https://1.bp.blogspot.com/-z44bXBmlO2M/X30ukI8W68I/AAAAAAAABw8/U_7wwm6_3nwSNo8F6OjCf8_y8pDbdUMfQCLcBGAsYHQ/w200-h200/Cinemax%2Bwest%2BUSA.png",USA - 24/7 Cinemax West (M)(1080)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/63660
-#EXTINF:-1 group-title="24/7 U.S.A" tvg-logo="https://1.bp.blogspot.com/-CPYOdeib4Io/X30unOr_QAI/AAAAAAAABxU/OtovXSFAPGwrKRZuB10b3ZNfL0216L7nwCLcBGAsYHQ/w200-h200/Indieplex.png",USA - 24/7 IndiePlex (M)(1080)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/63659
-#EXTINF:-1 group-title="24/7 U.S.A" tvg-logo="https://1.bp.blogspot.com/-StIQ9rVWKPk/X30uqolK4tI/AAAAAAAABxw/-n43lz7T2iUNSNXcsJTyyitOyS8uR4GXACLcBGAsYHQ/w200-h200/Moviemax.png",USA - 24/7 MovieMax (M)(1080)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/63657
-#EXTINF:-1 group-title="24/7 U.S.A" tvg-logo="https://1.bp.blogspot.com/-zks8SnjCDwY/X30urPh393I/AAAAAAAABx0/Q6fkBfj9YBcEbaNLozmtJGcx3YGLuJLswCLcBGAsYHQ/w200-h200/Movieplex%2BUSA.png",USA - 24/7 MoviePlex (M)(1080)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/63656
-#EXTINF:-1 group-title="24/7 U.S.A" tvg-logo="https://1.bp.blogspot.com/-bXFzkZ9-JRs/X30usgwRklI/AAAAAAAAByA/AILAp8eGsCIf4hMzIdDN8yaeC75WnhSBACLcBGAsYHQ/w200-h200/Outer%2BMax%2BUSA.png",USA - 24/7 OuterMax (M)(1080)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/63655
-#EXTINF:-1 group-title="24/7 U.S.A" tvg-logo="https://1.bp.blogspot.com/-uR7QxSJgzi0/X30utoaXD7I/AAAAAAAAByI/_EOvaSmiOpohyHynuwplH8JdyewjqCKUQCLcBGAsYHQ/w200-h200/Retro%2Bplex%2BUSA.png",USA - 24/7 RetroPlex (M)(1080)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/63654
-#EXTINF:-1 group-title="24/7 U.S.A" tvg-logo="http://tv.proyectox.vip:28000/images/fdb626029a76ac69ceed95a961b2d42c.png",USA - 24/7 Showtime West (M)(1080)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/63653
-#EXTINF:-1 group-title="24/7 U.S.A" tvg-logo="https://1.bp.blogspot.com/-x-myeghvdgo/X30u2AfYdyI/AAAAAAAABzM/B-wAfXukKdgB5PFsesoJymhsZlpwbFqkgCLcBGAsYHQ/w200-h200/Starz.png",USA - 24/7 Starz (M)(1080)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/63634
-#EXTINF:-1 group-title="24/7 U.S.A" tvg-logo="https://1.bp.blogspot.com/-8_VmDKpRRuM/X30uxLJ24OI/AAAAAAAAByk/taNvCozXCTYbUmBWJHgHRm5VRnlMZlL_gCLcBGAsYHQ/w200-h200/Starz%2BBlack%2BUSA.png",USA - 24/7 Starz Black (M)(1080)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/63652
-#EXTINF:-1 group-title="24/7 U.S.A" tvg-logo="http://tv.proyectox.vip:28000/images/587a580b0711e2e5e14fb48365e05b18.png",USA - 24/7 Starz Cinema West Dual (M)(1080)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/63649
-#EXTINF:-1 group-title="24/7 U.S.A" tvg-logo="https://1.bp.blogspot.com/-I7USIggss04/X30uyEC9U3I/AAAAAAAABys/uVR-3trsRf0fQVIg2Dg4ey8Qu96XmF-XACLcBGAsYHQ/w200-h200/Starz%2BComedy%2BUSA.png",USA - 24/7 Starz Comedy (M)(1080)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/63648
-#EXTINF:-1 group-title="24/7 U.S.A" tvg-logo="https://1.bp.blogspot.com/-lfvTqS2R4sk/X30uyqTYcxI/AAAAAAAAByw/laKMQgIlU081P-JSEQ5K-L4_ykjIH4UaACLcBGAsYHQ/w200-h200/Starz%2BEast%2BUSA.png",USA - 24/7 Starz East (M)(1080)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/63647
-#EXTINF:-1 group-title="24/7 U.S.A" tvg-logo="https://1.bp.blogspot.com/-5gOd0dla1bc/X30u0vKnJQI/AAAAAAAABzA/cld5hfuVPwIHl2ffOhvVtbJzUaoIEDbDwCLcBGAsYHQ/w200-h200/Starz%2Bencore%2Bfamily%2BUSA.png",USA - 24/7 Starz Encore Family (M)(1080)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/63640
-#EXTINF:-1 group-title="24/7 U.S.A" tvg-logo="https://1.bp.blogspot.com/-YeTZbSJEo6U/X30u1PbQV7I/AAAAAAAABzE/MMxqLbAuc4ITFQftnj66-DbvZdsl2L80ACLcBGAsYHQ/w200-h200/Starz%2Bencore%2Bwest%2BUSA.png",USA - 24/7 Starz Encore West (M)(1080)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/63636
-#EXTINF:-1 group-title="24/7 U.S.A" tvg-logo="https://1.bp.blogspot.com/-Ln5sC4Ace5s/X30uzInXV-I/AAAAAAAABy0/bz2vi29OWB4seG6Ob591CzSZ8A0Ydu0SgCLcBGAsYHQ/w200-h200/Starz%2BFamily%2BUSA.png",USA - 24/7 Starz Family (M)(1080)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/63635
 #EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://1.bp.blogspot.com/-MK4_WeXQhgI/XzNOkKdrToI/AAAAAAAAAtI/tqdfw8bIDY06OHlOjOaCRK1Xz4wVGi54QCLcBGAsYHQ/w200-h200/48%2BA%2526E.png",USA-A&E (PM)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/65412
 #EXTINF:-1 group-title="USA-ENTERTAINMENT",USA-A&E (x)(1080)
@@ -3347,8 +2925,6 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/59952
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/59953
 #EXTINF:-1 group-title="USA-ENTERTAINMENT",USA-Action Max (X)(1080)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/59955
-#EXTINF:-1 group-title="USA-SPORTS" tvg-logo="http://losmmv.com:8080/images/6lRTInK1cFrWGeHE5FiBnFhRjI_sI4V-hqng0KmmdZCOYdAztPLPNJAZs6_I24FgdGh0f1tyiqklsHUIVdgBEzhWrXpbrBSE-wTpMDjsNSR483QUfz_gssjCNCRFGx_8.jpg",USA-Altitude Sports HD (C)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/157954
 #EXTINF:-1 group-title="USA-ENTERTAINMENT",USA-AMC (X)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/59958
 #EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://1.bp.blogspot.com/-nbzp00zt1AY/XzQzDhG57aI/AAAAAAAAA3o/wt4JwaJJU4chItMGfnH_12-Tf5pYmwD6wCLcBGAsYHQ/w200-h200/121%2BAMC.png",USA-AMC(M)(720)
@@ -3359,12 +2935,6 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/35814
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/59960
 #EXTINF:-1 group-title="USA-SPORTS" tvg-logo="http://losmmv.com:8080/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78S-F3qcTCArpoP6PM0D7gSdrRQTyFzWqdDR9jdjzJ1wRQ.png",USA-AT&T Sportsnet South West (C)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/157946
-#EXTINF:-1 group-title="USA-CHILDREN" tvg-logo="https://1.bp.blogspot.com/-MLSPWJs_mIc/XzNOfgXaUKI/AAAAAAAAAsk/yT_QG0zn7ZIlqSeEPZQFa3sHg3pkBSGuQCLcBGAsYHQ/w200-h200/4%2BBaby%2Btv.png",USA-Baby TV(M)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/1601
-#EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj-nc_kflpdaAL_SRdT_cVT3ExtKLOO3LkJjNjVgnbhEXmOJutLuLTT7t348CpenmhjGDIxGedV0oyIn3PuIydGG8QJunnFGUJuDYszDCzq4orShK6wZckCS3Tm-9OQ9JzoYJ7X4wkxiU0FajrVAUyzeWE0tvk9htR6YdD2yFFULHJLvnzM-y_ngS2R/s320/proyectox4%20(4).png",USA-BALLY SPORTS Arizona (PM)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/173969
-#EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgGH6Fvvf-m2FC8fQNwVIds9LAwofWUGnqNwBGhCyu-LNbv0H3r0Tim72VZbSzij_cMXPnYOuigj-IK6K5wsHY22uY7GxmlwU8-DCu6fMF4r6HgSWRJKRtsrNSzFxsctop1tKawh1v1zjMokPU_SzZiJkm_OT7S6qSR4iTBW_RswBQuccr5KxgkM3Dr/s320/proyectox4%20(5).png",USA-BALLY SPORTS Arizona Plus (PM)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/173968
 #EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfODIfUZhNjI1_i1E8qXbJ_GUPmvOVElOHnKM9DlgfMhjygwL-6ZsakoEdoAxxAUwhjddtm-JIhsYbFIfZrFy5fWtkmh5j83s3i3MJ0pX7KS_h2YAX2zZI99v3vTkfmEcs5fzxO3xLevdOmQGB3kkcUfOfIMXFklpS-1c_jpZ4kAjfcOay0ylxF8cx/s320/proyectox4%20(3).png",USA-BALLY SPORTS Detroit Plus (PM)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/173966
 #EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuVmHtoYR0rHkrSvQcuWmAEawQBCX3Qrkrg0v1vWUbfZDXFDS24KnwHdDPPeW2Yafdxxr_3R2XkgNb5oLbO5xBTEb6XZ5GA1VWQq1OjhSAc4BfC6pRxkk882tns9wXXJN8Mq9X_o-cZQBe3ffN85l0S7uSKy5PLATtVMRepOMY02-o3YQghhSrYzMr/s320/proyectox4.png",USA-BALLY SPORTS Great Lakes (PM)(720)
@@ -3375,20 +2945,14 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/17396
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/173957
 #EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUqJIfzQcxYb7O-_cBM6RJWjWrjJ_7-zMHd2-L4Qc_Icw23tTvZVOUtd8ikpo9yjZUccA0jLKacFkGPIB1OyRaJkzsvSTeru8WayiecBl_Iw0_P34wo0y5dmKm_xBIwoBtq_5hJHeLAT8ND8SgRrWsAqeucZFVx2kIq1Nx5QWDIVmX7VjYVZdV8djn/s320/proyectox3%20(26).png",USA-BALLY SPORTS New Orleans Plus (PM)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/173956
-#EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBasfLWfuUp4BcFvGGXNPcWGAHC0QAs2o9AGCdkB2hFkJQo6svFwSWkDhWIdT4i5nSrkrG8tuh0Pb3uZcoML9j_XhhdWaQowDVoVPokmnmgfZ1P-871bTQnCBVOcT0Ju6J5BtdP7OhtBM8nBPi-zL3wb_Bol6lh0Ii_V4Fv9bvSvPibE3JXmmdXwJe/s320/proyectox3%20(24).png",USA-BALLY SPORTS North Plus (PM)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/173954
 #EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgb3a0Pip5JEQvoBRRBCvXSBNUjeyiTeNX2GANdlcOVMGhyOAxrGjbnCHlzHsolwFjxJ_39-Pm5sjguP3ig-csNiiVw6jayLs3btz7IcyB7DGtHl89z-Ix7ui-sZIpJVLbWRV4wuQzdGwAz_f6Sx1s3U2dIWDMUdi6O24BM-wqD5WKZStXmZav24g_j/s320/proyectox3%20(21).png",USA-BALLY SPORTS Ohio (PM)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/173953
 #EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLMpAUMINNpz_mVv8BLiWOQtHKN86Ypb-DZ6lKhOzVKRro5fbEmdyJhkVlDLeq3UEeQy3B-tJ8BaSSoMgi3vx067lOp_8Ph9GipSnvpCtmbc6ZLsMl0wgJB7nYWLsTj_vKW7wDwnPQjUra3ymDpPmikLEKtQl0K1wZHI5nbkco10psUYvdhVFpr_S9/s320/proyectox3%20(22).png",USA-BALLY SPORTS Ohio Plus (PM)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/173952
 #EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUSfqD61j56TTy9RXIdIDW0XFqtiKdp5MfgMiBl4X_lbaLunb10b0o0Dq2lQrB2mE9udsQO2CcvNf6d7R49-TjjKt9OYm7wYtfkxMViOtKYIl1R5VbNrmAYocygLUtWfCBdQM7OGNR8x6zTY12Qsa1APjBCSF8uhgoTgWN8oOTx3IFERHPSH_4tgFr/s320/proyectox3%20(18).png",USA-BALLY SPORTS San Diego Plus (PM)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/173948
-#EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhf3a02B6bMQ0e8OBkptWo9BglWaFkPiJNwpGqKHODhB0detrjhjauuRHIADIRXtvWtW9_IJFAFOW_Prr1vDoJWcZ-3-JUrFjGnJhQPoMI-OtwiKZ1IkG_NUEciGu5ghNF519qo2pB3GIGzFZzGZBfW3aHgepRc1SosBjUgfbWsib-3fn3ohKZGJ3Bu/s320/proyectox3%20(16).png",USA-BALLY SPORTS Socal (PM)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/173947
 #EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_PNdzJ7Ka60hS8GNA0oTLcgSbQ9F7H1XGOHLnUwABXOTaZV27SYDOBfwDvHvbm345JjsgSV1imtUJ4ePLGGgAEKciDNUUQgarkyVZZwc8ypuJ14KQT4p9kOiTzsptGImTtP47bX3edRavORkvblO3SxNTgkz0fa9ulbXHTY6dGdkt4ADJ041n43mc/s320/proyectox3%20(15).png",USA-BALLY SPORTS South (PM)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/173946
-#EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYQDgmNNOkYCgU10ZBDyv2v4aA4CpuXGPTivr2r6i4amZ1mQZpBmJnHCcpchwT0_3iUfY_RqMMLPi1oUKT0j_29TElDCCnNuKnaqOnL_o4bP-WQdQEeLTXTVXPuY1Kpavs9yizybAoP82PBd74yPdih8Z-wr8BVuvoyMTLKq9WewU3Q_PIv5kzGQdh/s320/proyectox3%20(11).png",USA-BALLY SPORTS Southeast Plus (PM)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/173943
 #EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCcmnLSIJ1aNWPBH89lB7f3l2WdKc6ZCjcmF_vgtWQnMw-_kf-aI3a0_dvWi1YUKUnIRSUsidzlNKqLqdogXBgUSScHmFMjZZ12TODa04Gs1xwLbUdCF_o4D_KFTsf6mt7xXKp7HwzBus9u21Xh1EU6ohI1cFrR8eq0y8aAfReMx5tbeftYY57BELk/s320/proyectox3%20(3).png",USA-BALLY SPORTS Wisconsin Plus (PM)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/173938
 #EXTINF:-1 group-title="USA-DOCUMENTARY",USA-BBC America (X)(720)
@@ -3407,20 +2971,6 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/59976
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/59979
 #EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://1.bp.blogspot.com/-kFV8ooWsmlU/XzWWjSDhosI/AAAAAAAABBs/e2piyssHosoeeUOhjJr9ccjiAVVOylMggCLcBGAsYHQ/w200-h200/152%2BBein%2Busa.png",USA-beIN Sports USA (X)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/59980
-#EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://1.bp.blogspot.com/-kFV8ooWsmlU/XzWWjSDhosI/AAAAAAAABBs/e2piyssHosoeeUOhjJr9ccjiAVVOylMggCLcBGAsYHQ/w200-h200/152%2BBein%2Busa.png",USA-Bein USA HD (M)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/1604
-#EXTINF:-1 group-title="USA-MUSICALS" tvg-logo="https://1.bp.blogspot.com/-PYNkP5Wi3ZE/XzNOPXmV1PI/AAAAAAAAAqk/4rNhOzmm4cEsUYnE1_-iLZtrqwhEByZWACLcBGAsYHQ/w200-h200/102%2BBet%2BHer.png",USA-Bet Her (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/35822
-#EXTINF:-1 group-title="USA-MUSICALS" tvg-logo="https://1.bp.blogspot.com/-98JI-YLA9Eg/XzW2Y8iEtQI/AAAAAAAABE4/x6Wj4aY_i94Ko2qguge9qBt0myAMfxpUgCLcBGAsYHQ/w200-h200/164%2BBet%2Bjams.png",USA-Bet Jams (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/35823
-#EXTINF:-1 group-title="USA-MUSICALS",USA-BET JAMS (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/59983
-#EXTINF:-1 group-title="USA-MUSICALS" tvg-logo="https://1.bp.blogspot.com/-n-H3t1ydBaA/XzW3CZIAL0I/AAAAAAAABFA/eZDLroRJVhQl6ivmXge5Tgd5ANhtjD9xwCLcBGAsYHQ/w200-h200/165%2BBet%2Bsoul.png",USA-Bet Soul (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/35824
-#EXTINF:-1 group-title="USA-MUSICALS",USA-BET SOUL (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/59984
-#EXTINF:-1 group-title="USA-MUSICALS",USA-BET WEST (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/59985
 #EXTINF:-1 group-title="USA-CHILDREN" tvg-logo="https://1.bp.blogspot.com/-qTzhSL0Jdhw/XzNOlFXMmDI/AAAAAAAAAtQ/eRQFv8M-pZEqloZd9XS3dBRYLvn-l3v6gCLcBGAsYHQ/w200-h200/5%2BBommerang.png",USA-Boomerang (C)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/35825
 #EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://1.bp.blogspot.com/-j73fVsGRcFo/XzStgb7W4xI/AAAAAAAAA7k/DMy5pW5FF2Mrveqmr4KiTphUUdgXvK_vwCLcBGAsYHQ/w200-h200/131%2BBravo.png",USA-Bravo (PM)(720)
@@ -3429,22 +2979,12 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/65443
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/59989
 #EXTINF:-1 group-title="USA-CHILDREN" tvg-logo="https://1.bp.blogspot.com/-P9mcnNg6UdE/XzNOpXgM-OI/AAAAAAAAAt8/pfVzpNGLOKYrdIlVTnoEdq1q6z839cGkACLcBGAsYHQ/w200-h200/6%2BCartoon%2Bnetwork.png",USA-Cartoon Network (M)(1080)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/35789
-#EXTINF:-1 group-title="USA-NEWS/MISC" tvg-logo="https://1.bp.blogspot.com/-jTUPewYiPi0/XzNOukv3RHI/AAAAAAAAAuo/2yUQY4C9ypYXWxMlRi3jXa6dWOA-NrX8wCLcBGAsYHQ/w200-h200/7%2BCBS.png",USA-CBS (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/35790
 #EXTINF:-1 group-title="USA-NEWS/MISC",USA-CBS 2 New York (X)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/60000
-#EXTINF:-1 group-title="USA-NEWS/MISC",USA-CBS 2 WBM (Chicago) (X)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/59996
-#EXTINF:-1 group-title="USA-NEWS/MISC",USA-CBS Columbus (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/59998
-#EXTINF:-1 group-title="USA-NEWS/MISC",USA-CBS Detroit (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/59999
 #EXTINF:-1 group-title="USA-NEWS/MISC",USA-CBS Houston (X)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/60001
 #EXTINF:-1 group-title="USA-NEWS/MISC",USA-CBS Miami (X)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/60002
-#EXTINF:-1 group-title="USA-NEWS/MISC" tvg-logo="https://1.bp.blogspot.com/-jTUPewYiPi0/XzNOukv3RHI/AAAAAAAAAuo/2yUQY4C9ypYXWxMlRi3jXa6dWOA-NrX8wCLcBGAsYHQ/w200-h200/7%2BCBS.png",USA-CBS New York(M)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/1598
 #EXTINF:-1 group-title="USA-SPORTS",USA-CBS Sports (X)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/60004
 #EXTINF:-1 group-title="USA-NEWS/MISC",USA-CBSN (X)(720)
@@ -3453,28 +2993,14 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/60007
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/69608
 #EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://1.bp.blogspot.com/-SWgMvQVmNFs/XatKBoFk9XI/AAAAAAAAAcE/iIZCNfcElxsfxcj0hGdLxHZ0l7D7wRJ6wCLcBGAsYHQ/s200/43.png",USA-Cinemax Action 2(M)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/1574
-#EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://1.bp.blogspot.com/-W95TjMeAG3w/XzNO-vix_TI/AAAAAAAAAwo/zVtvtRZMqsEHZL8_rkdiFeInbYseC_oWACLcBGAsYHQ/w200-h200/99%2BCMT.png",USA-CMT (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/35813
 #EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://1.bp.blogspot.com/-_-W_fE42XJU/XzNOP7t5rzI/AAAAAAAAAqo/tpik-dkk2FQkmhljoCMV4Ju3qUEif-GjACLcBGAsYHQ/w200-h200/11%2BCnbc.png",USA-CNBC (C)(1080)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/101665
 #EXTINF:-1 group-title="USA-NEWS/MISC" tvg-logo="https://1.bp.blogspot.com/-_-W_fE42XJU/XzNOP7t5rzI/AAAAAAAAAqo/tpik-dkk2FQkmhljoCMV4Ju3qUEif-GjACLcBGAsYHQ/w200-h200/11%2BCnbc.png",USA-CNBC (PM)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/65445
-#EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://1.bp.blogspot.com/-T_d5JYzzlL4/XzNOQV8CPQI/AAAAAAAAAqs/mKe1bLzhDDMhVbW7l5ZInYcnDQEFtfL7gCLcBGAsYHQ/w200-h200/12%2BCnbc%2BWorld.png",USA-CNBC World (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/101666
-#EXTINF:-1 group-title="USA-DOCUMENTARY" tvg-logo="https://1.bp.blogspot.com/-T_d5JYzzlL4/XzNOQV8CPQI/AAAAAAAAAqs/mKe1bLzhDDMhVbW7l5ZInYcnDQEFtfL7gCLcBGAsYHQ/w200-h200/12%2BCnbc%2BWorld.png",USA-CNBC World HD (PM)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/69611
-#EXTINF:-1 group-title="USA-ENTERTAINMENT",USA-Comedy Central (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/59935
-#EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://1.bp.blogspot.com/-y5KAzNU1l_g/XzNO-Gd-hTI/AAAAAAAAAwk/gttCowkXciMnB3qgoZ6QU1Agddvyzk5aQCLcBGAsYHQ/w200-h200/98%2BComedy%2Bcentral%2BUSA.png",USA-Comedy Central(M)(1080)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/1596
-#EXTINF:-1 group-title="USA-DOCUMENTARY" tvg-logo="https://1.bp.blogspot.com/-tBfXbOg_yGE/XzWzdDZoS3I/AAAAAAAABEI/lBD6AdhpQp0Sh-ceDwPi3p-_FH0cqCuqQCLcBGAsYHQ/w200-h200/161%2BCOMET.png",USA-Comet (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/35816
 #EXTINF:-1 group-title="USA-DOCUMENTARY" tvg-logo="https://1.bp.blogspot.com/-z8tPdoToj5A/XzNOobTJwFI/AAAAAAAAAts/GYpf5FB8-H8fQzdeYnTct92jInPX_58fgCLcBGAsYHQ/w200-h200/56%2BPix%2Btv.png",USA-Cooking Channel (PM)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/65416
 #EXTINF:-1 group-title="USA-DOCUMENTARY" tvg-logo="https://1.bp.blogspot.com/-z8tPdoToj5A/XzNOobTJwFI/AAAAAAAAAts/GYpf5FB8-H8fQzdeYnTct92jInPX_58fgCLcBGAsYHQ/w200-h200/56%2BPix%2Btv.png",USA-Cooking Channel (X)(1080)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/35856
-#EXTINF:-1 group-title="USA-DOCUMENTARY" tvg-logo="https://1.bp.blogspot.com/-eacnjkcdz0I/XzWUK-ch38I/AAAAAAAABBM/KpoKb8bkpNQIj9J16ChXI-9jjwuZwVv-QCLcBGAsYHQ/w200-h200/151%2BDestination%2BAm%25C3%25A9rica.png",USA-Destination America (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/35815
 #EXTINF:-1 group-title="USA-DOCUMENTARY",USA-Discovery Family (X)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/60014
 #EXTINF:-1 group-title="USA-DOCUMENTARY" tvg-logo="https://1.bp.blogspot.com/-HumIStM6gDc/XzW0AHSH9FI/AAAAAAAABEU/vrmMdDm31m0NDft_gPfnWRpLMRp-pHUsACLcBGAsYHQ/w200-h200/162%2BDiscovery%2BLife.png",USA-Discovery Life (M)(720)
@@ -3485,22 +3011,16 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/60016
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/58074
 #EXTINF:-1 group-title="USA-DOCUMENTARY",USA-Discovery Science (X)(1080)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/60017
-#EXTINF:-1 group-title="USA-DOCUMENTARY",USA-Discovery TLC (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/58075
 #EXTINF:-1 group-title="USA-DOCUMENTARY",USA-Discovery TLC (X)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/60018
 #EXTINF:-1 group-title="USA-DOCUMENTARY",USA-Discovery Velocity (X)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/60019
 #EXTINF:-1 group-title="USA-DOCUMENTARY",USA-Discovery World (M)(1080)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/58073
-#EXTINF:-1 group-title="USA-CHILDREN" tvg-logo="https://1.bp.blogspot.com/-HUv7Ugb3qHo/XzNOuL21TjI/AAAAAAAAAuk/88eeMTsIaiEwEYf77I3n8kFVJsAFAyX4ACLcBGAsYHQ/w200-h200/69%2BDisney%2BChannel.png",USA-Disney Channel (C)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/35793
 #EXTINF:-1 group-title="USA-CHILDREN" tvg-logo="https://1.bp.blogspot.com/-RBskcGbsor8/XzNOQzsLsEI/AAAAAAAAAqw/HZ1gqSEpQFYR7i2a2Sj__UCk9ei1cVaFwCLcBGAsYHQ/w200-h200/13.png",USA-Disney JR (X)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/35794
 #EXTINF:-1 group-title="USA-CHILDREN",USA-Disney JR (X)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/60021
-#EXTINF:-1 group-title="USA-CHILDREN" tvg-logo="https://1.bp.blogspot.com/-1Lyz-_xhF5I/XzNORXB7ltI/AAAAAAAAAq0/1S-DQzIVHFIsfnUt62msLC2G34Np7YykACLcBGAsYHQ/w200-h200/14%2BDisney%2BXD.png",USA-Disney xD (C)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/35795
 #EXTINF:-1 group-title="USA-CHILDREN",USA-Disney XD (X)(1080)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/60022
 #EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://1.bp.blogspot.com/-yhAcC91rPzE/XzRcRZLRN1I/AAAAAAAAA5I/cYWQK99PdAgc-2GtNapnpVnyiwls-EvvACLcBGAsYHQ/w200-h200/125%2Be.png",USA-E! WEST (X)(720)
@@ -3509,16 +3029,10 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/35847
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/69606
 #EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://1.bp.blogspot.com/-hnP6G2mcN6Y/XzQrIaplFhI/AAAAAAAAA2M/0z_m97N9uSAQd9MgelDaO-0aJ2YvJ3RRwCLcBGAsYHQ/w200-h200/116%2BEpix.png",USA-EPIX 1 (TV)(1080)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/35843
-#EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://1.bp.blogspot.com/-hnP6G2mcN6Y/XzQrIaplFhI/AAAAAAAAA2M/0z_m97N9uSAQd9MgelDaO-0aJ2YvJ3RRwCLcBGAsYHQ/w200-h200/116%2BEpix.png",USA-EPIX 1 Este (PM)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/65390
 #EXTINF:-1 group-title="USA-ENTERTAINMENT",USA-EPIX 2 (C)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/69607
-#EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://1.bp.blogspot.com/-E5zUF4F1IDY/XzSA5R7wb3I/AAAAAAAAA5s/h7ZWMFRkGKAwbGwKqZmuazUZejoKGDklwCLcBGAsYHQ/w200-h200/126%2BEpix%2B2.png",USA-EPIX 2 Este (PM)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/65392
 #EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://1.bp.blogspot.com/-PN_jp5hbqKc/XzNOqlH2e8I/AAAAAAAAAuI/nKDY2lFPFzEbSvI2Y7s07SaZouL4syyoQCLcBGAsYHQ/w200-h200/62%2BEpix%2Bdrive.png",USA-EPIX Drive (C)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/35572
-#EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="http://tv.proyectox.vip:28000/images/2a603b5c0358b66cdf1eac91c5940aa4.png",USA-EPIX Drive (PM)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/65394
 #EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="http://tv.proyectox.vip:28000/images/7a035ddb4792026b2be96d494ccf4cea.png",USA-EPIX Hits (PM)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/65393
 #EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://1.bp.blogspot.com/-ArbKWJvrc-Y/XzNOqGH2DDI/AAAAAAAAAuE/2aMBJ50GJtgeBZFxaVbD2_YSa7vV1OIhACLcBGAsYHQ/w200-h200/61%2BEpix%2Bhits.png",USA-EPIX Hits (X)(1080)
@@ -3539,32 +3053,14 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/11842
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/60378
 #EXTINF:-1 group-title="USA-DOCUMENTARY" tvg-logo="https://1.bp.blogspot.com/-oatlpCGFghA/XzNOU-oh6pI/AAAAAAAAArQ/29ISaBMf8DQUCNe8uppealxhh8QXEAaFQCLcBGAsYHQ/w200-h200/20%2BFood%2Bnetwork.png",USA-Food Network (PM)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/65415
-#EXTINF:-1 group-title="USA-NEWS/MISC" tvg-logo="https://1.bp.blogspot.com/-4Us2yNGY6cA/XzNOVxD544I/AAAAAAAAArY/8unMaRFiUF45YpD3PxVfIa-1_uLQs1KeQCLcBGAsYHQ/w200-h200/22%2BFox%2Bboston.png",USA-FOX 25 (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/35796
 #EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://1.bp.blogspot.com/-FIokjI1mGGM/XzWJ2CuydKI/AAAAAAAAA_0/5b27mmjTdW8BOaPg9x-9T2NjdQ_kISmRACLcBGAsYHQ/w200-h200/146%2BFox%2Bsoccer.png",USA-Fox Soccer Plus (C)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/58079
 #EXTINF:-1 group-title="USA-SPORTS" tvg-logo="http://tv.proyectox.vip:28000/images/183ab23850643b9668bab4ada9b8e0eb.png",USA-Fox Sports Detroit (M)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/58085
 #EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://1.bp.blogspot.com/-pqXedsnOOGg/X0PoQ3U2JzI/AAAAAAAABMk/hztWcMtadD4siy2c7z2BkvVXHoog_xNrwCLcBGAsYHQ/w200-h200/170%2BFox%2Bsports.png",USA-Fox Sports Indiana (M)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/58089
-#EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://1.bp.blogspot.com/-pqXedsnOOGg/X0PoQ3U2JzI/AAAAAAAABMk/hztWcMtadD4siy2c7z2BkvVXHoog_xNrwCLcBGAsYHQ/w200-h200/170%2BFox%2Bsports.png",USA-Fox Sports Kansas (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/58090
-#EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://1.bp.blogspot.com/-pqXedsnOOGg/X0PoQ3U2JzI/AAAAAAAABMk/hztWcMtadD4siy2c7z2BkvVXHoog_xNrwCLcBGAsYHQ/w200-h200/170%2BFox%2Bsports.png",USA-Fox Sports Tampa (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/58096
 #EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://1.bp.blogspot.com/-x8ljrgUVKr4/XzWS2NFtYBI/AAAAAAAABAw/8oNpgP_APy8k1Pa8ljRlGyPJVxcD3VCnwCLcBGAsYHQ/w200-h200/149%2BFox%2Bsports%2BWest.png",USA-Fox Sports West Plus(M)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/1593
-#EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://1.bp.blogspot.com/-LEjflwSu2XQ/XzWJEVvf4UI/AAAAAAAAA_s/b9YFKUWpe9UgyijM3Wb9RJc9_ayPnGDdgCLcBGAsYHQ/w200-h200/145%2BFs1.png",USA-FS  1 (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/1594
-#EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://1.bp.blogspot.com/-LEjflwSu2XQ/XzWJEVvf4UI/AAAAAAAAA_s/b9YFKUWpe9UgyijM3Wb9RJc9_ayPnGDdgCLcBGAsYHQ/w200-h200/145%2BFs1.png",USA-FS 1 (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/58080
-#EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://1.bp.blogspot.com/-3ZSO3n3wrkA/X0PqX6Vw6OI/AAAAAAAABM8/Dq2rbN76DFcovrvl84JJd94_t2EcpNOgQCLcBGAsYHQ/w200-h200/171%2BFs2.png",USA-FS 2 (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/58081
-#EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://1.bp.blogspot.com/-3ZSO3n3wrkA/X0PqX6Vw6OI/AAAAAAAABM8/Dq2rbN76DFcovrvl84JJd94_t2EcpNOgQCLcBGAsYHQ/w200-h200/171%2BFs2.png",USA-FS2 (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/58087
-#EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://od.lk/s/MF8yMjg4NTMwNDBf/FuboSportsnetwork_844x844.png",USA-Fubo Sport Network (C)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/157950
-#EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="http://tv.proyectox.vip:28000/images/70efdf2ec9b086079795c442636b55fb.png",USA-FXM (X)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/1592
 #EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://1.bp.blogspot.com/-IBJ7vUzIfik/XzNOZet4r_I/AAAAAAAAAr0/QraXf1-B25MrpYJINcU0H544jeMOJhKJgCLcBGAsYHQ/w200-h200/29%2BFxx.png",USA-FXX(M)((720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/1591
 #EXTINF:-1 group-title="USA-SPORTS",USA-Game Show Network (TV)(720)
@@ -3577,8 +3073,6 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/65431
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/65436
 #EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://1.bp.blogspot.com/-mm1KvBrGbQU/XzNOa67K7VI/AAAAAAAAAsA/DxGsA44UWbgoB-vf9VlBK5G2Yd3-PaCewCLcBGAsYHQ/w200-h200/31%2BHallmark%2BMOVIES%2By%2Bmistwries.png",USA-HallMark Channel (PM)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/65429
-#EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://1.bp.blogspot.com/-jA0_bLXaSNA/XzSDHlsYyyI/AAAAAAAAA6E/YJCWMvCLMvcHTrkMBiXID-MvtWbONPLiQCLcBGAsYHQ/w200-h200/127%2BHallmark%2BDRAMA.png",USA-HallMark Drama (TV)(1080)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/65428
 #EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://1.bp.blogspot.com/-mm1KvBrGbQU/XzNOa67K7VI/AAAAAAAAAsA/DxGsA44UWbgoB-vf9VlBK5G2Yd3-PaCewCLcBGAsYHQ/w200-h200/31%2BHallmark%2BMOVIES%2By%2Bmistwries.png",USA-Hallmark movie Mysteries (TV)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/65435
 #EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://1.bp.blogspot.com/-Hi-yJ6V9g8U/XzNObZT-6DI/AAAAAAAAAsE/5-d0itaoWh0d5DXjAviQAtScZ3aAtx3mgCLcBGAsYHQ/w200-h200/32%2BHBO.png",USA-HBO (M)(720)
@@ -3597,108 +3091,24 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/35802
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/3129
 #EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://1.bp.blogspot.com/-KsVUywEgfjo/XzWGmqqheeI/AAAAAAAAA_M/sgC523g-bP4HeQ0WakT087QFwXmwPmmdwCLcBGAsYHQ/w200-h200/143%2B%25C3%258Dndieplex.png",USA-IndiePlex(M)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/1570
-#EXTINF:-1 group-title="USA-DOCUMENTARY" tvg-logo="https://1.bp.blogspot.com/-ryejiwOsKFs/XzWIW8oufxI/AAAAAAAAA_Y/DiWlsQmQidwz9y-8VuN7aPVQTc9vUpmQQCLcBGAsYHQ/w200-h200/144%2BInsp.png",USA-Inspirational(M)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/1588
-#EXTINF:-1 group-title="USA-DOCUMENTARY" tvg-logo="https://1.bp.blogspot.com/-nLrAfcLTomk/XzNOOQxHnqI/AAAAAAAAAqU/cOUYKpg78I0NRXl1cH5FSsWV0eOPEflzQCLcBGAsYHQ/w200-h200/1%2Binvestigacion%2Bdiscovery.png",USA-Investigation Discovery (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/58072
 #EXTINF:-1 group-title="USA-DOCUMENTARY" tvg-logo="https://1.bp.blogspot.com/-nLrAfcLTomk/XzNOOQxHnqI/AAAAAAAAAqU/cOUYKpg78I0NRXl1cH5FSsWV0eOPEflzQCLcBGAsYHQ/w200-h200/1%2Binvestigacion%2Bdiscovery.png",USA-Investigation Discovery (X)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/4048
 #EXTINF:-1 group-title="USA-ENTERTAINMENT",USA-LMN (TV)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/69613
-#EXTINF:-1 group-title="USA-DOCUMENTARY",USA-MSG + (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/69602
 #EXTINF:-1 group-title="USA-SPORTS",USA-MSG Chicago Sports 2 (PM)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/69603
-#EXTINF:-1 group-title="USA-NEWS/MISC" tvg-logo="https://data.apksum.com/48/com.themediationnet.app/1.0/icon.png",USA-MSNBC (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/101667
 #EXTINF:-1 group-title="USA-MUSICALS" tvg-logo="https://1.bp.blogspot.com/-nn5yOFwietc/X0L3hQ1yz_I/AAAAAAAABLw/0O0JesyVKyQbo-aD2HSFjbRRPp7iUXdNACLcBGAsYHQ/w200-h200/168%2BMTV.png",USA-MTV (M)(1080)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/58067
-#EXTINF:-1 group-title="USA-MUSICALS" tvg-logo="https://1.bp.blogspot.com/-gvSm1kkq_qM/X0L3hft97VI/AAAAAAAABL4/s0P_lumasQEaLYLyOvH4wRYB43jH3xX1wCLcBGAsYHQ/w200-h200/167%2BMtv%2B2.png",USA-MTV 2 (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/58068
-#EXTINF:-1 group-title="USA-MUSICALS" tvg-logo="https://1.bp.blogspot.com/-oWicRJIPss0/X0L3iZXuExI/AAAAAAAABMA/goD2sTYwJp0av1C-b6fO4FOJ5MIidI2IACLcBGAsYHQ/w200-h200/197%2BMTV%2Bclass.png",USA-MTV Classic (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/58069
 #EXTINF:-1 group-title="USA-MUSICALS" tvg-logo="https://1.bp.blogspot.com/-ABvWoB-_OYY/X0L3iCbn2NI/AAAAAAAABL8/zFBXrDplFwUI1oh_d80uhvzUaPCwF6SjgCLcBGAsYHQ/w200-h200/169%2BMtv%2Blive.png",USA-MTV Live (M)(SD)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/58066
-#EXTINF:-1 group-title="USA-MUSICALS" tvg-logo="https://1.bp.blogspot.com/-BT-aUJZv9ik/X0L3hSjPztI/AAAAAAAABL0/-G8JH0R9DbUPtg48Qd5HEtlkyjaSkb8_QCLcBGAsYHQ/w200-h200/166%2BMTV%2BU.png",USA-MTV U (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/58070
 #EXTINF:-1 group-title="USA-DOCUMENTARY" tvg-logo="https://1.bp.blogspot.com/-FhNEkhNUM58/Xaukf7PCtkI/AAAAAAAAAgQ/azD1CxOYTugM3KsRnyICXyCVweXcKp1_gCLcBGAsYHQ/s200/5.png",USA-Nat Geo Wild (X)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/1586
 #EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://1.bp.blogspot.com/-jps-mgB1sjI/XzNO9wgbp4I/AAAAAAAAAwg/t93tRxAHPS4qq-CPNE528FwzDJBb-NhWACLcBGAsYHQ/w200-h200/97%2BNba%2Btv.png",USA-NBA TV(M)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/1585
-#EXTINF:-1 group-title="USA-NEWS/MISC" tvg-logo="https://1.bp.blogspot.com/-Djay6iyQlJI/XzNkxi9K3rI/AAAAAAAAAyo/k7dJZ7SUiOcoeElabGhu2emMsqawQr_wQCLcBGAsYHQ/w200-h200/106%2BNBC.png",USA-NBC 10 Philadelphia (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/101668
-#EXTINF:-1 group-title="USA-NEWS/MISC" tvg-logo="https://1.bp.blogspot.com/-Djay6iyQlJI/XzNkxi9K3rI/AAAAAAAAAyo/k7dJZ7SUiOcoeElabGhu2emMsqawQr_wQCLcBGAsYHQ/w200-h200/106%2BNBC.png",USA-NBC 12 KPNX (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/101669
-#EXTINF:-1 group-title="USA-NEWS/MISC" tvg-logo="https://1.bp.blogspot.com/-Djay6iyQlJI/XzNkxi9K3rI/AAAAAAAAAyo/k7dJZ7SUiOcoeElabGhu2emMsqawQr_wQCLcBGAsYHQ/w200-h200/106%2BNBC.png",USA-NBC Baltimore (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/101670
-#EXTINF:-1 group-title="USA-NEWS/MISC" tvg-logo="https://1.bp.blogspot.com/-Djay6iyQlJI/XzNkxi9K3rI/AAAAAAAAAyo/k7dJZ7SUiOcoeElabGhu2emMsqawQr_wQCLcBGAsYHQ/w200-h200/106%2BNBC.png",USA-NBC Buffalo (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/101671
-#EXTINF:-1 group-title="USA-NEWS/MISC" tvg-logo="https://1.bp.blogspot.com/-Djay6iyQlJI/XzNkxi9K3rI/AAAAAAAAAyo/k7dJZ7SUiOcoeElabGhu2emMsqawQr_wQCLcBGAsYHQ/w200-h200/106%2BNBC.png",USA-NBC Carolinas (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/101672
-#EXTINF:-1 group-title="USA-NEWS/MISC" tvg-logo="https://1.bp.blogspot.com/-Djay6iyQlJI/XzNkxi9K3rI/AAAAAAAAAyo/k7dJZ7SUiOcoeElabGhu2emMsqawQr_wQCLcBGAsYHQ/w200-h200/106%2BNBC.png",USA-NBC Chicago (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/101673
-#EXTINF:-1 group-title="USA-NEWS/MISC" tvg-logo="https://1.bp.blogspot.com/-Djay6iyQlJI/XzNkxi9K3rI/AAAAAAAAAyo/k7dJZ7SUiOcoeElabGhu2emMsqawQr_wQCLcBGAsYHQ/w200-h200/106%2BNBC.png",USA-NBC Kansas (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/101674
-#EXTINF:-1 group-title="USA-NEWS/MISC" tvg-logo="https://1.bp.blogspot.com/-Djay6iyQlJI/XzNkxi9K3rI/AAAAAAAAAyo/k7dJZ7SUiOcoeElabGhu2emMsqawQr_wQCLcBGAsYHQ/w200-h200/106%2BNBC.png",USA-NBC KSL (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/101675
-#EXTINF:-1 group-title="USA-NEWS/MISC" tvg-logo="https://1.bp.blogspot.com/-Djay6iyQlJI/XzNkxi9K3rI/AAAAAAAAAyo/k7dJZ7SUiOcoeElabGhu2emMsqawQr_wQCLcBGAsYHQ/w200-h200/106%2BNBC.png",USA-NBC KXAS (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/101676
-#EXTINF:-1 group-title="USA-NEWS/MISC",USA-NBC Los Angeles (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/101677
-#EXTINF:-1 group-title="USA-NEWS/MISC" tvg-logo="https://1.bp.blogspot.com/-Djay6iyQlJI/XzNkxi9K3rI/AAAAAAAAAyo/k7dJZ7SUiOcoeElabGhu2emMsqawQr_wQCLcBGAsYHQ/w200-h200/106%2BNBC.png",USA-NBC Michigan (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/101678
-#EXTINF:-1 group-title="USA-NEWS/MISC" tvg-logo="https://1.bp.blogspot.com/-Djay6iyQlJI/XzNkxi9K3rI/AAAAAAAAAyo/k7dJZ7SUiOcoeElabGhu2emMsqawQr_wQCLcBGAsYHQ/w200-h200/106%2BNBC.png",USA-NBC New Orleans (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/101679
-#EXTINF:-1 group-title="USA-NEWS/MISC" tvg-logo="https://1.bp.blogspot.com/-Djay6iyQlJI/XzNkxi9K3rI/AAAAAAAAAyo/k7dJZ7SUiOcoeElabGhu2emMsqawQr_wQCLcBGAsYHQ/w200-h200/106%2BNBC.png",USA-NBC New York (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/101680
-#EXTINF:-1 group-title="USA-NEWS/MISC" tvg-logo="https://1.bp.blogspot.com/-Djay6iyQlJI/XzNkxi9K3rI/AAAAAAAAAyo/k7dJZ7SUiOcoeElabGhu2emMsqawQr_wQCLcBGAsYHQ/w200-h200/106%2BNBC.png",USA-NBC Portland (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/101681
-#EXTINF:-1 group-title="USA-NEWS/MISC" tvg-logo="https://1.bp.blogspot.com/-Djay6iyQlJI/XzNkxi9K3rI/AAAAAAAAAyo/k7dJZ7SUiOcoeElabGhu2emMsqawQr_wQCLcBGAsYHQ/w200-h200/106%2BNBC.png",USA-NBC San Fransisco (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/101682
-#EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://1.bp.blogspot.com/-4XbBjClOCmc/Xz_0nNZC3cI/AAAAAAAABLY/_7An3SyWLTQ1SqM9zHaLX_NORBR6WFKYQCLcBGAsYHQ/w200-h200/Nbc%2Bbay%2B%25C3%25A1rea.png",USA-NBC Sports  Bay Area Plus (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/101684
-#EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://1.bp.blogspot.com/-4XbBjClOCmc/Xz_0nNZC3cI/AAAAAAAABLY/_7An3SyWLTQ1SqM9zHaLX_NORBR6WFKYQCLcBGAsYHQ/w200-h200/Nbc%2Bbay%2B%25C3%25A1rea.png",USA-NBC Sports Bay Area (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/101683
-#EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://1.bp.blogspot.com/-IfhXGoJtUIQ/YGYjZ4AhRrI/AAAAAAAACHs/FwjA366ItVA_8yL9F7ltHyIRLSLYV0WgwCLcBGAsYHQ/w200-h200/nbc%2Bsports.png",USA-NBC Sports California (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/101685
-#EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://1.bp.blogspot.com/-IfhXGoJtUIQ/YGYjZ4AhRrI/AAAAAAAACHs/FwjA366ItVA_8yL9F7ltHyIRLSLYV0WgwCLcBGAsYHQ/w200-h200/nbc%2Bsports.png",USA-NBC Sports Chicago (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/101687
-#EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://1.bp.blogspot.com/-IfhXGoJtUIQ/YGYjZ4AhRrI/AAAAAAAACHs/FwjA366ItVA_8yL9F7ltHyIRLSLYV0WgwCLcBGAsYHQ/w200-h200/nbc%2Bsports.png",USA-NBC Sports Chicago Plus (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/101688
-#EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://1.bp.blogspot.com/-IfhXGoJtUIQ/YGYjZ4AhRrI/AAAAAAAACHs/FwjA366ItVA_8yL9F7ltHyIRLSLYV0WgwCLcBGAsYHQ/w200-h200/nbc%2Bsports.png",USA-NBC Sports Philadelphia (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/101691
-#EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://1.bp.blogspot.com/-IfhXGoJtUIQ/YGYjZ4AhRrI/AAAAAAAACHs/FwjA366ItVA_8yL9F7ltHyIRLSLYV0WgwCLcBGAsYHQ/w200-h200/nbc%2Bsports.png",USA-NBC Sports Philadelphia Plus (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/101692
-#EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://1.bp.blogspot.com/-IfhXGoJtUIQ/YGYjZ4AhRrI/AAAAAAAACHs/FwjA366ItVA_8yL9F7ltHyIRLSLYV0WgwCLcBGAsYHQ/w200-h200/nbc%2Bsports.png",USA-NBC Sports Washington (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/101693
-#EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://1.bp.blogspot.com/-IfhXGoJtUIQ/YGYjZ4AhRrI/AAAAAAAACHs/FwjA366ItVA_8yL9F7ltHyIRLSLYV0WgwCLcBGAsYHQ/w200-h200/nbc%2Bsports.png",USA-NBC Sports Washington Plus (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/101694
-#EXTINF:-1 group-title="USA-NEWS/MISC" tvg-logo="https://1.bp.blogspot.com/-Djay6iyQlJI/XzNkxi9K3rI/AAAAAAAAAyo/k7dJZ7SUiOcoeElabGhu2emMsqawQr_wQCLcBGAsYHQ/w200-h200/106%2BNBC.png",USA-NBC Washington (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/101695
-#EXTINF:-1 group-title="USA-NEWS/MISC" tvg-logo="https://1.bp.blogspot.com/-Djay6iyQlJI/XzNkxi9K3rI/AAAAAAAAAyo/k7dJZ7SUiOcoeElabGhu2emMsqawQr_wQCLcBGAsYHQ/w200-h200/106%2BNBC.png",USA-NBC WESH Orlando (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/101696
-#EXTINF:-1 group-title="USA-NEWS/MISC" tvg-logo="https://1.bp.blogspot.com/-Djay6iyQlJI/XzNkxi9K3rI/AAAAAAAAAyo/k7dJZ7SUiOcoeElabGhu2emMsqawQr_wQCLcBGAsYHQ/w200-h200/106%2BNBC.png",USA-NBC WLBT (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/101697
-#EXTINF:-1 group-title="USA-NEWS/MISC" tvg-logo="https://1.bp.blogspot.com/-Djay6iyQlJI/XzNkxi9K3rI/AAAAAAAAAyo/k7dJZ7SUiOcoeElabGhu2emMsqawQr_wQCLcBGAsYHQ/w200-h200/106%2BNBC.png",USA-NBC WMTV (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/101698
-#EXTINF:-1 group-title="USA-NEWS/MISC" tvg-logo="https://1.bp.blogspot.com/-Djay6iyQlJI/XzNkxi9K3rI/AAAAAAAAAyo/k7dJZ7SUiOcoeElabGhu2emMsqawQr_wQCLcBGAsYHQ/w200-h200/106%2BNBC.png",USA-NCB Jacksonville (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/101699
 #EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://1.bp.blogspot.com/-jVNW_gczwn8/XzNOiOHfKEI/AAAAAAAAAs4/DaHOLiu5NwMpL-ykwQoj9uP5Zhgtyd72wCLcBGAsYHQ/w200-h200/44%2BNhl%2Bnetwork.png",USA-NHL Network (PM)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/65400
-#EXTINF:-1 group-title="USA-CHILDREN" tvg-logo="https://1.bp.blogspot.com/-BSZMVIUC8dg/XzTJlOZInHI/AAAAAAAAA-0/P9T0DCpbj-UvU4HurLBGioYWidiYfVEDgCLcBGAsYHQ/w200-h200/142%2BNick%2Bmusic.png",USA-Nick Music (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/35826
-#EXTINF:-1 group-title="USA-CHILDREN" tvg-logo="https://1.bp.blogspot.com/--Yrnfu9iwyE/XzNO7JzPq7I/AAAAAAAAAwM/Rbzu2w4pcF4fWdcLi_RYCNirSiv7sg4IwCLcBGAsYHQ/w200-h200/92%2BNickelodeon.png",USA-Nickelodeon (M)(1080)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/35808
 #EXTINF:-1 group-title="USA-DOCUMENTARY" tvg-logo="https://1.bp.blogspot.com/-ipXuU76qsKs/XzSvnD6BTNI/AAAAAAAAA78/Vai4v5pOyDc_nQpMjk-X4IW7aOhIPq5RwCLcBGAsYHQ/w200-h200/132%2BOuydoor.png",USA-Outdoor (PM)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/3082
-#EXTINF:-1 group-title="USA-DOCUMENTARY" tvg-logo="https://1.bp.blogspot.com/-L69m9FXEhhM/XzNOmm9nW_I/AAAAAAAAAtc/G2LgRqlB4JghW1Sq93d5R-zf47iDeknwQCLcBGAsYHQ/w200-h200/52%2BOxygen%2Btv.png",USA-Oxygen (PM)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/65422
-#EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://1.bp.blogspot.com/-3COmhDzH79c/XzW1JviqghI/AAAAAAAABEs/GQoUvSohB-YgPyucHZNA0bSnxvwYseYwACLcBGAsYHQ/w200-h200/163%2BParamount.png",USA-Paramount (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/35819
-#EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://1.bp.blogspot.com/-UnYo1Cn8CzA/XwIjHgjyHBI/AAAAAAAAAOc/yCIoEBtq0jACiKBDDWKxGLIjiOFqQJvHgCK4BGAsYHg/w200-h200/PPV.png",USA-PPV 2 (PM)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/65320
-#EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://1.bp.blogspot.com/-kFV8ooWsmlU/XzWWjSDhosI/AAAAAAAABBs/e2piyssHosoeeUOhjJr9ccjiAVVOylMggCLcBGAsYHQ/w200-h200/152%2BBein%2Busa.png",USA-PPV beIN Sports 5 (TV)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/59971
 #EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://1.bp.blogspot.com/-eLrPbPXSQQk/YJwZq7XyuHI/AAAAAAAACK0/X-GWM4ISNfUuwhyBZ_qOLNdHdJ-D0pTDgCLcBGAsYHQ/w200-h200/network.png",USA-SEC Espn Networks (TV)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/118425
 #EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://1.bp.blogspot.com/-JdWIYsGJLsQ/XzTGMne_1ZI/AAAAAAAAA-I/65lkAEF9QzIB58nDBQGCw85aTJWkAaDTwCLcBGAsYHQ/w200-h200/139%2BShowtime%2BWest.png",USA-Showtime West (M)(720)
@@ -3709,16 +3119,10 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/65432
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/3115
 #EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://1.bp.blogspot.com/-A8mD0FT5-ik/XzQvyG1ZgHI/AAAAAAAAA2w/Lk_v5rvLeCwt5IaPWDamo2Y1iQYlGj0KgCLcBGAsYHQ/w200-h200/118%2BSony%2BUSA.png",USA-Sony Channel (M)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/3121
-#EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://1.bp.blogspot.com/-A8mD0FT5-ik/XzQvyG1ZgHI/AAAAAAAAA2w/Lk_v5rvLeCwt5IaPWDamo2Y1iQYlGj0KgCLcBGAsYHQ/w200-h200/118%2BSony%2BUSA.png",USA-Sony Movies (C)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/65444
 #EXTINF:-1 group-title="USA-SPORTS" tvg-logo="http://losmmv.com:8080/images/HM3xx55KZnCUdlPuNC1k2Dx3ler5TYyYwLOJu-YD78Qe0-UnY9R5Z4LJTUZySkrKuoNPlNUQ1D8Qg4c3gvtuIg.png",USA-Spectrum Sportsnet (C)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/157944
 #EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://1.bp.blogspot.com/-7b2r6xDc4nU/XzNOhsptwpI/AAAAAAAAAs0/usGRnnzV4eQTXMzb1v6DLptTpD7m3WsJgCLcBGAsYHQ/w200-h200/43%2BSportman%2BChannel.png",USA-Sportsman (PM)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/65399
-#EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://1.bp.blogspot.com/-7b2r6xDc4nU/XzNOhsptwpI/AAAAAAAAAs0/usGRnnzV4eQTXMzb1v6DLptTpD7m3WsJgCLcBGAsYHQ/w200-h200/43%2BSportman%2BChannel.png",USA-Sportsman(M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/1580
-#EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://1.bp.blogspot.com/-7ovBlm-pqQA/XzNOjIEpL5I/AAAAAAAAAtA/89MIf6L3LscvFYWENdscr3icm-YVyi9iACLcBGAsYHQ/w200-h200/46%2BSportnet.png",USA-Sportsnet Y(M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/1579
 #EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://1.bp.blogspot.com/-kOhKQkHcRU0/XzNOykHtW7I/AAAAAAAAAvI/eb0uc9YAb8sYhV7J-wOi9gsr1FdlfFXDACLcBGAsYHQ/w200-h200/77%2BSTARZ%2BCINEMA.png",USA-Starz Cinema (X)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/1567
 #EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://1.bp.blogspot.com/-Gmts7Sq2IQo/XzS_9NkIdxI/AAAAAAAAA9E/_9RbBSaDeaEeVhurm33xOD2x_FuZUy2RACLcBGAsYHQ/w200-h200/135%2BSTARZ.png",USA-Starz East(M)(720)
@@ -3733,24 +3137,14 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/1568
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/1578
 #EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://1.bp.blogspot.com/-lSN995B9gY0/XzNOd6w-9kI/AAAAAAAAAsY/Toc79iu-rg01xg25TSFgaN4q8hzO2siZgCLcBGAsYHQ/w200-h200/37%2BSyfy.png",USA-Syfy (PM)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/65421
-#EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://1.bp.blogspot.com/-jfjNpEHTpUo/XaqcohSN_RI/AAAAAAAAAZg/zMNahbdtrzEcLIfwhOB4OpzhAg_HyR0OwCLcBGAsYHQ/s200/29.png",USA-SYFY(M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/1577
 #EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://1.bp.blogspot.com/-Qv2WJxb58WM/XzNOeY-_O5I/AAAAAAAAAsc/0CuclJFp1hQ37Uko8neL4HFCoFh8Fx_lgCLcBGAsYHQ/w200-h200/38%2BTCM.png",USA-TCM (C)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/35820
 #EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://1.bp.blogspot.com/-8rgq4MBm_HM/XyNd3UKB6II/AAAAAAAAAlE/0xXVPAKDLMU7Ss6o3MJ_XpUpU4oPp8MzwCLcBGAsYHQ/w200-h200/52%2Btcm.png",USA-TCM (PM)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/69614
 #EXTINF:-1 group-title="USA-CHILDREN" tvg-logo="https://1.bp.blogspot.com/-BOKvhmhlyDM/XzTI30MuJtI/AAAAAAAAA-o/xkf-ySXuaUos6ZcI3xWQCYFpHdD2Td1WgCLcBGAsYHQ/w200-h200/141%2BTeen%2Bnick.png",USA-Teen Nick (M)(SD)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/35827
-#EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://1.bp.blogspot.com/-wrQfcpwhryM/XzWZ1lw0oPI/AAAAAAAABCY/K6idWfCCwnI5139Sc75tIYx9HiQbaySsACLcBGAsYHQ/w200-h200/155%2BThe%2BCW.png",USA-THE CW (M)(1080)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/35809
-#EXTINF:-1 group-title="USA-DOCUMENTARY" tvg-logo="https://1.bp.blogspot.com/-iRWI6hZamXY/XzWZWr-bNAI/AAAAAAAABCQ/IyjDF0dBaroblUBltE9OGh7wgmIuyjH7wCLcBGAsYHQ/w200-h200/154%2BThe%2Bweather%2BChannel.png",USA-The Weather Channel (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/35810
 #EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://1.bp.blogspot.com/-ZZO56oC96aI/XzNnmCM7DwI/AAAAAAAAAzM/FEj4-g6q3MM4BhoVclYm-ZaELKD9mim8QCLcBGAsYHQ/w200-h200/108%2BTNT.png",USA-TNT (X)(1080)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/35811
-#EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://1.bp.blogspot.com/-ZZO56oC96aI/XzNnmCM7DwI/AAAAAAAAAzM/FEj4-g6q3MM4BhoVclYm-ZaELKD9mim8QCLcBGAsYHQ/w200-h200/108%2BTNT.png",USA-TNT Pacific (C)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/58060
-#EXTINF:-1 group-title="USA-DOCUMENTARY" tvg-logo="http://tv.proyectox.vip:28000/images/ce2eb3b9b5884905cd67503f5830fb06.png",USA-Travel Channel (PM)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/65414
 #EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://1.bp.blogspot.com/-c9Ost9rpxes/X2EEEClQ97I/AAAAAAAABQI/Dn4nZDtaYjwW2RCIZ2sFI2mQnAWT8LvIgCLcBGAsYHQ/w200-h200/tvg.png",USA-TVG (TV)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/60344
 #EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://1.bp.blogspot.com/-HkWsMOwT6uM/X2EEEEjUAAI/AAAAAAAABQM/3oGH8cJhz8M2Zrj-8NzTNHbpb3RJkJcDgCLcBGAsYHQ/w200-h200/tvg%2B2.png",USA-TVG 2 (TV)(720)
@@ -3763,14 +3157,10 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/65420
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/35812
 #EXTINF:-1 group-title="USA-ENTERTAINMENT" tvg-logo="https://1.bp.blogspot.com/-hncsLpnzEYM/XzNO8NYxxgI/AAAAAAAAAwU/z27iNxQsgOEW-FVDWsFAFhjv0bsFwx25ACLcBGAsYHQ/w200-h200/94%2BUSA%2BNETWORK.png",USA-USA Network(M)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/1576
-#EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://1.bp.blogspot.com/-DiocmZUkrGc/XzSyVCf2OII/AAAAAAAAA8U/g-TdsbXPQCgvgmhaiCAKuH3uYrH4P8UIgCLcBGAsYHQ/w200-h200/133%2BWorld%2Bfish.png",USA-World Fish (M)(720)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/65396
 #EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://1.bp.blogspot.com/-N1DWlfadGpA/XzWRqvJy3jI/AAAAAAAABAY/UE7Xxs16GRoP50DCrko0M9F0olkuwG7EwCLcBGAsYHQ/w200-h200/148%2BYES.png",USA-Yes Network (C)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/55653
 #EXTINF:-1 group-title="USA-SPORTS" tvg-logo="https://1.bp.blogspot.com/-N1DWlfadGpA/XzWRqvJy3jI/AAAAAAAABAY/UE7Xxs16GRoP50DCrko0M9F0olkuwG7EwCLcBGAsYHQ/w200-h200/148%2BYES.png",USA-Yes Network (TV)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/117695
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/5f28009b150b2500077766b8/colorLogoPNG.png",Vaya semanita
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211271
 #EXTINF:-1 group-title="VENEZUELA",VEN- Fox Sports Venezuela (M)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/107206
 #EXTINF:-1 group-title="VENEZUELA",VEN-Canal I (TV)(1080)
@@ -3801,18 +3191,10 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/10720
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/153981
 #EXTINF:-1 group-title="VENEZUELA" tvg-logo="https://lh3.googleusercontent.com/-YDuwzT6TTPE/YmxPSsK8k1I/AAAAAAAADjo/lsoU8iac454NwS9CR-caxE2pLE-E6UpRACNcBGAsYHQ/w200-h200/1651265352925832-9.png",VEN-Venevision Plus (X)(720)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/153982
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png",VH1 Classics
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211288
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/639751f81a36b400072b8f5a/colorLogoPNG.png",Vive Kanal D Drama
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211772
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/62568a94ed1f380007b0211f/colorLogoPNG.png",Winx Club
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211344
 #EXTINF:-1 group-title="PLUTO TV LATAM (PRUEBA)" tvg-logo="https://images.pluto.tv/channels/5ed6828192e8b3000743ef61/colorLogoPNG.png",Wipe Out
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211688
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/604f8125c6669b00077f7699/colorLogoPNG.png",Wipeout
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211283
-#EXTINF:-1 group-title="PLUTO TV ESPAÑA (PRUEBAS)" tvg-logo="https://images.pluto.tv/channels/6080381ab7c9ea00074ec64c/colorLogoPNG.png",World Poker Tour
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/211291
 #EXTINF:-1 group-title="CANALES-ADULTOS +18",XXX - Blazzers (X)(1080)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/176680
 #EXTINF:-1 group-title="CANALES-ADULTOS +18" tvg-logo="http://tv.proyectox.vip:28000/images/c634bd9ec80685f851278a63ce2a6912.png",XXX - Blue Hustler (X)(1080)
@@ -3857,8 +3239,6 @@ http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/15393
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/67378
 #EXTINF:-1 group-title="CANALES-ADULTOS +18" tvg-logo="https://1.bp.blogspot.com/-twQWpq2VPvo/XpKHHzkHoVI/AAAAAAAABqs/uC6ZnbYMphU90foDadY9x_wIaIKbNQM2ACLcBGAsYHQ/s200/3.png",XXX - Playboy TV (M)(1080)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/67383
-#EXTINF:-1 group-title="CANALES-ADULTOS +18" tvg-logo="https://lh3.googleusercontent.com/--iCVY_YhcVc/YmxPCIu49iI/AAAAAAAADiA/-NBrWgDvKGwAia9ij8twjoKhk0NiVcJnQCNcBGAsYHQ/w200-h200/1651265286987585-35.png",XXX - Playboy TV (X)(1080)
-http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/153951
 #EXTINF:-1 group-title="CANALES-ADULTOS +18" tvg-logo="http://tv.proyectox.vip:28000/images/d341645c52e8a2ade0ac77ceeff473c6.png",XXX - Private TV (X)(1080)
 http://tv.multitv.live:39001/oiheoijh5o23ih54o2398cbakjdsbcioq2/kYoRtxYjbh/153949
 #EXTINF:-1 group-title="CANALES-ADULTOS +18" tvg-logo="http://tv.proyectox.vip:28000/images/b374f0373316d03a85cda3f2ba670c88.png",XXX - Redlight (X)(1080)
