@@ -1,1200 +1,1780 @@
 #EXTM3U
-#EXTINF:-1 ,DESCARGA CC PLAYER M3U
-https://dl.dropboxusercontent.com/s/q3o0n35i0sxailk/Untitled%20CC.mp4
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="Entretenimiento",A&E
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/1
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ae.png" group-title="Entretenimiento",A&E Sur
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/474
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/aplus.png" group-title="Mexico",A+
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/406
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/a3series.png" group-title="España",A3Series
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/444
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/adn40.png" group-title="Noticias",ADN 40
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/447
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/afizzionados.png" group-title="Deportes",Afizzionados
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/878
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/alf.png" group-title="24/7",Alf 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/426
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="Entretenimiento",AMC
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/183
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/amc.png" group-title="España",AMC ES
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/715
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/americaperu.png" group-title="Peru",America
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/780
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animalplanet.png" group-title="Cultura",Animal Planet
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/3
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animalplanet.png" group-title="Cultura",Animal Planet OP2
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/633
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/animaniacs.png" group-title="24/7",Animaniacs 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/677
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Entretenimiento",Anime 24H
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/269
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/antena3.png" group-title="España",Antena 3
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/298
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="Entretenimiento",AXN
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/146
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="Entretenimiento",AXN Sur
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/804
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="España",AXN (ES)
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/713
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/axn.png" group-title="España",AXN WHITE (ES)
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/714
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/aymsports.png" group-title="Deportes",AyM Sports
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/148
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azcinema.png" group-title="Peliculas",Az Cinema
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/186
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azclic.png" group-title="Entretenimiento",Az Clic
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/165
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azcorazon.png" group-title="Entretenimiento",Az Corazón
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/166
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca1.png" group-title="Mexico",Azteca 1
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/4
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/azteca7.png" group-title="Mexico",Azteca 7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/5
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/babytv.png" group-title="Infantiles",Baby TV
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/7
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bandamax.png" group-title="Musica",Bandamax
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/8
-#EXTINF:-1 tvg-logo="" group-title="24/7",Barbie 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/788
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsports.png" group-title="Deportes",BeinSports
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/753
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/beinsportsn.png" group-title="Deportes",BeinSports Ñ
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/761
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bleach.png" group-title="24/7",Bleach 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/883
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bobesponja.png" group-title="24/7",Bob Esponja 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/518
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/bolivision.png" group-title="Bolivia",Bolivision
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/783
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/breakingbad.png" group-title="Entretenimiento",Breaking Bad 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/846
-#EXTINF:-1 tvg-logo="" group-title="24/7",Brickleberry 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/789
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caballeroszodiaco.png" group-title="24/7",Caballeros del Zodiaco 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/427
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canal2televicentro.png" group-title="Nicaragua",Canal 2 Televicentro
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/211
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canal5.png" group-title="Mexico",Canal 5
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/14
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canal5.png" group-title="Honduras",Canal 5 Honduras
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/773
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png" group-title="Mexico",Canal de las Estrellas
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/411
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasestrellas.png" group-title="Mexico",Canal de las Estrellas Sur
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/736
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canaldelfutbol.png" group-title="Ecuador",Canal Del Futbol
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/892
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/canalonce.png" group-title="Mexico",Canal Once
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/15
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/maccion.png" group-title="España",Canal+ Accion
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/364
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/toros.png" group-title="Deportes",Canal+ Toros
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/369
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Candy Candy 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/808
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cantinflas.png" group-title="24/7",Cantinflas 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/428
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/capitaltv.png" group-title="Musica",Capital TV
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/205
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caracol.png" group-title="Colombia",Caracol
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/391
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/caracol.png" group-title="Entretenimiento",Caracol Internacional
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/290
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" group-title="Infantiles",Cartoon Network
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/17
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonnetwork.png" group-title="Infantiles",Cartoon Network Sur
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/737
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cartoonito.png" group-title="Infantiles",Cartoonito (Boomerang)
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/11
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/boomerang.png" group-title="Infantiles",Cartoonito Sur
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/735
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/catdog.png" group-title="24/7",CatDog 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/785
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cbeebies.png" group-title="Infantiles",CBeebies
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/13
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdf.png" group-title="Deportes",CDF Premium
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/318
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdnsportsmax.png" group-title="Deportes",CDN Sportsmax
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/206
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdo.png" group-title="Deportes",CDO
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/513
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cdopremium.png" group-title="Deportes",CDO Premium
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/401
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/chapulincolorado.png" group-title="24/7",Chapulin Colorado 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/418
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/chespirito.jpg" group-title="24/7",Chespirito 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/417
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/chv.png" group-title="Colombia",CHV Chilevision
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/198
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/2020/img.jpg" group-title="Peliculas",Cine 2020
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/857
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion/img.jpg" group-title="Peliculas",Cine Accion
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/699
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/accion_sagas/img.jpg" group-title="Peliculas",Cine Accion Sagas
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/700
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/comedia/img.jpg" group-title="Peliculas",Cine Comedia 1
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/695
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/comedia2/img.jpg" group-title="Peliculas",Cine Comedia 2
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/696
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia/img.jpg" group-title="Peliculas",Cine Ficcion/Fantasia 1
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/709
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia2/img.jpg" group-title="Peliculas",Cine Ficcion/Fantasia 2
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/710
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/ficcion_fantasia_sagas/img.jpg" group-title="Peliculas",Cine Ficcion/Fantasia Sagas
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/711
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/infantil/img.jpg" group-title="Peliculas",Cine Infantil
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/687
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/infantil_sagas/img.jpg" group-title="Peliculas",Cine Infantil Sagas
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/694
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinelatino.png" group-title="Peliculas",Cine Latino
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/295
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/marvel/img.jpg" group-title="Peliculas",Cine Marvel
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/697
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/romance/img.jpg" group-title="Peliculas",Cine Romance
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/689
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/terror/img.jpg" group-title="Peliculas",Cine Terror
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/693
-#EXTINF:-1 tvg-logo="http://ts.tvcluboficial.com/247/zombis/img.jpg" group-title="Peliculas",Cine Zombis
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/688
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="Peliculas",Cinecanal
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/18
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinecanal.png" group-title="Peliculas",Cinecanal Sur
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/738
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Peliculas",Cinemax
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/20
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cinemax.png" group-title="Peliculas",Cinemax Sur
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/739
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/clarosports.png" group-title="Deportes",Claro Sports
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/328
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/cnn.png" group-title="Noticias",CNN en Español
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/136
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="Entretenimiento",Comedy Central
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/135
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="Entretenimiento",Comedy Central Sur
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/740
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/comedycentral.png" group-title="España",Comedy Central (ES)
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/719
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/coraje.png" group-title="24/7",Coraje el Perro Cobarde 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/519
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/crimeinvestigation.png" group-title="España",Crime Investigation (ES)
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/720
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Chile",CTNI
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/160
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/depelicula.png" group-title="Peliculas",De Película
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/21
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/deportv.png" group-title="Deportes",DeporTV
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/139
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dhe.png" group-title="Peliculas",DHE
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/844
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dinosaurios.png" group-title="24/7",Dinosaurios 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/670
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports.png" group-title="Deportes",DirectTV Sports
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/259
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/directvsports2.png" group-title="Deportes",DirectTV Sports 2
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/667
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura",Discovery Channel
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/22
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura",Discovery Channel op2
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/639
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverychannel.png" group-title="Cultura",Discovery Channel Sur
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/741
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverycivilization.png" group-title="Cultura",Discovery Civilization
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/23
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Cultura",Discovery H&H
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/24
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryhh.png" group-title="Cultura",Discovery H&H Sur
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/742
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverykids.png" group-title="Infantiles",Discovery Kids
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/25
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoverysci.png" group-title="Cultura",Discovery SCI
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/26
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryturbo.png" group-title="Cultura",Discovery Turbo
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/28
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/discoveryworld.png" group-title="Cultura",Discovery World
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/187
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneychannel.png" group-title="Infantiles",Disney Channel
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/29
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="Infantiles",Disney Junior
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/30
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyjr.png" group-title="Infantiles",Disney Junior Sur
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/743
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyxd.png" group-title="Infantiles",Disney XD
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/31
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/disneyxd.png" group-title="Infantiles",Disney XD Sur
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/744
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/distritocomedia.png" group-title="Entretenimiento",Distrito Comedia
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/32
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/djing.png" group-title="Musica",Djing Ibiza
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/277
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/doraemon.png" group-title="24/7",Doraemon 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/521
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonball.png" group-title="24/7",Dragon Ball 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/425
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballgt.png" group-title="24/7",Dragon Ball GT 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/520
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballsuper.png" group-title="24/7",Dragon Ball Super 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/424
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/dragonballz.png" group-title="24/7",Dragon Ball Z 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/329
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/e.png" group-title="Entretenimiento",E!
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/33
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ecuavisa.png" group-title="Ecuador",Ecuavisa
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/319
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/efektotv.png" group-title="Noticias",Efekto TV
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/275
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/el13argentina.png" group-title="Argentina",El 13 Argentina
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/239
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elchavoanimado.png" group-title="24/7",El Chavo Animado 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/790
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elchavodel8.png" group-title="24/7",El Chavo del 8 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/400
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elcoyote.png" group-title="24/7",El Coyote y el Correcaminos 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/429
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elgalloclaudio.png" group-title="Entretenimiento",El Gallo Claudio 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/845
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elgourmet.png" group-title="Entretenimiento",El Gourmet
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/157
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/gumball.png" group-title="24/7",El Increible Mundo de Gumball 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/791
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elnueveargentina.png" group-title="Argentina",El Nueve
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/772
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elpajaroloco.png" group-title="24/7",El Pajaro Loco 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/525
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elprincipedelrap.png" group-title="24/7",El Principel del Rap 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/430
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/elseniordeloscielos.png" group-title="Entretenimiento",El Señor de los Cielos 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/820
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/eltrecechile.png" group-title="Chile",El Trece
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/765
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Argentina",El Trece
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/767
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Religion",Enlace Juvenil
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/162
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Religion",Enlace TV
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/161
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="Deportes",ESPN
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/34
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="Deportes",ESPN 2
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/35
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn2.png" group-title="Deportes",ESPN 2 MX
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/531
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="Deportes",ESPN Chile
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/842
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espn.png" group-title="Deportes",ESPN MX
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/530
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/espnplus.png" group-title="Deportes",ESPN Plus
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/37
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/estrellatv.png" group-title="Entretenimiento",Estrella TV
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/177
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/eurosport.png" group-title="Deportes",Eurosport
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/39
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ewtn.png" group-title="Religion",EWTN
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/38
-#EXTINF:-1 tvg-logo="" group-title="Peliculas",FM Hot TV
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/731
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/f1.png" group-title="Deportes",Formula 1 TV (F1)
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/192
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fox.png" group-title="Entretenimiento",Fox Sur
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/750
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_life.png" group-title="Entretenimiento",Fox Life Sur
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/746
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes",Fox Sports
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/52
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="Deportes",Fox Sports 2
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/53
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="Deportes",Fox Sports 2 MX
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/528
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="Deportes",Fox Sports 3
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/54
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes",Fox Sports MX
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/527
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes",Fox Sports MX Sur
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/748
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsportspremium.png" group-title="Deportes",Fox Sports Premium
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/512
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports.png" group-title="Deportes",Fox Sports Sur
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/402
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports2.png" group-title="Deportes",Fox Sports Sur 2
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/410
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/foxsports3.png" group-title="Deportes",Fox Sports Sur 3
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/511
-#EXTINF:-1 tvg-logo="" group-title="24/7",Futurama 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/793
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="Entretenimiento",FX
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/42
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fx.png" group-title="Entretenimiento",FX Sur
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/749
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/fxm.png" group-title="Peliculas",FXM
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/43
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/galatv.png" group-title="Mexico",Gala TV
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/56
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/gamavision.png" group-title="Ecuador",Gamavision
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/891
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/gameofthrones.png" group-title="24/7",Game of Thrones 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/515
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",Garfield 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/812
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/glitz.png" group-title="Entretenimiento",Glitz
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/158
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golperu.png" group-title="Deportes",Gol Peru
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/686
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goltv.png" group-title="Deportes",Gol TV
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/287
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goltv.png" group-title="Deportes",Gol TV OP2
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/514
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/golden.png" group-title="Peliculas",Golden
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/57
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/goldenedge.png" group-title="Peliculas",Golden Edge
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/58
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="Cultura",H2
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/61
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/h2.png" group-title="Cultura",H2 Sur
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/760
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="Peliculas",HBO
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/62
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo.png" group-title="Peliculas",HBO (EN)
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/723
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="Peliculas",HBO 2
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/300
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbo2.png" group-title="Peliculas",HBO 2 (EN)
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/724
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hbofamily.png" group-title="Peliculas",HBO Family
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/63
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="Peliculas",HBO Plus
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/64
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboplus.png" group-title="Peliculas",HBO Plus (EN)
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/722
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboxtreme.png" group-title="Peliculas",HBO Xtreme
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/814
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hboxtreme.png" group-title="Peliculas",HBO Xtreme
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/841
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hchhonduras.png" group-title="Honduras",HCH
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/779
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/heyarnold.png" group-title="24/7",Hey Arnold 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/522
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="España",Historia (ES)
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/718
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/history.png" group-title="Cultura",History Channel
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/67
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hittv.png" group-title="Musica",Hit TV
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/201
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/hola.png" group-title="Entretenimiento",Hola TV
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/189
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/htv.png" group-title="Musica",HTV
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/66
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/isat.png" group-title="Peliculas",I.Sat
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/153
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/imagentv.png" group-title="Mexico",Imagen Television
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/341
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/investigationdiscovery.png" group-title="Cultura",Investigation Discovery
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/68
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/johnnybravo.png" group-title="24/7",Johnny Bravo 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/786
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Musica",Juce TV
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/263
-#EXTINF:-1 tvg-logo="" group-title="24/7",La Casa de Papel 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/403
-#EXTINF:-1 tvg-logo="" group-title="Entretenimiento",La Familia PeLuche 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/811
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lahorapico.png" group-title="24/7",La Hora Pico 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/887
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lapanterarosa.png" group-title="24/7",La Pantera Rosa 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/671
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lapequenalulu.png" group-title="24/7",La Pequeña Lulu 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/792
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/larosadeguadalupe.png" group-title="24/7",La Rosa de Guadalupe 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/886
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lasexta.png" group-title="España",La Sexta
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/326
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lavacayelpollito.png" group-title="Entretenimiento",La Vaca y ElPollito 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/809
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/latinatv.png" group-title="Uruguay",Latina TV
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/782
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/letemesalaoscuridad.png" group-title="24/7",Le Temes a la Oscuridad 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/888
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lifetime.png" group-title="Entretenimiento",Lifetime
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/152
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ligadecampeones.png" group-title="Deportes",Liga de Campeones
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/890
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ligadecampeones.png" group-title="Deportes",Liga de Campeones 2
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/893
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/looneytunes.png" group-title="24/7",Looney Tunes 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/524
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/los3chiflados.png" group-title="24/7",Los 3 Chiflados 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/423
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losaniosmaravillosos.png" group-title="Entretenimiento",Los Años Maravillosos 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/810
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospadrinosmagicos.png" group-title="Entretenimiento",Los Padrinos Magicos 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/813
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospicapiedra.png" group-title="24/7",Los Picapiedra 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/669
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospinguinosdemadagascar.png" group-title="24/7",Los Pinguinos de Madagascar 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/794
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lospitufos.png" group-title="24/7",Los Pitufos 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/795
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losreyesdelacolina.png" group-title="24/7",Los Reyes de la Colina 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/796
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossimpsons.png" group-title="24/7",Los Simpson 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/357
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/lossupersonicos.png" group-title="24/7",Los Supersonicos 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/797
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/losvengadoresunidos.png" group-title="Entretenimiento",Los Vengadores Unidos 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/818
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Musica",m2o TV
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/203
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/malcolm.png" group-title="24/7",Malcolm 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/798
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/maschic.png" group-title="Entretenimiento",Más chic
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/180
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/maxsteel.png" group-title="Entretenimiento",Max Steel 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/880
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mega.png" group-title="Chile",Mega
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/766
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mega.png" group-title="Puerto Rico",Mega
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/784
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="España",Mega (ES)
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/352
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Entretenimiento",Miami TV
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/251
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mlb.png" group-title="Deportes",MLB Network
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/293
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/moviemax.png" group-title="Peliculas",Movie Max
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/678
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_comedia.png" group-title="España",Movistar Comedia
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/370
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_deportes.png" group-title="Deportes",Movistar Deportes
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/366
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_deportes2.png" group-title="Deportes",Movistar Deportes 2
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/367
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/movistar_xtra.png" group-title="España",Movistar Xtra
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/372
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mrbean.png" group-title="24/7",Mr. Bean 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/431
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="Entretenimiento",MTV
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/69
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="España",MTV (ES)
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/803
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtvlive.png" group-title="Musica",MTV Live
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/70
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mtv.png" group-title="Entretenimiento",MTV Sur
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/823
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/multimedios.png" group-title="Mexico",Multimedios
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/155
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/multipremier.png" group-title="Peliculas",MultiPremier
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/294
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Musica",Music Now
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/690
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/musictop.png" group-title="Musica",MusicTop
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/691
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/mvs.png" group-title="Noticias",MVS Noticias
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/448
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/naruto.png" group-title="24/7",Naruto 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/523
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeo.png" group-title="Cultura",Nat Geo
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/76
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeokids.png" group-title="Infantiles",Nat Geo Kids
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/412
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/natgeowild.png" group-title="Cultura",Nat Geo Wild
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/77
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nba.png" group-title="Deportes",NBA
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/838
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/neox.png" group-title="España",Neox (ES)
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/353
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nfl.png" group-title="Deportes",NFL Network
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/204
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick.png" group-title="Infantiles",Nick
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/78
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nick.png" group-title="Infantiles",Nick op2
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/645
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickjr.png" group-title="Infantiles",Nick JR
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/79
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickjr.png" group-title="Infantiles",Nick JR op2
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/829
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nicktoons.png" group-title="Infantiles",Nick Toons
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/80
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nickelodeon.png" group-title="Infantiles",Nickelodeon
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/184
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/nova.png" group-title="España",Nova (ES)
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/717
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/onepunchman.png" group-title="24/7",One Punch Man 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/661
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Argentina",ORBE 21
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/242
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/padredefamilia.png" group-title="24/7",Padre de Familia 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/416
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/paramount.png" group-title="Peliculas",Paramount
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/200
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/paramount.png" group-title="Peliculas",Paramount op2
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/647
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/patoaventuras.png" group-title="Entretenimiento",Patoaventuras 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/819
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/patrullacanina.png" group-title="Entretenimiento",Patrulla Canina 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/807
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/peppapig.png" group-title="24/7",Peppa Pig 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/787
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/america_peru.png" group-title="Peru",PERU: América TV
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/304
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Peru",PERU: Antares TV
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/451
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Peru",PERU: BHTV
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/399
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Peru",PERU: La Luz
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/338
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/latinatv.png" group-title="Peru",PERU: Latina
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/317
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Peru",PERU: Plus TV
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/337
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Peru",PERU: RBC
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/220
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/rpp_peru.png" group-title="Peru",PERU: RPP
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/336
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Peru",PERU: TV Peru
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/306
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Peru",PERU: Willax TV
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/334
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pinkyycerebro.png" group-title="24/7",Pinky y Cerebro 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/721
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pocoyo.png" group-title="24/7",Pocoyo 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/799
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pokemon.png" group-title="24/7",Pokemon 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/420
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 1
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/847
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 10
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/856
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 11
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/858
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 12
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/859
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 13
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/860
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 14
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/862
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 15
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/863
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 16
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/864
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 17
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/865
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 18
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/866
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 19
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/861
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 2
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/848
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 20
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/867
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 3
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/849
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 4
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/850
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 5
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/851
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 6
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/852
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/853
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 8
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/854
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ppv.png" group-title="Entretenimiento",PPV 9
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/855
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/prisonbreak.png" group-title="24/7",Prison Break 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/884
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/pxtv.png" group-title="Deportes",PX TV
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/193
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ranma.png" group-title="24/7",Ranma 1/2 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/419
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Mexico",RCG TV Coahuila
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/346
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/rcn.png" group-title="Colombia",RCN
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/390
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/rcnnovelas.png" group-title="Colombia",RCN Novelas
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/279
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Deportes",Real Madrid TV
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/270
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/retromusic.png" group-title="Musica",Retro Music
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/692
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ritmoson.png" group-title="Musica",Ritmoson Latino
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/154
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/rtp.png" group-title="Bolivia",RTP
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/781
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/sakura.png" group-title="24/7",Sakura Card Captor 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/672
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/samuraix.png" group-title="24/7",Samurai X 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/663
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/scoobydoo.png" group-title="24/7",Scooby Doo 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/422
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/showtime.png" group-title="Peliculas",Showtime
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/679
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/smallville.png" group-title="24/7",Smallville 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/673
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/sony.png" group-title="Entretenimiento",Sony
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/145
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/southpark.png" group-title="24/7",South Park 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/674
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/space.png" group-title="Peliculas",Space
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/83
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/space.png" group-title="Peliculas",Space Sur
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/751
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/spiderman.png" group-title="24/7",Spiderman 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/889
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star.png" group-title="Entretenimiento",Star
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/45
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_action.png" group-title="Peliculas",Star
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001 Action
-https://v3.playerlatino.live/stream/m3u8/46
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_cinema.png" group-title="Peliculas",Star
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001 Cinema
-https://v3.playerlatino.live/stream/m3u8/47
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_classics.png" group-title="Peliculas",Star Classics
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/48
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_comedy.png" group-title="Peliculas",Star Comedy
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/150
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_fun.png" group-title="Peliculas",Star Fun
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/49
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_hits.png" group-title="Peliculas",Star Hits
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/51
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_hits.png" group-title="Peliculas",Star Hits Sur
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/747
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_life.png" group-title="Entretenimiento",Star Life
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/50
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_series.png" group-title="Entretenimiento",Star Series
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/303
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/star_series.png" group-title="Entretenimiento",Star Series Sur
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/745
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_cinema.png" group-title="Peliculas",Starz Cinema
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/680
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_comedy.png" group-title="Peliculas",Starz Comedy
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/681
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_encoreaction.png" group-title="Peliculas",Starz Encore Action
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/682
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_encoreblack.png" group-title="Peliculas",Starz Encore Black
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/683
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/starz_encorefamily.png" group-title="Peliculas",Starz Encore Family
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/684
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/studiouniversal.png" group-title="Peliculas",Studio Universal
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/84
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/supercampeones.png" group-title="24/7",Super Campeones 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/432
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/syfy.png" group-title="Peliculas",SyFy
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/151
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/syfy.png" group-title="Peliculas",SyFy Sur
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/758
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tbs.png" group-title="Entretenimiento",TBS Very Funny
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/171
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tc.png" group-title="Entretenimiento",TC Ecuador
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/885
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tcm.png" group-title="Peliculas",TCM
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/85
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teennick.png" group-title="Infantiles",TeenNick
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/882
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Uruguay",Tele
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/778
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleamazonas.png" group-title="Ecuador",TeleAmazonas
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/320
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telefe.png" group-title="Argentina",Telefe
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/771
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/teleformula.png" group-title="Entretenimiento",TeleFórmula
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/182
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telehitmusica.png" group-title="Musica",Telehit
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/91
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telemedellin.png" group-title="Colombia",Telemedellin
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/197
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/telemundo.png" group-title="Entretenimiento",Telemundo
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/92
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/televicentro.png" group-title="Ecuador",Televicentro
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/776
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/thebigbangtheory.png" group-title="24/7",The Big Bang Theory 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/676
-#EXTINF:-1 tvg-logo="" group-title="24/7",The Walking Dead 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/800
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tigosports.png" group-title="Deportes",TigoSports Bolivia
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/764
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tigosports.png" group-title="Deportes",TigoSports Paraguay
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/843
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tiin.png" group-title="Infantiles",Tiin
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/93
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlc.png" group-title="Entretenimiento",TLC
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/87
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tlnovelas.png" group-title="Entretenimiento",Tlnovelas
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/94
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png" group-title="Peliculas",TNT
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/179
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png" group-title="Peliculas",TNT Sur
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/752
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tnt.png" group-title="España",TNT (ES)
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/716
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png" group-title="Entretenimiento",TNT Series
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/90
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntseries.png" group-title="Entretenimiento",TNT Series Sur
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/757
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tntsports.png" group-title="Deportes",TNT Sports
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/509
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tomyjerry.png" group-title="24/7",Tom y Jerry 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/421
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tooncast.png" group-title="Infantiles",Tooncast
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/95
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/trece_colombia.png" group-title="Colombia",Trece
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/774
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/trollhunters.png" group-title="24/7",TrollHunters 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/662
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/trutv.png" group-title="Entretenimiento",TruTV
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/96
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="Deportes",TUDN 
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/698
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="Deportes",TUDN (Pocos Datos)
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/822
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tudn.png" group-title="Deportes",TUDN USA
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/86
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tvcdeportes.png" group-title="Deportes",TVC Deportes
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/837
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tve.png" group-title="España",TVE
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/195
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/twoandhalfmen.png" group-title="24/7",Two And a Half Men 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/675
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/tycsports.png" group-title="Deportes",Tyc Sports
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/274
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/ufc.png" group-title="Deportes",UFC Network
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/97
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/unicable.png" group-title="Entretenimiento",Unicable
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/98
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/universal.png" group-title="Peliculas",Universal
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/137
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/univision.png" group-title="Entretenimiento",Univision
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/99
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/univisiondeportes.png" group-title="Deportes",Univisión Deportes
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/373
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Deportes",Univisión TDN
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/100
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Entretenimiento",Univision Tlnovelas
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/413
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Colombia",Uno
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/775
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/vh1.png" group-title="Musica",VH1
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/101
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/videorola.png" group-title="Musica",Video Rola
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/359
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Musica",Videos: 1Music
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/433
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Musica",Videos: Company Radio TV
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/435
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Musica",Videos: Dream TV
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/439
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/play.png" group-title="Musica",Virgin TV
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/315
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/vtv.png" group-title="Uruguay",VTV Uruaguay
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/708
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/vtv2_chile.png" group-title="Chile",VTV2 Chile
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/321
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/wapa.png" group-title="Puerto Rico",Wapa PR
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/327
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png" group-title="Entretenimiento",Warner Channel
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/102
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/warnerchannel.png" group-title="Entretenimiento",Warner Channel Sur
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/759
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsports.png" group-title="Deportes",Win Sports
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/292
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/winsportsplus.png" group-title="HD",Win Sports +
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/881
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/wwe.png" group-title="Deportes",WWE Network
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/276
-#EXTINF:-1 tvg-logo="http://x.playerlatino.live/yugioh.png" group-title="24/7",Yu-Gi-Oh! 24/7
-#EXTVLCOPT:http-user-agent=Lavf/57.71.001
-https://v3.playerlatino.live/stream/m3u8/664
+#EXTINF:-1 ,DESCARGA VOX PLAYER M3U DESDE PLAYSTORE
+https://dl.dropboxusercontent.com/s/vbbf23iud82xqks/voxplayerm3u.mp4
+#EXTINF:-1,24/ : El Santo
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/126.ts
+
+#EXTINF:-1,24/7 : Aquaman Classic 1967-1970
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/143.ts
+
+#EXTINF:-1,24/7 : AstroBoy 1980 Classic
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/141.ts
+
+#EXTINF:-1,24/7 : Canuto & Canito
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/121.ts
+
+#EXTINF:-1,24/7 : Cine PopCorn 1
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/99.ts
+
+#EXTINF:-1,24/7 : Cine PopCorn 2
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/102.ts
+
+#EXTINF:-1,24/7 : Cine PopCorn 3
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/103.ts
+
+#EXTINF:-1,24/7 : Cine PopCorn 4
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/104.ts
+
+#EXTINF:-1,24/7 : Cine PopCorn 5
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/131.ts
+
+#EXTINF:-1,24/7 : Cine PopCorn 50 Best Films
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/112.ts
+
+#EXTINF:-1,24/7 : Cine PopCorn 6
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/132.ts
+
+#EXTINF:-1,24/7 : Cine PopCorn 7
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/133.ts
+
+#EXTINF:-1,24/7 : Cine PopCorn 8
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/134.ts
+
+#EXTINF:-1,24/7 : Cine PopCorn Bonds
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/113.ts
+
+#EXTINF:-1,24/7 : Cine PopCorn Christmas Movies
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/110.ts
+
+#EXTINF:-1,24/7 : Cine PopCorn DBZ
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/106.ts
+
+#EXTINF:-1,24/7 : Cine PopCorn Looney T.
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/107.ts
+
+#EXTINF:-1,24/7 : Cine PopCorn Max
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/105.ts
+
+#EXTINF:-1,24/7 : Cine PopCorn Nominated F. WJJ
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/109.ts
+
+#EXTINF:-1,24/7 : Cine PopCorn Oscar Winning A.
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/108.ts
+
+#EXTINF:-1,24/7 : Cine PopCorn Saga Collection
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/111.ts
+
+#EXTINF:-1,24/7 : Corre Caminos
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/135.ts
+
+#EXTINF:-1,24/7 : Don Gato y Su Pandilla
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/116.ts
+
+#EXTINF:-1,24/7 : El Avispon Verde
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/148.ts
+
+#EXTINF:-1,24/7 : El Chavo Del 8 A
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/129.ts
+
+#EXTINF:-1,24/7 : EL Gallo Claudio
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/139.ts
+
+#EXTINF:-1,24/7 : El Hombre de la Atlantida
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/142.ts
+
+#EXTINF:-1,24/7 : El Pulpo Manotas
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/118.ts
+
+#EXTINF:-1,24/7 : Hechizada
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/130.ts
+
+#EXTINF:-1,24/7 : Jonny Quest
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/145.ts
+
+#EXTINF:-1,24/7 : Kung Fu - Classic
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/149.ts
+
+#EXTINF:-1,24/7 : La Bruja Tonta
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/123.ts
+
+#EXTINF:-1,24/7 : La Casa de Mickey Mouse HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/114.ts
+
+#EXTINF:-1,24/7 : La Hormiga Atomica
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/122.ts
+
+#EXTINF:-1,24/7 : La Pantera Rosa 1964
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/147.ts
+
+#EXTINF:-1,24/7 : Lindo Pulgoso
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/124.ts
+
+#EXTINF:-1,24/7 : Looney Toons V1
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/138.ts
+
+#EXTINF:-1,24/7 : Los Autos Locos
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/117.ts
+
+#EXTINF:-1,24/7 : Los Osos Montaneses
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/144.ts
+
+#EXTINF:-1,24/7 : Los Picapiedras
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/119.ts
+
+#EXTINF:-1,24/7 : Mi Bella Genio
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/128.ts
+
+#EXTINF:-1,24/7 : PatoAventura HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/115.ts
+
+#EXTINF:-1,24/7 : Pixie & Dixie
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/125.ts
+
+#EXTINF:-1,24/7 : Replay A
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/136.ts
+
+#EXTINF:-1,24/7 : Replay B
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/137.ts
+
+#EXTINF:-1,24/7 : RompePortones
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/127.ts
+
+#EXTINF:-1,24/7 : Scooby Doo 1969 Classic
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/140.ts
+
+#EXTINF:-1,24/7 : Tiro Loco McGraw
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/146.ts
+
+#EXTINF:-1,ARG : AXN HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/178.ts
+
+#EXTINF:-1,BRA : AXN HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/551.ts
+
+#EXTINF:-1,BRA : Cartoon Network HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/552.ts
+
+#EXTINF:-1,BRA : CNN HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/556.ts
+
+#EXTINF:-1,BRA : Discovery Channel HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/555.ts
+
+#EXTINF:-1,BRA : Globo Brasilia HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/554.ts
+
+#EXTINF:-1,BRA : HBO Brasil
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/560.ts
+
+#EXTINF:-1,BRA : History Channel HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/559.ts
+
+#EXTINF:-1,BRA : STB HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/558.ts
+
+#EXTINF:-1,BRA : TV GAZETA HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/557.ts
+
+#EXTINF:-1,BRA : TV GLobo RJ HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/553.ts
+
+#EXTINF:-1,CA : Bloomberg HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/464.ts
+
+#EXTINF:-1,CA : Discovery Velocity HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/401.ts
+
+#EXTINF:-1,CO : Caracol HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/78.ts
+
+#EXTINF:-1,CO : TeleAntioquia HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/495.ts
+
+#EXTINF:-1,COL : Cable Noticias
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/500.ts
+
+#EXTINF:-1,COL : Canal Capital
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/496.ts
+
+#EXTINF:-1,COL : Caracol Internacional
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/14.ts
+
+#EXTINF:-1,COL : NTN 24 News
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/494.ts
+
+#EXTINF:-1,COL : RCN HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/87.ts
+
+#EXTINF:-1,COL : RCN Novelas HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/497.ts
+
+#EXTINF:-1,COL : Señal Colombia
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/502.ts
+
+#EXTINF:-1,COL : TeleCafe HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/501.ts
+
+#EXTINF:-1,COL : TeleCaribe HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/498.ts
+
+#EXTINF:-1,COL : Telemedellin
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/499.ts
+
+#EXTINF:-1,COL : TVAgro
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/47.ts
+
+#EXTINF:-1,DO : Acento TV
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/160.ts
+
+#EXTINF:-1,DO : Antena Latina
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/395.ts
+
+#EXTINF:-1,DO : Canal 25
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/154.ts
+
+#EXTINF:-1,DO : CDN CADENA DE NOTICIAS
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/396.ts
+
+#EXTINF:-1,DO : CERTV 4
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/151.ts
+
+#EXTINF:-1,DO : Color Vision HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/80.ts
+
+#EXTINF:-1,DO : Digital 15
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/392.ts
+
+#EXTINF:-1,DO : Hilando Fino
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/572.ts
+
+#EXTINF:-1,DO : La Opcion TV
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/153.ts
+
+#EXTINF:-1,DO : La Voz de Maria
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/491.ts
+
+#EXTINF:-1,DO : Luna TV HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/2.ts
+
+#EXTINF:-1,DO : Recuerdos TV 
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/156.ts
+
+#EXTINF:-1,DO : RNN Cadena de Noticias
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/155.ts
+
+#EXTINF:-1,DO : Super Canal 33
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/159.ts
+
+#EXTINF:-1,DO : Super TV 55 HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/3.ts
+
+#EXTINF:-1,DO : Teleantillas
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/394.ts
+
+#EXTINF:-1,DO : TeleCentro HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/81.ts
+
+#EXTINF:-1,DO : Telemicro
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/36.ts
+
+#EXTINF:-1,DO : Telemicro Internacional USA
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/79.ts
+
+#EXTINF:-1,DO : Teleradio America
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/571.ts
+
+#EXTINF:-1,DO : Telesistema 11
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/393.ts
+
+#EXTINF:-1,DO : TeleUnion HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/152.ts
+
+#EXTINF:-1,DO : Teleuniverso 29
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/158.ts
+
+#EXTINF:-1,DO : Tin Marin
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/75.ts
+
+#EXTINF:-1,DO : Tu Musica HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/54.ts
+
+#EXTINF:-1,DO : Univision Latinoamerica
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/397.ts
+
+#EXTINF:-1,DO : Z 101 FM TV
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/157.ts
+
+#EXTINF:-1,ECU : Canal Uno
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/529.ts
+
+#EXTINF:-1,ECU : Ecuador TV
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/525.ts
+
+#EXTINF:-1,ECU : Ecuavisa
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/524.ts
+
+#EXTINF:-1,ECU : GamaVision HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/531.ts
+
+#EXTINF:-1,ECU : RTS HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/530.ts
+
+#EXTINF:-1,ECU : TC Television
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/526.ts
+
+#EXTINF:-1,ECU : TeleAmazonas HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/527.ts
+
+#EXTINF:-1,ECU : TVC Televicentro
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/528.ts
+
+#EXTINF:-1,ES : ¡Hola! TV HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/27.ts
+
+#EXTINF:-1,ES : 24h TVE
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/29.ts
+
+#EXTINF:-1,ES : A3Series HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/21.ts
+
+#EXTINF:-1,ES : Antena 3 HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/22.ts
+
+#EXTINF:-1,ES : Axn
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/984.ts
+
+#EXTINF:-1,ES : Canal Cocina HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/28.ts
+
+#EXTINF:-1,ES : De Casa + HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/26.ts
+
+#EXTINF:-1,ES : Caza y Pezca HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/823.ts
+
+#EXTINF:-1,ES : Crimen y Investigacion
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/977.ts
+
+#EXTINF:-1,ES : Divinity HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/16.ts
+
+#EXTINF:-1,ES : Discovery
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/978.ts
+
+#EXTINF:-1,ES : Disney
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/981.ts
+
+#EXTINF:-1,ES : FDF HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/24.ts
+
+#EXTINF:-1,ES : LA 1
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/17.ts
+
+#EXTINF:-1,ES : LA 2
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/15.ts
+
+#EXTINF:-1,ES : La Cuatro HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/18.ts
+
+#EXTINF:-1,ES : La Sexta HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/37.ts
+
+#EXTINF:-1,ES : Natgeo
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/985.ts
+
+#EXTINF:-1,ES : Mega HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/38.ts
+
+#EXTINF:-1,ES : Movistar Acción
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/982.ts
+
+#EXTINF:-1,ES : Movistar Comedia
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/979.ts
+
+#EXTINF:-1,ES : Movistar Drama
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/983.ts
+
+#EXTINF:-1,ES : Movistar Serie
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/980.ts
+
+#EXTINF:-1,ES : Odisea TV
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/31.ts
+
+#EXTINF:-1,ES : TeleCinco HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/19.ts
+
+#EXTINF:-1,ES : Tv Galicia
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/838.ts
+
+#EXTINF:-1,ES : Toros Tv
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/871.ts
+
+#EXTINF:-1,ES : Tnt
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/986.ts
+
+#EXTINF:-1,ES : Tv Viajes Pluto
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/25.ts
+
+#EXTINF:-1,ES : Tve
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/20.ts
+
+#EXTINF:-1,LAT :  Spectrum Noticias NY
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/57.ts
+
+#EXTINF:-1,LAT : A&E HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/187.ts
+
+#EXTINF:-1,LAT : AMC HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/186.ts
+
+#EXTINF:-1,LAT : Animal Planet HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/174.ts
+
+#EXTINF:-1,LAT : Antena 3 Internacional
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/23.ts
+
+#EXTINF:-1,LAT : AXN MX HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/177.ts
+
+#EXTINF:-1,LAT : Baby First HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/390.ts
+
+#EXTINF:-1,LAT : Baby TV HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/391.ts
+
+#EXTINF:-1,LAT : Boomerang HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/386.ts
+
+#EXTINF:-1,LAT : Canal Sony HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/179.ts
+
+#EXTINF:-1,LAT : Cartoon Newtwork HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/381.ts
+
+#EXTINF:-1,LAT : Centro America TV HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/380.ts
+
+#EXTINF:-1,LAT : Cine Canal HD VIP
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/4.ts
+
+#EXTINF:-1,LAT : Cinemax HD VIP
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/55.ts
+
+#EXTINF:-1,LAT : Comedy Central HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/184.ts
+
+#EXTINF:-1,LAT : De Peliculas HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/532.ts
+
+#EXTINF:-1,LAT : Discovery Familia
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/56.ts
+
+#EXTINF:-1,LAT : Discovery Kids HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/388.ts
+
+#EXTINF:-1,LAT : Discovery Science HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/165.ts
+
+#EXTINF:-1,LAT : Disney Channel HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/398.ts
+
+#EXTINF:-1,LAT : Disney Junior HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/399.ts
+
+#EXTINF:-1,LAT : Disney XD HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/400.ts
+
+#EXTINF:-1,LAT : DW LatinoAmerica (W)
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/379.ts
+
+#EXTINF:-1,LAT : E! Entreteiment HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/188.ts
+
+#EXTINF:-1,LAT : El Gourmet HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/189.ts
+
+#EXTINF:-1,LAT : Enlace
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/150.ts
+
+#EXTINF:-1,LAT : Estrellas TV
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/77.ts
+
+#EXTINF:-1,LAT : Forotv HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/541.ts
+
+#EXTINF:-1,LAT : France 24 (W)
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/378.ts
+
+#EXTINF:-1,LAT : Galavision HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/85.ts
+
+#EXTINF:-1,LAT : Golden HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/190.ts
+
+#EXTINF:-1,LAT : H2 History 2 HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/173.ts
+
+#EXTINF:-1,LAT : HBO 2 HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/168.ts
+
+#EXTINF:-1,LAT : HBO Family HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/169.ts
+
+#EXTINF:-1,LAT : HBO HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/167.ts
+
+#EXTINF:-1,LAT : HBO PLUS HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/170.ts
+
+#EXTINF:-1,LAT : HBO POP
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/61.ts
+
+#EXTINF:-1,LAT : HBO Signature HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/171.ts
+
+#EXTINF:-1,LAT : HBO XTREME HD VIP
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/91.ts
+
+#EXTINF:-1,LAT : HispanTV WEB
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/377.ts
+
+#EXTINF:-1,LAT : HITN HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/376.ts
+
+#EXTINF:-1,LAT : Las Estrellas
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/88.ts
+
+#EXTINF:-1,LAT : LifeTime HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/370.ts
+
+#EXTINF:-1,LAT : MEGA TV Miami HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/483.ts
+
+#EXTINF:-1,LAT : MTV 80´S HD VIP
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/373.ts
+
+#EXTINF:-1,LAT : MTV HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/372.ts
+
+#EXTINF:-1,LAT : MTV Hits HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/374.ts
+
+#EXTINF:-1,LAT : MTV LIVE HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/375.ts
+
+#EXTINF:-1,LAT : NatGeo Kids HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/389.ts
+
+#EXTINF:-1,LAT : NatGeo Wild HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/172.ts
+
+#EXTINF:-1,LAT : Nick Jr. HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/385.ts
+
+#EXTINF:-1,LAT : Nickelodeon HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/382.ts
+
+#EXTINF:-1,LAT : Nicktoon HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/383.ts
+
+#EXTINF:-1,LAT : Paramount Channel HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/180.ts
+
+#EXTINF:-1,LAT : Pasiones Pan
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/10.ts
+
+#EXTINF:-1,LAT : Pasiones USA
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/11.ts
+
+#EXTINF:-1,LAT : Space HD VIP
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/182.ts
+
+#EXTINF:-1,LAT : Star Channel HD VIP
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/5.ts
+
+#EXTINF:-1,LAT : Starz Black HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/485.ts
+
+#EXTINF:-1,LAT : Starz Cinema HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/478.ts
+
+#EXTINF:-1,LAT : Starz Edge HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/484.ts
+
+#EXTINF:-1,LAT : Starz Encore Action HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/479.ts
+
+#EXTINF:-1,LAT : Starz Encore Classic HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/482.ts
+
+#EXTINF:-1,LAT : Starz Encore Family HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/481.ts
+
+#EXTINF:-1,LAT : Starz Encore Suspense
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/486.ts
+
+#EXTINF:-1,LAT : Starz Encore Western HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/487.ts
+
+#EXTINF:-1,LAT : Starz HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/480.ts
+
+#EXTINF:-1,LAT : Studio Universal HD VIP
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/163.ts
+
+#EXTINF:-1,LAT : SyFy Channel HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/181.ts
+
+#EXTINF:-1,LAT : TCM
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/183.ts
+
+#EXTINF:-1,LAT : Teen Nick HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/384.ts
+
+#EXTINF:-1,LAT : Telehits HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/542.ts
+
+#EXTINF:-1,LAT : Telemundo Internacional
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/161.ts
+
+#EXTINF:-1,LAT : TLC HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/371.ts
+
+#EXTINF:-1,LAT : TNT HD VIP
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/1.ts
+
+#EXTINF:-1,LAT : Tooncast HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/387.ts
+
+#EXTINF:-1,LAT : TruTV HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/185.ts
+
+#EXTINF:-1,LAT : TUDN TRANSCODER ORIGINAL HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/120.ts
+
+#EXTINF:-1,LAT : Universal Channels TV HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/175.ts
+
+#EXTINF:-1,LAT : Univision Novelas HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/86.ts
+
+#EXTINF:-1,LAT : Warner Channel HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/176.ts
+
+#EXTINF:-1,LAT | Discovery Channel MX VIP
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/92.ts
+
+#EXTINF:-1,LAT | Discovery Theather HD VIP
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/166.ts
+
+#EXTINF:-1,LAT | Discovery Turbo HD VIP
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/76.ts
+
+#EXTINF:-1,LAT | Discovery World HD VIP
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/164.ts
+
+#EXTINF:-1,Lib : Aghani HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/72.ts
+
+#EXTINF:-1,LIB : Al-Manar
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/62.ts
+
+#EXTINF:-1,LIB : Alzahra TV
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/63.ts
+
+#EXTINF:-1,LIB : LBCI HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/67.ts
+
+#EXTINF:-1,LIB : MTV
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/70.ts
+
+#EXTINF:-1,LIB : Noursat
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/69.ts
+
+#EXTINF:-1,LIB : OTV HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/68.ts
+
+#EXTINF:-1,LIB : Sky News
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/64.ts
+
+#EXTINF:-1,LIB : TL LIBAN
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/65.ts
+
+#EXTINF:-1,MEX : Az Cinema HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/539.ts
+
+#EXTINF:-1,MEX : AZ Clic! HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/538.ts
+
+#EXTINF:-1,MEX : AZ Corazon HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/535.ts
+
+#EXTINF:-1,MEX : AZ Mundo HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/536.ts
+
+#EXTINF:-1,MEX : Azteca 7 HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/534.ts
+
+#EXTINF:-1,MEX : Azteca Uno HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/537.ts
+
+#EXTINF:-1,MEX : Canal 5 HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/30.ts
+
+#EXTINF:-1,MEX : Canal Nu9ve HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/543.ts
+
+#EXTINF:-1,MEX : TL Novelas
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/533.ts
+
+#EXTINF:-1,MEX : Distrito Comedia
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/540.ts
+
+#EXTINF:-1,PAN : ECO TV HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/550.ts
+
+#EXTINF:-1,PAN : RPC 4 HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/545.ts
+
+#EXTINF:-1,PAN : SerTV HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/549.ts
+
+#EXTINF:-1,PAN : Telemetro 13
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/546.ts
+
+#EXTINF:-1,PAN : TvMAX 9 HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/547.ts
+
+#EXTINF:-1,PAN : TVN HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/544.ts
+
+#EXTINF:-1,PAN : NEX TV 21
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/548.ts
+
+#EXTINF:-1,PE : America TV
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/561.ts
+
+#EXTINF:-1,PE : ATV HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/568.ts
+
+#EXTINF:-1,PE : BHTV Peru
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/567.ts
+
+#EXTINF:-1,PE : Canal N
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/569.ts
+
+#EXTINF:-1,PE : Frecuencia Latina
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/563.ts
+
+#EXTINF:-1,PE : IPE TV
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/565.ts
+
+#EXTINF:-1,PE : Panamerica
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/562.ts
+
+#EXTINF:-1,PE : Peru Magico
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/564.ts
+
+#EXTINF:-1,PE : RPP HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/570.ts
+
+#EXTINF:-1,PE : TV PERU
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/566.ts
+
+#EXTINF:-1,PR : MEga TV
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/490.ts
+
+#EXTINF:-1,PR : TeleIslas
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/46.ts
+
+#EXTINF:-1,PR : Telemundo Puerto Rico HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/13.ts
+
+#EXTINF:-1,PR : Univision Puerto Rico HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/39.ts
+
+#EXTINF:-1,PR : Wapa America
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/12.ts
+
+#EXTINF:-1,PR : Wapa TV
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/489.ts
+
+#EXTINF:-1,REL : EWTN LATINO (W)
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/492.ts
+
+#EXTINF:-1,US : 69 WFMZ Philadelphia HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/407.ts
+
+#EXTINF:-1,US : A&E HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/446.ts
+
+#EXTINF:-1,US : ABC 7 HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/49.ts
+
+#EXTINF:-1,US : ABC Miami HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/53.ts
+
+#EXTINF:-1,US : ABC NEWS HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/60.ts
+
+#EXTINF:-1,US : AMC HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/429.ts
+
+#EXTINF:-1,US : America TeVe
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/488.ts
+
+#EXTINF:-1,US : Animal Planet HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/457.ts
+
+#EXTINF:-1,US : Baby First HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/426.ts
+
+#EXTINF:-1,US : Baby TV HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/425.ts
+
+#EXTINF:-1,US : BET HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/437.ts
+
+#EXTINF:-1,US : Boomerang HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/420.ts
+
+#EXTINF:-1,US : Cartoon Network HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/414.ts
+
+#EXTINF:-1,US : CBN HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/71.ts
+
+#EXTINF:-1,US : CBS 12 WPRI Providence HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/58.ts
+
+#EXTINF:-1,US : CBS 2 NY HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/48.ts
+
+#EXTINF:-1,US : CBS NEWS NY
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/66.ts
+
+#EXTINF:-1,US : CNBC HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/404.ts
+
+#EXTINF:-1,US : CNN HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/35.ts
+
+#EXTINF:-1,US : Comedy Central HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/436.ts
+
+#EXTINF:-1,US : Cooking Channel HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/441.ts
+
+#EXTINF:-1,US : Discovery Channels HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/452.ts
+
+#EXTINF:-1,US : Discovery Family HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/454.ts
+
+#EXTINF:-1,US : Discovery Investigation HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/453.ts
+
+#EXTINF:-1,US : Discovery Science HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/455.ts
+
+#EXTINF:-1,US : Discovery Turbo UK
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/456.ts
+
+#EXTINF:-1,US : Disney Channel HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/422.ts
+
+#EXTINF:-1,US : Disney Jr. HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/423.ts
+
+#EXTINF:-1,US : Disney XD HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/424.ts
+
+#EXTINF:-1,US : Diy Network HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/411.ts
+
+#EXTINF:-1,US : E! Entertaiment HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/431.ts
+
+#EXTINF:-1,US : EWTN ENGLISH
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/493.ts
+
+#EXTINF:-1,US : Food Network HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/7.ts
+
+#EXTINF:-1,US : Fox 5 NY HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/34.ts
+
+#EXTINF:-1,US : Fox Business Network HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/450.ts
+
+#EXTINF:-1,US : Fox News HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/410.ts
+
+#EXTINF:-1,US : FreeForm HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/448.ts
+
+#EXTINF:-1,US : FX HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/438.ts
+
+#EXTINF:-1,US : FXM HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/439.ts
+
+#EXTINF:-1,US : Game Show Network HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/449.ts
+
+#EXTINF:-1,US : HallMark Drama HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/463.ts
+
+#EXTINF:-1,US : HallMark HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/461.ts
+
+#EXTINF:-1,US : Hallmark Movies & Mist. HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/462.ts
+
+#EXTINF:-1,US : HBO 2 HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/465.ts
+
+#EXTINF:-1,US : HBO Comedy HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/467.ts
+
+#EXTINF:-1,US : HBO Family HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/466.ts
+
+#EXTINF:-1,US : HBO HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/8.ts
+
+#EXTINF:-1,US : HBO ZONE HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/9.ts
+
+#EXTINF:-1,US : HGTV HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/51.ts
+
+#EXTINF:-1,US : History Channel HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/458.ts
+
+#EXTINF:-1,US : Ion Television
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/74.ts
+
+#EXTINF:-1,US : LifeTime HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/434.ts
+
+#EXTINF:-1,US : MSNBC HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/405.ts
+
+#EXTINF:-1,US : MTV 2 HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/444.ts
+
+#EXTINF:-1,US : MTV Classic HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/443.ts
+
+#EXTINF:-1,US : MTV HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/442.ts
+
+#EXTINF:-1,US : Nasa TV
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/162.ts
+
+#EXTINF:-1,US : NatGeo HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/459.ts
+
+#EXTINF:-1,US : NatGeo Wild HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/460.ts
+
+#EXTINF:-1,US : NBC 4 NY HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/52.ts
+
+#EXTINF:-1,US : News 12 Bronx
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/100.ts
+
+#EXTINF:-1,US : News 12 Long Island HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/413.ts
+
+#EXTINF:-1,US : News 12 New Jersey HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/59.ts
+
+#EXTINF:-1,US : Nick Jr HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/417.ts
+
+#EXTINF:-1,US : Nickelodeon HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/416.ts
+
+#EXTINF:-1,US : Nicktoon HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/419.ts
+
+#EXTINF:-1,US : One American News Network HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/403.ts
+
+#EXTINF:-1,US : Oprah Winfrey Network HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/427.ts
+
+#EXTINF:-1,US : Oxygen Channel HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/433.ts
+
+#EXTINF:-1,US : Pay-Per-View ( PPV ) Event 1
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/94.ts
+
+#EXTINF:-1,US : Pay-Per-View ( PPV ) Event 2
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/95.ts
+
+#EXTINF:-1,US : Pay-Per-View ( PPV ) Event 3
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/96.ts
+
+#EXTINF:-1,US : Pay-Per-View ( PPV ) Event 4
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/97.ts
+
+#EXTINF:-1,US : Pay-Per-View ( PPV ) Event 5
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/98.ts
+
+#EXTINF:-1,US : PBS Kids HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/421.ts
+
+#EXTINF:-1,US : ShowTime Beyond HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/523.ts
+
+#EXTINF:-1,US : ShowTime East HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/101.ts
+
+#EXTINF:-1,US : ShowTime Extreme HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/521.ts
+
+#EXTINF:-1,US : ShowTime Family Zone HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/520.ts
+
+#EXTINF:-1,US : ShowTime Next HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/519.ts
+
+#EXTINF:-1,US : ShowTime ShowCase HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/522.ts
+
+#EXTINF:-1,US : ShowTime West HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/517.ts
+
+#EXTINF:-1,US : ShowTime Women HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/518.ts
+
+#EXTINF:-1,US : Spectrum News NY1 HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/93.ts
+
+#EXTINF:-1,US : Starz Action HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/469.ts
+
+#EXTINF:-1,US : Starz Cinema HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/477.ts
+
+#EXTINF:-1,US : Starz Comedy HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/476.ts
+
+#EXTINF:-1,US : Starz Edge HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/470.ts
+
+#EXTINF:-1,US : Starz Encore Classic HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/475.ts
+
+#EXTINF:-1,US : Starz Encore Family HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/471.ts
+
+#EXTINF:-1,US : Starz Encore Suspense HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/472.ts
+
+#EXTINF:-1,US : Starz Encore Westerns HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/473.ts
+
+#EXTINF:-1,US : Starz HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/468.ts
+
+#EXTINF:-1,US : Starz In Black HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/474.ts
+
+#EXTINF:-1,US : Sundance HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/412.ts
+
+#EXTINF:-1,US : Tarima HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/73.ts
+
+#EXTINF:-1,US : TBS HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/6.ts
+
+#EXTINF:-1,US : TCM HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/428.ts
+
+#EXTINF:-1,US : Teen Nick HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/418.ts
+
+#EXTINF:-1,US : Telemundo 47 HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/32.ts
+
+#EXTINF:-1,US : Telemundo 51
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/84.ts
+
+#EXTINF:-1,US : Telemundo Atlanta HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/42.ts
+
+#EXTINF:-1,US : Telemundo HD Boston HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/82.ts
+
+#EXTINF:-1,US : Telemundo Orlando HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/43.ts
+
+#EXTINF:-1,US : Telemundo Philadelphia HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/83.ts
+
+#EXTINF:-1,US : Telemundo Rodhe Island HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/44.ts
+
+#EXTINF:-1,US : Telemundo Washington HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/41.ts
+
+#EXTINF:-1,US : The CW HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/430.ts
+
+#EXTINF:-1,US : TLC HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/50.ts
+
+#EXTINF:-1,US : Travel Channel HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/447.ts
+
+#EXTINF:-1,US : Tru TV HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/435.ts
+
+#EXTINF:-1,US : TV LAND HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/451.ts
+
+#EXTINF:-1,US : Unimas HD NY
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/45.ts
+
+#EXTINF:-1,US : Universal Kids HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/415.ts
+
+#EXTINF:-1,US : Univision 23 Miami HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/40.ts
+
+#EXTINF:-1,US : Univision 41 HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/33.ts
+
+#EXTINF:-1,US : USA Network HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/90.ts
+
+#EXTINF:-1,US : VH1 HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/445.ts
+
+#EXTINF:-1,US : WETV HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/409.ts
+
+#EXTINF:-1,US : WRAL-5 TV NBC
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/406.ts
+
+#EXTINF:-1,US : MY 9 WWOR NY
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/402.ts
+
+#EXTINF:-1,US : NBC 10 Rodhe Island (WJAR)
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/89.ts
+
+#EXTINF:-1,US : SyFy Channel HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/432.ts
+
+#EXTINF:-1,US : WFTV Orlando HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/408.ts
+
+#EXTINF:-1,VEN : EVtv
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/574.ts
+
+#EXTINF:-1,VEN : TeleSur
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/573.ts
+
+#EXTINF:-1,VEN : TV Venezuela
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/575.ts
+
+#EXTINF:-1,VEN : Venevision
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/576.ts
+
+
+#EXTINF:-1 ,Barca Tv
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/827.ts
+#EXTINF:-1 ,Caza y Pezca
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/823.ts
+#EXTINF:-1 ,Claro Sports 1
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/794.ts
+#EXTINF:-1 ,Claro Sports 2
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/795.ts
+#EXTINF:-1 ,Combate
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/807.ts
+#EXTINF:-1 ,Dazn 1
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/781.ts
+#EXTINF:-1 ,Dazn 2
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/782.ts
+#EXTINF:-1 ,Directv 1 EC
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/1032.ts
+#EXTINF:-1 ,Directv 2 EC
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/850.ts
+#EXTINF:-1 ,Directv Sports 1
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/791.ts
+#EXTINF:-1 ,Directv Sports 2
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/792.ts
+#EXTINF:-1 ,Directv Sports+
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/793.ts
+#EXTINF:-1 ,ECDF
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/804.ts
+#EXTINF:-1 ,Espn 1
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/718.ts
+#EXTINF:-1 ,Espn 1 MX
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/780.ts
+#EXTINF:-1 ,Espn 2
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/719.ts
+#EXTINF:-1 ,Espn 2 MX
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/796.ts
+#EXTINF:-1 ,Espn 3
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/720.ts
+#EXTINF:-1 ,Espn 3 MX
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/797.ts
+#EXTINF:-1 ,Espn Brasil
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/809.ts
+#EXTINF:-1 ,Espn Premium
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/721.ts
+#EXTINF:-1 ,Eurosports 1
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/825.ts
+#EXTINF:-1 ,Eurosports 2
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/826.ts
+#EXTINF:-1 ,Fox Sports 1
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/750.ts
+#EXTINF:-1 ,Fox Sports 1 Brasil
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/810.ts
+#EXTINF:-1 ,Fox Sports 1 MX
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/799.ts
+#EXTINF:-1 ,Fox Sports 2
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/716.ts
+#EXTINF:-1 ,Fox Sports 2 Brasil
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/142.ts
+#EXTINF:-1 ,Fox Sports 2 MX
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/800.ts
+#EXTINF:-1 ,Fox Sports 3
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/717.ts
+#EXTINF:-1 ,Fox Sports 3 MX
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/801.ts
+#EXTINF:-1 ,Fox Sports Premium
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/802.ts
+#EXTINF:-1 ,Gol Peru
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/816.ts
+#EXTINF:-1 ,Movistar Deportes
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/817.ts
+#EXTINF:-1 ,NFL
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/749.ts
+#EXTINF:-1 ,Real Madrid
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/828.ts
+#EXTINF:-1 ,Teledeporte
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/824.ts
+#EXTINF:-1 ,Tigo Sports
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/814.ts
+#EXTINF:-1 ,Tigo Sports CR
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/819.ts
+#EXTINF:-1 ,TNT Sports
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/813.ts
+#EXTINF:-1 ,TNT Sports CH
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/820.ts
+#EXTINF:-1 ,TUDN
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/120.ts
+#EXTINF:-1 ,TyC Sports
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/812.ts
+#EXTINF:-1 ,Win Sports
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/790.ts
+#EXTINF:-1 ,Win Sports+
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/789.ts
+#EXTINF:-1,VEN : Venevision Plus ( Ve Plus )
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/577.ts
+
+
+
+#EXTINF:-1,XXX : Babes Channel WJJ HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/510.ts
+
+#EXTINF:-1,XXX : Brazzers HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/506.ts
+
+#EXTINF:-1,XXX : Casting Porn Channel WJJ HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/512.ts
+
+#EXTINF:-1,XXX : Fap TV Lesbian HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/507.ts
+
+#EXTINF:-1,XXX : Fap TV Parady HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/508.ts
+
+#EXTINF:-1,XXX : Nubiles Porn Channel WJJ HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/516.ts
+
+#EXTINF:-1,XXX : Penthouse Gold HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/504.ts
+
+#EXTINF:-1,XXX : PlayBoy Caribe HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/503.ts
+
+#EXTINF:-1,XXX : Playboy Tv HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/505.ts
+
+#EXTINF:-1,XXX : Reality King WJJ HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/513.ts
+
+#EXTINF:-1,XXX : SexMex HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/511.ts
+
+#EXTINF:-1,XXX : Tushy Porn WJJ HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/514.ts
+
+#EXTINF:-1,XXX | Playboy Plus HD
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/509.ts
+
+#EXTINF:-1,XXX | Venus TV
+#EXTVLCOPT:http-user-agent=SyS1stemAp0
+http://s2.smartersapp.net:80/US2474KMoV/PA4K247SeR/515.ts
